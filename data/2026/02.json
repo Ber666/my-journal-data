@@ -107,6 +107,17 @@
           "planned": true,
           "createdAt": "2026-02-22T07:14:06.287Z",
           "linkedTaskId": null
+        },
+        {
+          "id": "tmlxmb6ytddj8v",
+          "text": "Agent PR",
+          "scheduledTime": "00:00",
+          "expectedTime": "2h",
+          "progress": "done",
+          "comment": "",
+          "planned": false,
+          "linkedTaskId": "tmlxeniwu0xalq",
+          "createdAt": "2026-02-22T10:41:36.773Z"
         }
       ],
       "work": "",
@@ -123,7 +134,7 @@
         "notes": ""
       },
       "freeform": "Good job! 开始意识到自己熬夜是因为情绪问题（没有深度工作），然后在高效地工作下结束一天。",
-      "updatedAt": "2026-02-22T10:36:58.639Z"
+      "updatedAt": "2026-02-22T10:42:30.924Z"
     }
   }
 }
