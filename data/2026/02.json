@@ -24,7 +24,7 @@
           "createdAt": "2026-02-22T06:27:57.710Z"
         }
       ],
-      "work": "",
+      "work": "Planning for the next 3 days (Sunday, Monday)\n- OpenAI interview (24h)\n- Agent (10h)\n- CocoaBench (5h)\n- Leetcode (2h)\n- Other interviews (Bytedance, XAI? Humans&)",
       "sleep": {
         "bedTime": "",
         "wakeTime": "",
@@ -32,13 +32,13 @@
         "comment": ""
       },
       "exercise": [],
-      "energy": 0,
+      "energy": 8,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 7,
+        "notes": "Felt fully recovered from the disease. Realized I lost 9 pounds of weights for the past month..?\nAfter reflection, felt energetic about life and career planning. "
       },
       "freeform": "",
-      "updatedAt": "2026-02-22T06:41:06.252Z"
+      "updatedAt": "2026-02-22T06:54:22.185Z"
     }
   }
 }
