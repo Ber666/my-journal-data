@@ -39,6 +39,55 @@
       },
       "freeform": "",
       "updatedAt": "2026-02-22T07:05:22.294Z"
+    },
+    "2026-02-23": {
+      "tasks": [
+        {
+          "id": "tmlxemyvlt3a20",
+          "text": "Exercise",
+          "scheduledTime": "09:30",
+          "expectedTime": "45m",
+          "progress": "not-started",
+          "comment": "",
+          "planned": false,
+          "createdAt": "2026-02-22T07:06:49.233Z"
+        },
+        {
+          "id": "tmlxeniwu0xalq",
+          "text": "Agent PR",
+          "scheduledTime": "08:30",
+          "expectedTime": "1h",
+          "progress": "not-started",
+          "comment": "",
+          "planned": false,
+          "createdAt": "2026-02-22T07:07:15.198Z"
+        },
+        {
+          "id": "tmlxepvbgmo6cj",
+          "text": "CS336 Assignment 1",
+          "scheduledTime": "10:30",
+          "expectedTime": "90min",
+          "progress": "not-started",
+          "comment": "",
+          "planned": false,
+          "createdAt": "2026-02-22T07:09:04.588Z"
+        }
+      ],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-02-22T07:09:22.990Z"
     }
   }
 }
