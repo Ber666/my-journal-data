@@ -64,13 +64,43 @@
         },
         {
           "id": "tmlxepvbgmo6cj",
-          "text": "CS336 Assignment 1",
+          "text": "CS336 Assignment 1 (Part 1)",
           "scheduledTime": "10:30",
           "expectedTime": "90min",
           "progress": "not-started",
           "comment": "",
           "planned": false,
           "createdAt": "2026-02-22T07:09:04.588Z"
+        },
+        {
+          "id": "tmlxeuo9s2z8x9",
+          "text": "Leetcode",
+          "scheduledTime": "19:30",
+          "expectedTime": "2h",
+          "progress": "not-started",
+          "comment": "",
+          "planned": false,
+          "createdAt": "2026-02-22T07:12:48.736Z"
+        },
+        {
+          "id": "tmlxeux1p607c3",
+          "text": "CS336 Assignment 1 (Part 2)",
+          "scheduledTime": "13:30",
+          "expectedTime": "3h",
+          "progress": "not-started",
+          "comment": "",
+          "planned": false,
+          "createdAt": "2026-02-22T07:13:00.109Z"
+        },
+        {
+          "id": "tmlxewc3z5vily",
+          "text": "Math problem",
+          "scheduledTime": "17:30",
+          "expectedTime": "2h",
+          "progress": "not-started",
+          "comment": "Comprehensive review of backpropagation, including the interview question",
+          "planned": false,
+          "createdAt": "2026-02-22T07:14:06.287Z"
         }
       ],
       "work": "",
@@ -87,7 +117,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-22T07:09:22.990Z"
+      "updatedAt": "2026-02-22T07:14:13.368Z"
     }
   }
 }
