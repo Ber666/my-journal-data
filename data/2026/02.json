@@ -74,7 +74,7 @@
           "text": "Agent PR",
           "scheduledTime": "00:00",
           "expectedTime": "2h",
-          "progress": "half-done",
+          "progress": "done",
           "comment": "",
           "planned": false,
           "linkedTaskId": "tmlxeniwu0xalq",
@@ -119,7 +119,7 @@
           "scheduledTime": "13:30",
           "expectedTime": "1h15m",
           "progress": "done",
-          "comment": "Found SGLang OpenAI API doesn't support token id, and RNJ-1 cannot produce the required JSON output (the JSON value is in single `'`, which can't be parsd).\n\nWorking on adding a `MiniSweAgent` class.",
+          "comment": "Found SGLang OpenAI API doesn't support token id ([ref](https://github.com/sgl-project/sglang/issues/18378)), and RNJ-1 cannot produce the required JSON output (the JSON value is in single `'`, which can't be parsd).\n\nWorking on adding a `MiniSweAgent` class.",
           "planned": false,
           "linkedTaskId": "tmlxeniwu0xalq",
           "createdAt": "2026-02-22T22:57:27.411Z"
@@ -139,7 +139,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-22T22:57:34.126Z",
+      "updatedAt": "2026-02-22T23:44:32.470Z",
       "shiftReason": ""
     },
     "2026-02-23": {
