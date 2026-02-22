@@ -9,7 +9,7 @@
           "scheduledTime": "17:45",
           "expectedTime": "30m",
           "progress": "done",
-          "comment": "Listened to podcast from [Eric Zelikman](https://www.youtube.com/watch?v=Oh0oQnKn9dw).\n\n- **Vision**: AI should help people to live up to their potential; It should collaborate with many people.\n\nConnecting to my research\n\n- To build a personalized agent, it must accumulate memory. Future direction: How to accumulate memory into parameters? The properties of context/parameter are very different. An example: I talked to AI about wedding planning, then asked about shopping, the agent should memorize the timeline. Can we achieve this with parametrized memory? A starting point: can we internalize the Claude skills from SkillBench or whatever?\n\n- Operating GUIs is also a way for human-machine interaction.\n\n- [Personalized Memory](https://arxiv.org/pdf/2602.16173)",
+          "comment": "Listened to podcast from [Eric Zelikman](https://www.youtube.com/watch?v=Oh0oQnKn9dw).\n\n- **Vision**: AI should help people to live up to their potential; It should collaborate with many people.\n\nConnecting to my research\n\n- To build a personalized agent, it must accumulate memory. Future direction: How to accumulate memory into parameters? The properties of context/parameter are very different. An example: I talked to AI about wedding planning, then asked about shopping, the agent should memorize the timeline. Can we achieve this with parametrized memory? A starting point: can we internalize the Claude skills from SkillBench or whatever?\n\n- Operating GUIs is also a way for human-machine interaction.\n\n- [Personalized Memory](https://arxiv.org/pdf/2602.16173)\n\n- [Long-horizon agent](https://metr.org/blog/2026-1-29-time-horizon-1-1/)",
           "planned": false,
           "createdAt": "2026-02-22T05:52:34.803Z"
         },
@@ -37,8 +37,8 @@
         "mood": 7,
         "notes": "Felt fully recovered from the disease. Realized I lost 9 pounds of weight for the past month..?\nAfter reflection, I felt energetic about life and career planning. "
       },
-      "freeform": "",
-      "updatedAt": "2026-02-22T07:25:56.233Z"
+      "freeform": "今天的感悟：未来的机会还很多（包括humans&，包括yuandong的团队），只要调整自己的状态，经常反思，接受新的input（今天看的Eric的视频很有insight），让自己在正确的轨道上努力，做好自己能做的就好，不用额外焦虑。\n\n经常被distract，感觉脑子里想的事情很多，但是没有deep focus的时间，感到焦虑。睡前想认真工作一段，开始整理PR（明天的工作），目标1点之前睡觉。",
+      "updatedAt": "2026-02-22T10:20:21.837Z"
     },
     "2026-02-23": {
       "tasks": [
@@ -49,8 +49,9 @@
           "expectedTime": "45m",
           "progress": "not-started",
           "comment": "",
-          "planned": false,
-          "createdAt": "2026-02-22T07:06:49.233Z"
+          "planned": true,
+          "createdAt": "2026-02-22T07:06:49.233Z",
+          "linkedTaskId": null
         },
         {
           "id": "tmlxeniwu0xalq",
@@ -58,9 +59,10 @@
           "scheduledTime": "08:30",
           "expectedTime": "1h",
           "progress": "not-started",
-          "comment": "",
-          "planned": false,
-          "createdAt": "2026-02-22T07:07:15.198Z"
+          "comment": "Actually takes me 12:00 - 2:00\n\n**Goal**: integrate harbor for miles agent training\n\nBy [this commit](https://github.com/MBZUAI-IFM/RL360/commit/28d7b364554027eecf92202b062fee10a49665af), we can run the agent training, but it doesn't make use of many harbor features.\n\nAdded a README to describe the code structure.\n\nNow working on integrating `harbor.job`, realizing MiniSweAgent is not supported to be run locally. Now claude code is working.",
+          "planned": true,
+          "createdAt": "2026-02-22T07:07:15.198Z",
+          "linkedTaskId": null
         },
         {
           "id": "tmlxepvbgmo6cj",
@@ -69,8 +71,9 @@
           "expectedTime": "90min",
           "progress": "not-started",
           "comment": "",
-          "planned": false,
-          "createdAt": "2026-02-22T07:09:04.588Z"
+          "planned": true,
+          "createdAt": "2026-02-22T07:09:04.588Z",
+          "linkedTaskId": null
         },
         {
           "id": "tmlxeuo9s2z8x9",
@@ -79,8 +82,9 @@
           "expectedTime": "2h",
           "progress": "not-started",
           "comment": "",
-          "planned": false,
-          "createdAt": "2026-02-22T07:12:48.736Z"
+          "planned": true,
+          "createdAt": "2026-02-22T07:12:48.736Z",
+          "linkedTaskId": null
         },
         {
           "id": "tmlxeux1p607c3",
@@ -89,8 +93,9 @@
           "expectedTime": "3h",
           "progress": "not-started",
           "comment": "",
-          "planned": false,
-          "createdAt": "2026-02-22T07:13:00.109Z"
+          "planned": true,
+          "createdAt": "2026-02-22T07:13:00.109Z",
+          "linkedTaskId": null
         },
         {
           "id": "tmlxewc3z5vily",
@@ -99,8 +104,9 @@
           "expectedTime": "2h",
           "progress": "not-started",
           "comment": "Comprehensive review of backpropagation, including the interview question",
-          "planned": false,
-          "createdAt": "2026-02-22T07:14:06.287Z"
+          "planned": true,
+          "createdAt": "2026-02-22T07:14:06.287Z",
+          "linkedTaskId": null
         }
       ],
       "work": "",
@@ -116,8 +122,8 @@
         "mood": 0,
         "notes": ""
       },
-      "freeform": "",
-      "updatedAt": "2026-02-22T07:14:13.368Z"
+      "freeform": "Good job! 开始意识到自己熬夜是因为情绪问题（没有深度工作），然后在高效地工作下结束一天。",
+      "updatedAt": "2026-02-22T10:36:58.639Z"
     }
   }
 }
