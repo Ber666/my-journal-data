@@ -74,10 +74,10 @@
           "text": "Agent PR",
           "scheduledTime": "00:00",
           "expectedTime": "2h",
-          "progress": "done",
+          "progress": "half-done",
           "comment": "",
           "planned": false,
-          "linkedTaskId": null,
+          "linkedTaskId": "tmlxeniwu0xalq",
           "createdAt": "2026-02-22T10:41:36.773Z"
         }
       ],
@@ -95,7 +95,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-22T10:43:44.900Z",
+      "updatedAt": "2026-02-22T10:52:06.086Z",
       "shiftReason": ""
     },
     "2026-02-23": {
