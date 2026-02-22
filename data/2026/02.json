@@ -6,10 +6,10 @@
         {
           "id": "tmlxbzhtfw4032",
           "text": "Research Humans&",
-          "scheduledTime": null,
+          "scheduledTime": "18:00",
           "expectedTime": "30m",
           "progress": "done",
-          "comment": "Listened to https://www.youtube.com/watch?v=Oh0oQnKn9dw",
+          "comment": "Listened to podcast from [Eric Zelikman](https://www.youtube.com/watch?v=Oh0oQnKn9dw).\n\n- **Vision**: AI should help people to live up to their potential; It should collaborate with many people.\n\nConnecting to my research\n\n- To build a personalized agent, it must accumulate memory. Future direction: How to accumulate memory into parameters? The properties of context/parameter are very different. An example: I talked to AI about wedding planning, then asked about shopping, the agent should memorize the timeline. Can we achieve this with parametrized memory? A starting point: can we internalize the Claude skills from SkillBench or whatever?\n\n- Operating GUIs is also a way for human-machine interaction.",
           "planned": false,
           "createdAt": "2026-02-22T05:52:34.803Z"
         }
@@ -28,7 +28,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-22T05:52:34.803Z"
+      "updatedAt": "2026-02-22T06:04:10.338Z"
     }
   }
 }
