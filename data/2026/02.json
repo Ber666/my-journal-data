@@ -88,8 +88,30 @@
           "progress": "done",
           "comment": "Check logs and messages. Out of budget. Still not fully tested on Modal.",
           "planned": false,
-          "linkedTaskId": null,
+          "linkedTaskId": "tmlxeniwu0xalq",
           "createdAt": "2026-02-22T19:50:26.189Z"
+        },
+        {
+          "id": "tmlyb5dmunq01v",
+          "text": "Agent PR (Part 3)",
+          "scheduledTime": "12:30",
+          "expectedTime": "30m",
+          "progress": "done",
+          "comment": "",
+          "planned": false,
+          "linkedTaskId": "tmlxeniwu0xalq",
+          "createdAt": "2026-02-22T22:16:55.878Z"
+        },
+        {
+          "id": "tmlyb6d5w1j673",
+          "text": "CS 336 (Assignment 1)",
+          "scheduledTime": "14:15",
+          "expectedTime": "1h45m",
+          "progress": "not-started",
+          "comment": "",
+          "planned": false,
+          "linkedTaskId": "tmlxepvbgmo6cj",
+          "createdAt": "2026-02-22T22:17:41.924Z"
         }
       ],
       "work": "",
@@ -106,7 +128,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-22T20:06:31.523Z",
+      "updatedAt": "2026-02-22T22:17:41.924Z",
       "shiftReason": ""
     },
     "2026-02-23": {
