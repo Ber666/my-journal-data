@@ -105,13 +105,24 @@
         {
           "id": "tmlyb6d5w1j673",
           "text": "CS 336 (Assignment 1)",
-          "scheduledTime": "14:15",
+          "scheduledTime": "14:45",
           "expectedTime": "1h45m",
           "progress": "not-started",
           "comment": "",
           "planned": false,
           "linkedTaskId": "tmlxepvbgmo6cj",
           "createdAt": "2026-02-22T22:17:41.924Z"
+        },
+        {
+          "id": "tmlyclhtf1vsbx",
+          "text": "Agent PR (part 4)",
+          "scheduledTime": "13:30",
+          "expectedTime": "1h15m",
+          "progress": "done",
+          "comment": "Found SGLang OpenAI API doesn't support token id, and RNJ-1 cannot produce the required JSON output (the JSON value is in single `'`, which can't be parsd).\n\nWorking on adding a `MiniSweAgent` class.",
+          "planned": false,
+          "linkedTaskId": "tmlxeniwu0xalq",
+          "createdAt": "2026-02-22T22:57:27.411Z"
         }
       ],
       "work": "",
@@ -128,7 +139,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-22T22:17:41.924Z",
+      "updatedAt": "2026-02-22T22:57:34.126Z",
       "shiftReason": ""
     },
     "2026-02-23": {
