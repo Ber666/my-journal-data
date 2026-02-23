@@ -198,6 +198,28 @@
           "planned": false,
           "linkedTaskId": "tmlzih7tbduq51",
           "createdAt": "2026-02-23T18:29:58.831Z"
+        },
+        {
+          "id": "tmlzsjabcejig1",
+          "text": "Meeting",
+          "scheduledTime": "10:30",
+          "expectedTime": "1h",
+          "progress": "not-started",
+          "comment": "",
+          "planned": true,
+          "linkedTaskId": null,
+          "createdAt": "2026-02-23T23:11:24.408Z"
+        },
+        {
+          "id": "tmlzsjjcp1m9mn",
+          "text": "Meeting",
+          "scheduledTime": null,
+          "expectedTime": "1h",
+          "progress": "done",
+          "comment": "CocoaBench.\n\nNeed to take more notes. The annotation discussion involves too many tasks and it wasn't organized well. 睡眠不足也让脑子不够清醒。",
+          "planned": false,
+          "linkedTaskId": "tmlzsjabcejig1",
+          "createdAt": "2026-02-23T23:11:36.121Z"
         }
       ],
       "work": "",
@@ -214,7 +236,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "",
-      "updatedAt": "2026-02-23T18:30:15.411Z",
+      "updatedAt": "2026-02-23T23:11:45.801Z",
       "shiftReason": ""
     },
     "2026-02-21": {
