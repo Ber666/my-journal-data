@@ -182,7 +182,7 @@
           "text": "Interview",
           "scheduledTime": "09:00",
           "expectedTime": "45m",
-          "progress": "not-started",
+          "progress": "done",
           "comment": "",
           "planned": true,
           "linkedTaskId": null,
@@ -214,7 +214,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "",
-      "updatedAt": "2026-02-23T18:30:09.135Z",
+      "updatedAt": "2026-02-23T18:30:15.411Z",
       "shiftReason": ""
     },
     "2026-02-21": {
