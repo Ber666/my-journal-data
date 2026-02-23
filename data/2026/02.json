@@ -123,6 +123,17 @@
           "planned": false,
           "linkedTaskId": "tmlxeniwu0xalq",
           "createdAt": "2026-02-22T22:57:27.411Z"
+        },
+        {
+          "id": "tmlylemvarxrku",
+          "text": "Finish Tokenizer",
+          "scheduledTime": "18:45",
+          "expectedTime": "45m",
+          "progress": "not-started",
+          "comment": "",
+          "planned": false,
+          "linkedTaskId": null,
+          "createdAt": "2026-02-23T03:04:03.910Z"
         }
       ],
       "work": "",
@@ -130,16 +141,16 @@
         "bedTime": "03:00",
         "wakeTime": "11:00",
         "quality": 5,
-        "comment": "起床之后头有点晕，"
+        "comment": "起床之后头有点晕"
       },
       "exercise": [],
-      "energy": 8,
+      "energy": 7,
       "mental": {
-        "mood": 7,
-        "notes": ""
+        "mood": 4,
+        "notes": "Got stuck with harbor integration and fell well behind the plan in interview preparation."
       },
       "freeform": "",
-      "updatedAt": "2026-02-23T02:59:06.069Z",
+      "updatedAt": "2026-02-23T03:11:33.027Z",
       "shiftReason": ""
     },
     "2026-02-23": {
