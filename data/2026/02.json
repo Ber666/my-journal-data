@@ -158,7 +158,7 @@
           "createdAt": "2026-02-23T07:21:51.502Z"
         }
       ],
-      "work": "",
+      "work": "Finished my PR on agent harbor integration. Good!",
       "sleep": {
         "bedTime": "03:00",
         "wakeTime": "11:00",
@@ -168,30 +168,53 @@
       "exercise": [],
       "energy": 7,
       "mental": {
-        "mood": 4,
-        "notes": "Got stuck with harbor integration and fell well behind the plan in interview preparation."
+        "mood": 7,
+        "notes": "Got stuck with harbor integration and fell well behind the plan in interview preparation, but glad with the good news of XAI moving forward!!"
       },
       "freeform": "",
-      "updatedAt": "2026-02-23T16:49:56.673Z",
-      "shiftReason": ""
+      "updatedAt": "2026-02-23T18:26:31.219Z",
+      "shiftReason": "Underestimate the time for integrating harbor to agent training... (Also didn't expect Rupesh to push)"
     },
     "2026-02-23": {
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "tmlzih7tbduq51",
+          "text": "Interview",
+          "scheduledTime": "09:00",
+          "expectedTime": "45m",
+          "progress": "not-started",
+          "comment": "",
+          "planned": true,
+          "linkedTaskId": null,
+          "createdAt": "2026-02-23T18:29:51.695Z"
+        },
+        {
+          "id": "tmlzihdbjatbcv",
+          "text": "Interview",
+          "scheduledTime": null,
+          "expectedTime": "45m",
+          "progress": "done",
+          "comment": "",
+          "planned": false,
+          "linkedTaskId": "tmlzih7tbduq51",
+          "createdAt": "2026-02-23T18:29:58.831Z"
+        }
+      ],
       "work": "",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
-        "comment": ""
+        "bedTime": "02:30",
+        "wakeTime": "08:20",
+        "quality": 4,
+        "comment": "缺觉的厉害，中午开完会要补觉"
       },
       "exercise": [],
-      "energy": 0,
+      "energy": 8,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 8,
+        "notes": "Killed the MSR coding interview!"
       },
       "freeform": "",
-      "updatedAt": "2026-02-22T10:43:48.710Z",
+      "updatedAt": "2026-02-23T18:30:09.135Z",
       "shiftReason": ""
     },
     "2026-02-21": {
