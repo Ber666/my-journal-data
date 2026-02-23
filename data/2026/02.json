@@ -19,7 +19,7 @@
           "text": "CS336 Assignment 1 (Part 1)",
           "scheduledTime": "10:30",
           "expectedTime": "90min",
-          "progress": "not-started",
+          "progress": "done",
           "comment": "",
           "planned": true,
           "createdAt": "2026-02-22T07:09:04.588Z",
@@ -41,8 +41,8 @@
           "text": "Agent PR",
           "scheduledTime": "08:30",
           "expectedTime": "1h",
-          "progress": "not-started",
-          "comment": "Actually takes me 12:00 - 2:00\n\n**Goal**: integrate harbor for miles agent training\n\nBy [this commit](https://github.com/MBZUAI-IFM/RL360/commit/28d7b364554027eecf92202b062fee10a49665af), we can run the agent training, but it doesn't make use of many harbor features.\n\nAdded a README to describe the code structure.\n\nNow working on integrating `harbor.job`, realizing MiniSweAgent is not supported to be run locally. Now claude code is working.",
+          "progress": "done",
+          "comment": "",
           "planned": true,
           "createdAt": "2026-02-22T07:07:15.198Z",
           "linkedTaskId": null
@@ -75,7 +75,7 @@
           "scheduledTime": "00:00",
           "expectedTime": "2h",
           "progress": "done",
-          "comment": "",
+          "comment": "**Goal**: integrate harbor for miles agent training\n\nBy [this commit](https://github.com/MBZUAI-IFM/RL360/commit/28d7b364554027eecf92202b062fee10a49665af), we can run the agent training, but it doesn't make use of many harbor features.\n\nAdded a README to describe the code structure.\n\nNow working on integrating `harbor.job`, realizing MiniSweAgent is not supported to be run locally. Now claude code is working.",
           "planned": false,
           "linkedTaskId": "tmlxeniwu0xalq",
           "createdAt": "2026-02-22T10:41:36.773Z"
@@ -132,7 +132,7 @@
           "progress": "done",
           "comment": "",
           "planned": false,
-          "linkedTaskId": null,
+          "linkedTaskId": "tmlxepvbgmo6cj",
           "createdAt": "2026-02-23T03:04:03.910Z"
         },
         {
@@ -172,7 +172,7 @@
         "notes": "Got stuck with harbor integration and fell well behind the plan in interview preparation."
       },
       "freeform": "",
-      "updatedAt": "2026-02-23T07:21:51.502Z",
+      "updatedAt": "2026-02-23T16:49:56.673Z",
       "shiftReason": ""
     },
     "2026-02-23": {
