@@ -106,9 +106,9 @@
           "id": "tmlyb6d5w1j673",
           "text": "CS 336 (Assignment 1)",
           "scheduledTime": "14:45",
-          "expectedTime": "2h30m",
-          "progress": "not-started",
-          "comment": "",
+          "expectedTime": "3h30m",
+          "progress": "done",
+          "comment": "Read the BPE training again, draft tokenizer implementation. Continue to work on agent integration.",
           "planned": false,
           "linkedTaskId": "tmlxepvbgmo6cj",
           "createdAt": "2026-02-22T22:17:41.924Z"
@@ -139,7 +139,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-23T00:44:48.588Z",
+      "updatedAt": "2026-02-23T02:59:06.069Z",
       "shiftReason": ""
     },
     "2026-02-23": {
