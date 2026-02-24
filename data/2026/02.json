@@ -178,7 +178,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "Pressure is a privilege!!",
-      "updatedAt": "2026-02-24T05:02:41.231Z",
+      "updatedAt": "2026-02-24T05:13:19.197Z",
       "shiftReason": "",
       "planned": [
         {
@@ -198,6 +198,33 @@
           "status": "done",
           "notes": "",
           "createdAt": "2026-02-23T23:11:24.408Z"
+        },
+        {
+          "id": "tmm05g8nafduxi",
+          "text": "Probability",
+          "scheduledTime": "21:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-24T05:12:57.286Z"
+        },
+        {
+          "id": "tmm05gl82m9xrn",
+          "text": "Backprop",
+          "scheduledTime": "22:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-24T05:13:13.586Z"
+        },
+        {
+          "id": "tmm05gpjwzc48b",
+          "text": "Transformer",
+          "scheduledTime": "23:00",
+          "duration": null,
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-24T05:13:19.196Z"
         }
       ],
       "actual": [
