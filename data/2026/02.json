@@ -178,7 +178,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "Pressure is a privilege!!",
-      "updatedAt": "2026-02-24T01:15:10.871Z",
+      "updatedAt": "2026-02-24T01:52:16.594Z",
       "shiftReason": "",
       "planned": [
         {
@@ -231,6 +231,15 @@
           "plannedIds": [],
           "notes": "Difference between Pytorch and Numpy\n- `np.transpose(a, (1, 0, 2))` -> `torch.permute`\n- `np.swapaxes(a, 0, 1)` -> `torch.transpose`\n- `np.concatenate([a, b], axis=0)`",
           "createdAt": "2026-02-24T00:19:50.660Z"
+        },
+        {
+          "id": "tmlzya5zmaxeci",
+          "text": "Drive to campus",
+          "startTime": "14:15",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "听了许知远和鲁豫的podcast, 想起来入读四中之前看到的藻雪。向往但不属于的地方，人生的多样性。",
+          "createdAt": "2026-02-24T01:52:16.594Z"
         }
       ],
       "naps": [
