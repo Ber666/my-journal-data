@@ -178,7 +178,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "Pressure is a privilege!!",
-      "updatedAt": "2026-02-24T01:52:16.594Z",
+      "updatedAt": "2026-02-24T05:02:41.231Z",
       "shiftReason": "",
       "planned": [
         {
@@ -240,6 +240,15 @@
           "plannedIds": [],
           "notes": "听了许知远和鲁豫的podcast, 想起来入读四中之前看到的藻雪。向往但不属于的地方，人生的多样性。",
           "createdAt": "2026-02-24T01:52:16.594Z"
+        },
+        {
+          "id": "tmm052v150v06l",
+          "text": "KL (part 2)",
+          "startTime": "18:00",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "https://gemini.google.com/share/d011d6fb8971\n\nVery deep math problem...\n\nReview combinations, permutations, binomial distribution, multinomial distribution.",
+          "createdAt": "2026-02-24T05:02:33.113Z"
         }
       ],
       "naps": [
