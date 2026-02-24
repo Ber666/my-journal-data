@@ -2,162 +2,6 @@
   "month": "2026-02",
   "entries": {
     "2026-02-22": {
-      "tasks": [
-        {
-          "id": "tmlxemyvlt3a20",
-          "text": "Exercise",
-          "scheduledTime": "09:30",
-          "expectedTime": "45m",
-          "progress": "not-started",
-          "comment": "",
-          "planned": true,
-          "createdAt": "2026-02-22T07:06:49.233Z",
-          "linkedTaskId": null
-        },
-        {
-          "id": "tmlxepvbgmo6cj",
-          "text": "CS336 Assignment 1 (Part 1)",
-          "scheduledTime": "10:30",
-          "expectedTime": "90min",
-          "progress": "done",
-          "comment": "",
-          "planned": true,
-          "createdAt": "2026-02-22T07:09:04.588Z",
-          "linkedTaskId": null
-        },
-        {
-          "id": "tmlxeuo9s2z8x9",
-          "text": "Leetcode",
-          "scheduledTime": "19:30",
-          "expectedTime": "2h",
-          "progress": "not-started",
-          "comment": "",
-          "planned": true,
-          "createdAt": "2026-02-22T07:12:48.736Z",
-          "linkedTaskId": null
-        },
-        {
-          "id": "tmlxeniwu0xalq",
-          "text": "Agent PR",
-          "scheduledTime": "08:30",
-          "expectedTime": "1h",
-          "progress": "done",
-          "comment": "",
-          "planned": true,
-          "createdAt": "2026-02-22T07:07:15.198Z",
-          "linkedTaskId": null
-        },
-        {
-          "id": "tmlxeux1p607c3",
-          "text": "CS336 Assignment 1 (Part 2)",
-          "scheduledTime": "13:30",
-          "expectedTime": "3h",
-          "progress": "not-started",
-          "comment": "",
-          "planned": true,
-          "createdAt": "2026-02-22T07:13:00.109Z",
-          "linkedTaskId": null
-        },
-        {
-          "id": "tmlxewc3z5vily",
-          "text": "Math problem",
-          "scheduledTime": "17:30",
-          "expectedTime": "2h",
-          "progress": "not-started",
-          "comment": "Comprehensive review of backpropagation, including the interview question",
-          "planned": true,
-          "createdAt": "2026-02-22T07:14:06.287Z",
-          "linkedTaskId": null
-        },
-        {
-          "id": "tmlxmb6ytddj8v",
-          "text": "Agent PR",
-          "scheduledTime": "00:00",
-          "expectedTime": "2h",
-          "progress": "done",
-          "comment": "**Goal**: integrate harbor for miles agent training\n\nBy [this commit](https://github.com/MBZUAI-IFM/RL360/commit/28d7b364554027eecf92202b062fee10a49665af), we can run the agent training, but it doesn't make use of many harbor features.\n\nAdded a README to describe the code structure.\n\nNow working on integrating `harbor.job`, realizing MiniSweAgent is not supported to be run locally. Now claude code is working.",
-          "planned": false,
-          "linkedTaskId": "tmlxeniwu0xalq",
-          "createdAt": "2026-02-22T10:41:36.773Z"
-        },
-        {
-          "id": "tmly5wzgtp6rte",
-          "text": "Agent PR (Continued)",
-          "scheduledTime": "11:15",
-          "expectedTime": "30m",
-          "progress": "done",
-          "comment": "Check logs and messages. Out of budget. Still not fully tested on Modal.",
-          "planned": false,
-          "linkedTaskId": "tmlxeniwu0xalq",
-          "createdAt": "2026-02-22T19:50:26.189Z"
-        },
-        {
-          "id": "tmlyb5dmunq01v",
-          "text": "Agent PR (Part 3)",
-          "scheduledTime": "12:30",
-          "expectedTime": "30m",
-          "progress": "done",
-          "comment": "",
-          "planned": false,
-          "linkedTaskId": "tmlxeniwu0xalq",
-          "createdAt": "2026-02-22T22:16:55.878Z"
-        },
-        {
-          "id": "tmlyb6d5w1j673",
-          "text": "CS 336 (Assignment 1)",
-          "scheduledTime": "14:45",
-          "expectedTime": "3h30m",
-          "progress": "done",
-          "comment": "Read the BPE training again, draft tokenizer implementation. Continue to work on agent integration.",
-          "planned": false,
-          "linkedTaskId": "tmlxepvbgmo6cj",
-          "createdAt": "2026-02-22T22:17:41.924Z"
-        },
-        {
-          "id": "tmlyclhtf1vsbx",
-          "text": "Agent PR (part 4)",
-          "scheduledTime": "13:30",
-          "expectedTime": "1h15m",
-          "progress": "done",
-          "comment": "Found SGLang OpenAI API doesn't support token id ([ref](https://github.com/sgl-project/sglang/issues/18378)), and RNJ-1 cannot produce the required JSON output (the JSON value is in single `'`, which can't be parsd).\n\nWorking on adding a `MiniSweAgent` class.",
-          "planned": false,
-          "linkedTaskId": "tmlxeniwu0xalq",
-          "createdAt": "2026-02-22T22:57:27.411Z"
-        },
-        {
-          "id": "tmlylemvarxrku",
-          "text": "Finish Tokenizer",
-          "scheduledTime": "18:45",
-          "expectedTime": "45m",
-          "progress": "done",
-          "comment": "",
-          "planned": false,
-          "linkedTaskId": "tmlxepvbgmo6cj",
-          "createdAt": "2026-02-23T03:04:03.910Z"
-        },
-        {
-          "id": "tmlyov5qf8ez5a",
-          "text": "Info chat and agent integration",
-          "scheduledTime": "19:45",
-          "expectedTime": "45m",
-          "progress": "done",
-          "comment": "",
-          "planned": false,
-          "linkedTaskId": null,
-          "createdAt": "2026-02-23T04:40:53.703Z"
-        },
-        {
-          "id": "tmlyum5qmrg9b7",
-          "text": "Agent PR (final)",
-          "scheduledTime": "22:00",
-          "expectedTime": "1h15m",
-          "progress": "done",
-          "comment": "Made the PR. Manually revise the README",
-          "planned": false,
-          "linkedTaskId": "tmlxeniwu0xalq",
-          "createdAt": "2026-02-23T07:21:51.502Z"
-        }
-      ],
       "work": "Finished my PR on agent harbor integration. Good!",
       "sleep": {
         "bedTime": "03:00",
@@ -172,56 +16,154 @@
         "notes": "Got stuck with harbor integration and fell well behind the plan in interview preparation, but glad with the good news of XAI moving forward!!"
       },
       "freeform": "",
-      "updatedAt": "2026-02-23T18:26:31.219Z",
-      "shiftReason": "Underestimate the time for integrating harbor to agent training... (Also didn't expect Rupesh to push)"
-    },
-    "2026-02-23": {
-      "tasks": [
+      "updatedAt": "2026-02-23T23:42:29.573Z",
+      "shiftReason": "Underestimate the time for integrating harbor to agent training... (Also didn't expect Rupesh to push)",
+      "planned": [
         {
-          "id": "tmlzih7tbduq51",
-          "text": "Interview",
-          "scheduledTime": "09:00",
-          "expectedTime": "45m",
-          "progress": "done",
-          "comment": "",
-          "planned": true,
-          "linkedTaskId": null,
-          "createdAt": "2026-02-23T18:29:51.695Z"
+          "id": "tmlxemyvlt3a20",
+          "text": "Exercise",
+          "scheduledTime": "09:30",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-22T07:06:49.233Z"
         },
         {
-          "id": "tmlzihdbjatbcv",
-          "text": "Interview",
-          "scheduledTime": null,
-          "expectedTime": "45m",
-          "progress": "done",
-          "comment": "",
-          "planned": false,
-          "linkedTaskId": "tmlzih7tbduq51",
-          "createdAt": "2026-02-23T18:29:58.831Z"
-        },
-        {
-          "id": "tmlzsjabcejig1",
-          "text": "Meeting",
+          "id": "tmlxepvbgmo6cj",
+          "text": "CS336 Assignment 1 (Part 1)",
           "scheduledTime": "10:30",
-          "expectedTime": "1h",
-          "progress": "not-started",
-          "comment": "",
-          "planned": true,
-          "linkedTaskId": null,
-          "createdAt": "2026-02-23T23:11:24.408Z"
+          "duration": "90min",
+          "status": "done",
+          "notes": "",
+          "createdAt": "2026-02-22T07:09:04.588Z"
         },
         {
-          "id": "tmlzsjjcp1m9mn",
-          "text": "Meeting",
-          "scheduledTime": null,
-          "expectedTime": "1h",
-          "progress": "done",
-          "comment": "CocoaBench.\n\nNeed to take more notes. The annotation discussion involves too many tasks and it wasn't organized well. 睡眠不足也让脑子不够清醒。",
-          "planned": false,
-          "linkedTaskId": "tmlzsjabcejig1",
-          "createdAt": "2026-02-23T23:11:36.121Z"
+          "id": "tmlxeuo9s2z8x9",
+          "text": "Leetcode",
+          "scheduledTime": "19:30",
+          "duration": "2h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-22T07:12:48.736Z"
+        },
+        {
+          "id": "tmlxeniwu0xalq",
+          "text": "Agent PR",
+          "scheduledTime": "08:30",
+          "duration": "1h",
+          "status": "done",
+          "notes": "",
+          "createdAt": "2026-02-22T07:07:15.198Z"
+        },
+        {
+          "id": "tmlxeux1p607c3",
+          "text": "CS336 Assignment 1 (Part 2)",
+          "scheduledTime": "13:30",
+          "duration": "3h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-22T07:13:00.109Z"
+        },
+        {
+          "id": "tmlxewc3z5vily",
+          "text": "Math problem",
+          "scheduledTime": "17:30",
+          "duration": "2h",
+          "status": "not-started",
+          "notes": "Comprehensive review of backpropagation, including the interview question",
+          "createdAt": "2026-02-22T07:14:06.287Z"
         }
       ],
+      "actual": [
+        {
+          "id": "tmlxmb6ytddj8v",
+          "text": "Agent PR",
+          "startTime": "00:00",
+          "duration": "2h",
+          "plannedIds": [
+            "tmlxeniwu0xalq"
+          ],
+          "notes": "**Goal**: integrate harbor for miles agent training\n\nBy [this commit](https://github.com/MBZUAI-IFM/RL360/commit/28d7b364554027eecf92202b062fee10a49665af), we can run the agent training, but it doesn't make use of many harbor features.\n\nAdded a README to describe the code structure.\n\nNow working on integrating `harbor.job`, realizing MiniSweAgent is not supported to be run locally. Now claude code is working.",
+          "createdAt": "2026-02-22T10:41:36.773Z"
+        },
+        {
+          "id": "tmly5wzgtp6rte",
+          "text": "Agent PR (Continued)",
+          "startTime": "11:15",
+          "duration": "30m",
+          "plannedIds": [
+            "tmlxeniwu0xalq"
+          ],
+          "notes": "Check logs and messages. Out of budget. Still not fully tested on Modal.",
+          "createdAt": "2026-02-22T19:50:26.189Z"
+        },
+        {
+          "id": "tmlyb5dmunq01v",
+          "text": "Agent PR (Part 3)",
+          "startTime": "12:30",
+          "duration": "30m",
+          "plannedIds": [
+            "tmlxeniwu0xalq"
+          ],
+          "notes": "",
+          "createdAt": "2026-02-22T22:16:55.878Z"
+        },
+        {
+          "id": "tmlyb6d5w1j673",
+          "text": "CS 336 (Assignment 1)",
+          "startTime": "14:45",
+          "duration": "3h30m",
+          "plannedIds": [
+            "tmlxepvbgmo6cj"
+          ],
+          "notes": "Read the BPE training again, draft tokenizer implementation. Continue to work on agent integration.",
+          "createdAt": "2026-02-22T22:17:41.924Z"
+        },
+        {
+          "id": "tmlyclhtf1vsbx",
+          "text": "Agent PR (part 4)",
+          "startTime": "13:30",
+          "duration": "1h15m",
+          "plannedIds": [
+            "tmlxeniwu0xalq"
+          ],
+          "notes": "Found SGLang OpenAI API doesn't support token id ([ref](https://github.com/sgl-project/sglang/issues/18378)), and RNJ-1 cannot produce the required JSON output (the JSON value is in single `'`, which can't be parsd).\n\nWorking on adding a `MiniSweAgent` class.",
+          "createdAt": "2026-02-22T22:57:27.411Z"
+        },
+        {
+          "id": "tmlylemvarxrku",
+          "text": "Finish Tokenizer",
+          "startTime": "18:45",
+          "duration": "45m",
+          "plannedIds": [
+            "tmlxepvbgmo6cj"
+          ],
+          "notes": "",
+          "createdAt": "2026-02-23T03:04:03.910Z"
+        },
+        {
+          "id": "tmlyov5qf8ez5a",
+          "text": "Info chat and agent integration",
+          "startTime": "19:45",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-23T04:40:53.703Z"
+        },
+        {
+          "id": "tmlyum5qmrg9b7",
+          "text": "Agent PR (final)",
+          "startTime": "22:00",
+          "duration": "1h15m",
+          "plannedIds": [
+            "tmlxeniwu0xalq"
+          ],
+          "notes": "Made the PR. Manually revise the README",
+          "createdAt": "2026-02-23T07:21:51.502Z"
+        }
+      ]
+    },
+    "2026-02-23": {
       "work": "",
       "sleep": {
         "bedTime": "02:30",
@@ -236,34 +178,64 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "",
-      "updatedAt": "2026-02-23T23:11:45.801Z",
-      "shiftReason": ""
-    },
-    "2026-02-21": {
-      "tasks": [
+      "updatedAt": "2026-02-24T00:04:33.086Z",
+      "shiftReason": "",
+      "planned": [
         {
-          "id": "tmlxbzhtfw4032",
-          "text": "Research Humans&",
-          "scheduledTime": "17:45",
-          "expectedTime": "30m",
-          "progress": "done",
-          "comment": "Listened to podcast from [Eric Zelikman](https://www.youtube.com/watch?v=Oh0oQnKn9dw).\n\n- **Vision**: AI should help people to live up to their potential; It should collaborate with many people.\n\nConnecting to my research\n\n- To build a personalized agent, it must accumulate memory. Future direction: How to accumulate memory into parameters? The properties of context/parameter are very different. An example: I talked to AI about wedding planning, then asked about shopping, the agent should memorize the timeline. Can we achieve this with parametrized memory? A starting point: can we internalize the Claude skills from SkillBench or whatever?\n\n- Operating GUIs is also a way for human-machine interaction.\n\n- [Personalized Memory](https://arxiv.org/pdf/2602.16173)\n\n- [Long-horizon agent](https://metr.org/blog/2026-1-29-time-horizon-1-1/)",
-          "planned": false,
-          "createdAt": "2026-02-22T05:52:34.803Z",
-          "linkedTaskId": null
+          "id": "tmlzih7tbduq51",
+          "text": "Interview",
+          "scheduledTime": "09:00",
+          "duration": "45m",
+          "status": "done",
+          "notes": "",
+          "createdAt": "2026-02-23T18:29:51.695Z"
         },
         {
-          "id": "tmlxd8zv2rxd6a",
-          "text": "Check OpenAI interview",
-          "scheduledTime": "18:45",
-          "expectedTime": "1h",
-          "progress": "done",
-          "comment": "- Looked through the interview experience. There are transformer debugging, math/probability problems, and coding problems.\n- Looked through nanoGPT, but decided to continue with CS336 [This could take 8 hours]\n- Math and probability [This could take 8 hours]\n- Another 8 hours?",
-          "planned": false,
-          "createdAt": "2026-02-22T06:27:57.710Z",
-          "linkedTaskId": null
+          "id": "tmlzsjabcejig1",
+          "text": "Meeting",
+          "scheduledTime": "10:30",
+          "duration": "1h",
+          "status": "done",
+          "notes": "",
+          "createdAt": "2026-02-23T23:11:24.408Z"
         }
       ],
+      "actual": [
+        {
+          "id": "tmlzihdbjatbcv",
+          "text": "Interview",
+          "startTime": null,
+          "duration": "45m",
+          "plannedIds": [
+            "tmlzih7tbduq51"
+          ],
+          "notes": "",
+          "createdAt": "2026-02-23T18:29:58.831Z"
+        },
+        {
+          "id": "tmlzsjjcp1m9mn",
+          "text": "Meeting",
+          "startTime": null,
+          "duration": "1h",
+          "plannedIds": [
+            "tmlzsjabcejig1"
+          ],
+          "notes": "CocoaBench.\n\nNeed to take more notes. The annotation discussion involves too many tasks and it wasn't organized well. 睡眠不足也让脑子不够清醒。",
+          "createdAt": "2026-02-23T23:11:36.121Z"
+        }
+      ],
+      "naps": [
+        {
+          "id": "tmlzuee99dzzbv",
+          "startTime": "12:00",
+          "duration": "1h",
+          "quality": 6,
+          "notes": "",
+          "actualTaskId": null
+        }
+      ]
+    },
+    "2026-02-21": {
       "work": "Planning for the next 3 days (Sunday, Monday)\n- OpenAI interview (16h)\n- Leetcode (2h)\n- Agent (2h)\n- CocoaBench (1h)\n\nLater:\n- Continue to work on OpenAI questions (8h)\n- Agent (8h)\n- CocoaBench (3h)\n- Other interviews (Bytedance, XAI? Humans&) (8h)",
       "sleep": {
         "bedTime": "",
@@ -278,8 +250,29 @@
         "notes": "Felt fully recovered from the disease. Realized I lost 9 pounds of weight for the past month..?\nAfter reflection, I felt energetic about life and career planning. "
       },
       "freeform": "今天的感悟：未来的机会还很多（包括humans&，包括yuandong的团队），只要调整自己的状态，经常反思，接受新的input（今天看的Eric的视频很有insight），让自己在正确的轨道上努力，做好自己能做的就好，不用额外焦虑。\n\n开始意识到自己熬夜是因为情绪问题（没有深度工作而带来的焦虑），然后高效工作后结束一天。\n经常被distract，感觉脑子里想的事情很多，但是没有deep focus的时间，感到焦虑。睡前想认真工作一段，开始整理PR（明天的工作），目标1点之前睡觉。",
-      "updatedAt": "2026-02-22T10:44:09.169Z",
-      "shiftReason": ""
+      "updatedAt": "2026-02-23T23:42:29.573Z",
+      "shiftReason": "",
+      "planned": [],
+      "actual": [
+        {
+          "id": "tmlxbzhtfw4032",
+          "text": "Research Humans&",
+          "startTime": "17:45",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "Listened to podcast from [Eric Zelikman](https://www.youtube.com/watch?v=Oh0oQnKn9dw).\n\n- **Vision**: AI should help people to live up to their potential; It should collaborate with many people.\n\nConnecting to my research\n\n- To build a personalized agent, it must accumulate memory. Future direction: How to accumulate memory into parameters? The properties of context/parameter are very different. An example: I talked to AI about wedding planning, then asked about shopping, the agent should memorize the timeline. Can we achieve this with parametrized memory? A starting point: can we internalize the Claude skills from SkillBench or whatever?\n\n- Operating GUIs is also a way for human-machine interaction.\n\n- [Personalized Memory](https://arxiv.org/pdf/2602.16173)\n\n- [Long-horizon agent](https://metr.org/blog/2026-1-29-time-horizon-1-1/)",
+          "createdAt": "2026-02-22T05:52:34.803Z"
+        },
+        {
+          "id": "tmlxd8zv2rxd6a",
+          "text": "Check OpenAI interview",
+          "startTime": "18:45",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "- Looked through the interview experience. There are transformer debugging, math/probability problems, and coding problems.\n- Looked through nanoGPT, but decided to continue with CS336 [This could take 8 hours]\n- Math and probability [This could take 8 hours]\n- Another 8 hours?",
+          "createdAt": "2026-02-22T06:27:57.710Z"
+        }
+      ]
     }
   }
 }
