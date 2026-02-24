@@ -178,7 +178,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "Pressure is a privilege!!",
-      "updatedAt": "2026-02-24T05:47:33.666Z",
+      "updatedAt": "2026-02-24T06:51:13.423Z",
       "shiftReason": "",
       "planned": [
         {
@@ -281,11 +281,11 @@
           "id": "tmm06oqsh42f19",
           "text": "Calibration question",
           "startTime": "21:30",
-          "duration": "30m",
+          "duration": "1h30m",
           "plannedIds": [
             "tmm05g8nafduxi"
           ],
-          "notes": "Please print every variable step by step!! Don't skip any thing!",
+          "notes": "Plot calibration. Please print every variable step by step!! Don't skip anything!\n\nReal question practice, and binomial/multinomial basics\nhttps://gemini.google.com/share/6d4fcc84c52f\n\nEntropy, cross entropy, and KL: https://gemini.google.com/share/c4fa80d71604\n\nCombination, pass@K:\nhttps://gemini.google.com/share/2e39f7eef5a7",
           "createdAt": "2026-02-24T05:47:33.665Z"
         }
       ],
