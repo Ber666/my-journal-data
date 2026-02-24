@@ -178,7 +178,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "Pressure is a privilege!!",
-      "updatedAt": "2026-02-24T05:13:19.197Z",
+      "updatedAt": "2026-02-24T05:47:33.666Z",
       "shiftReason": "",
       "planned": [
         {
@@ -276,6 +276,17 @@
           "plannedIds": [],
           "notes": "https://gemini.google.com/share/d011d6fb8971\n\nVery deep math problem...\n\nReview combinations, permutations, binomial distribution, multinomial distribution.",
           "createdAt": "2026-02-24T05:02:33.113Z"
+        },
+        {
+          "id": "tmm06oqsh42f19",
+          "text": "Calibration question",
+          "startTime": "21:30",
+          "duration": "30m",
+          "plannedIds": [
+            "tmm05g8nafduxi"
+          ],
+          "notes": "Please print every variable step by step!! Don't skip any thing!",
+          "createdAt": "2026-02-24T05:47:33.665Z"
         }
       ],
       "naps": [
