@@ -178,7 +178,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "",
-      "updatedAt": "2026-02-24T00:04:33.086Z",
+      "updatedAt": "2026-02-24T00:05:22.561Z",
       "shiftReason": "",
       "planned": [
         {
@@ -204,7 +204,7 @@
         {
           "id": "tmlzihdbjatbcv",
           "text": "Interview",
-          "startTime": null,
+          "startTime": "09:00",
           "duration": "45m",
           "plannedIds": [
             "tmlzih7tbduq51"
@@ -215,7 +215,7 @@
         {
           "id": "tmlzsjjcp1m9mn",
           "text": "Meeting",
-          "startTime": null,
+          "startTime": "10:30",
           "duration": "1h",
           "plannedIds": [
             "tmlzsjabcejig1"
