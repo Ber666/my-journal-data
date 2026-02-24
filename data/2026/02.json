@@ -178,7 +178,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "Pressure is a privilege!!",
-      "updatedAt": "2026-02-24T07:59:00.347Z",
+      "updatedAt": "2026-02-24T09:32:23.443Z",
       "shiftReason": "",
       "planned": [
         {
@@ -292,11 +292,11 @@
           "id": "tmm0bds6yxxrua",
           "text": "Backprop",
           "startTime": "23:30",
-          "duration": "30m",
+          "duration": "1H30m",
           "plannedIds": [
             "tmm05gl82m9xrn"
           ],
-          "notes": "",
+          "notes": "Recap linear, softmax, and cross-entropy backprop",
           "createdAt": "2026-02-24T07:59:00.346Z"
         }
       ],
