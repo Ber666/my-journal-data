@@ -177,8 +177,8 @@
         "mood": 8,
         "notes": "Killed the MSR coding interview!"
       },
-      "freeform": "",
-      "updatedAt": "2026-02-24T00:07:53.360Z",
+      "freeform": "Pressure is a privilege!!",
+      "updatedAt": "2026-02-24T00:20:03.926Z",
       "shiftReason": "",
       "planned": [
         {
@@ -222,6 +222,15 @@
           ],
           "notes": "CocoaBench.\n\nNeed to take more notes. The annotation discussion involves too many tasks and it wasn't organized well. 睡眠不足也让脑子不够清醒。",
           "createdAt": "2026-02-23T23:11:36.121Z"
+        },
+        {
+          "id": "tmlzuzapwpyv19",
+          "text": "Interview Preparation: KL",
+          "startTime": "15:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "Difference between Pytorch and Numpy\n- `np.transpose(a, (1, 0, 2))` -> `torch.permute`\n- `np.swapaxes(a, 0, 1)` -> `torch.transpose`\n- `np.concatenate([a, b], axis=0)`",
+          "createdAt": "2026-02-24T00:19:50.660Z"
         }
       ],
       "naps": [
