@@ -349,6 +349,27 @@
           "createdAt": "2026-02-22T06:27:57.710Z"
         }
       ]
+    },
+    "2026-02-24": {
+      "planned": [],
+      "actual": [],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "02:00",
+        "wakeTime": "09:15",
+        "quality": 7,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-02-24T17:42:07.443Z",
+      "shiftReason": ""
     }
   }
 }
