@@ -178,7 +178,7 @@
         "notes": "Killed the MSR coding interview!"
       },
       "freeform": "Pressure is a privilege!!",
-      "updatedAt": "2026-02-24T00:20:03.926Z",
+      "updatedAt": "2026-02-24T01:15:10.871Z",
       "shiftReason": "",
       "planned": [
         {
@@ -227,7 +227,7 @@
           "id": "tmlzuzapwpyv19",
           "text": "Interview Preparation: KL",
           "startTime": "15:30",
-          "duration": "1h",
+          "duration": "2h",
           "plannedIds": [],
           "notes": "Difference between Pytorch and Numpy\n- `np.transpose(a, (1, 0, 2))` -> `torch.permute`\n- `np.swapaxes(a, 0, 1)` -> `torch.transpose`\n- `np.concatenate([a, b], axis=0)`",
           "createdAt": "2026-02-24T00:19:50.660Z"
