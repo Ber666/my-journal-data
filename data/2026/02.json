@@ -352,8 +352,36 @@
     },
     "2026-02-24": {
       "planned": [],
-      "actual": [],
-      "naps": [],
+      "actual": [
+        {
+          "id": "tmm1w2ifrbzjkr",
+          "text": "OpenAI Interview",
+          "startTime": "10:15",
+          "duration": "2h30m",
+          "plannedIds": [],
+          "notes": "Fucked up",
+          "createdAt": "2026-02-25T10:25:52.599Z"
+        },
+        {
+          "id": "tmm1w30thkm1e4",
+          "text": "Chat with Jiecao",
+          "startTime": "18:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "ok",
+          "createdAt": "2026-02-25T10:26:16.421Z"
+        }
+      ],
+      "naps": [
+        {
+          "id": "tmm1w3ghemif1x",
+          "startTime": "15:30",
+          "duration": "30m",
+          "quality": 8,
+          "notes": "",
+          "actualTaskId": null
+        }
+      ],
       "work": "OpenAI的面试很失败\n反思：\n- 没有仔细读题（两道题都是）\n- 面对压力不够冷静（尤其是第二场）\n晚上和Jiecao info chat，主要是听他讲，没太多交流。希望能拿到offer compete xAI.",
       "sleep": {
         "bedTime": "02:00",
@@ -368,7 +396,7 @@
         "notes": "因为面试的失败，加上两天的缺觉，提醒自己处于低能量的状态，不要相信负面的感觉。"
       },
       "freeform": "",
-      "updatedAt": "2026-02-25T09:24:06.434Z",
+      "updatedAt": "2026-02-25T10:26:36.722Z",
       "shiftReason": ""
     }
   }
