@@ -354,7 +354,7 @@
       "planned": [],
       "actual": [],
       "naps": [],
-      "work": "",
+      "work": "OpenAI的面试很失败\n反思：\n- 没有仔细读题（两道题都是）\n- 面对压力不够冷静（尤其是第二场）\n晚上和Jiecao info chat，主要是听他讲，没太多交流。希望能拿到offer compete xAI.",
       "sleep": {
         "bedTime": "02:00",
         "wakeTime": "09:15",
@@ -362,13 +362,13 @@
         "comment": ""
       },
       "exercise": [],
-      "energy": 0,
+      "energy": 5,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 4,
+        "notes": "因为面试的失败，加上两天的缺觉，提醒自己处于低能量的状态，不要相信负面的感觉。"
       },
       "freeform": "",
-      "updatedAt": "2026-02-24T17:42:07.443Z",
+      "updatedAt": "2026-02-25T09:24:06.434Z",
       "shiftReason": ""
     }
   }
