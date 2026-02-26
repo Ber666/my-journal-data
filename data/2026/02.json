@@ -370,6 +370,15 @@
           "plannedIds": [],
           "notes": "ok",
           "createdAt": "2026-02-25T10:26:16.421Z"
+        },
+        {
+          "id": "tmm1w3y118txno",
+          "text": "Dinner with Feng",
+          "startTime": "17:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-25T10:26:59.461Z"
         }
       ],
       "naps": [
@@ -382,7 +391,7 @@
           "actualTaskId": null
         }
       ],
-      "work": "OpenAI的面试很失败\n反思：\n- 没有仔细读题（两道题都是）\n- 面对压力不够冷静（尤其是第二场）\n晚上和Jiecao info chat，主要是听他讲，没太多交流。希望能拿到offer compete xAI.",
+      "work": "OpenAI的面试很失败\n反思：\n- 没有仔细读题（两道题都是）\n- 面对压力不够冷静（尤其是第二场）\n- 表达得不够肯定，有碎碎念。\n晚上和Jiecao info chat，主要是听他讲，没太多交流。希望能拿到offer compete xAI.",
       "sleep": {
         "bedTime": "02:00",
         "wakeTime": "09:15",
@@ -395,9 +404,93 @@
         "mood": 4,
         "notes": "因为面试的失败，加上两天的缺觉，提醒自己处于低能量的状态，不要相信负面的感觉。"
       },
-      "freeform": "",
-      "updatedAt": "2026-02-25T10:26:36.722Z",
+      "freeform": "打了挺久的游戏，不过就当休息了。大脑的状态很不好，明天需要补觉+运动+好好计划。",
+      "updatedAt": "2026-02-25T10:48:35.345Z",
       "shiftReason": ""
+    },
+    "2026-02-25": {
+      "planned": [
+        {
+          "id": "tmm1w7v6dlhxqe",
+          "text": "Get up",
+          "scheduledTime": "11:45",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-25T10:30:02.389Z"
+        },
+        {
+          "id": "tmm1w8awiko6k2",
+          "text": "Lunch and rest",
+          "scheduledTime": "13:30",
+          "duration": "2h30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-25T10:30:22.770Z"
+        },
+        {
+          "id": "tmm1w8qq18zzoo",
+          "text": "Run",
+          "scheduledTime": "17:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-25T10:30:43.273Z"
+        },
+        {
+          "id": "tmm1w96bkxj9wr",
+          "text": "Exercise",
+          "scheduledTime": "12:15",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-25T10:31:03.488Z"
+        },
+        {
+          "id": "tmm1weifm5itmx",
+          "text": "Deep work",
+          "scheduledTime": "16:00",
+          "duration": "1h15m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-25T10:35:12.466Z"
+        },
+        {
+          "id": "tmm1werf9lfnhv",
+          "text": "Plan",
+          "scheduledTime": "13:00",
+          "duration": "15m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-25T10:35:24.117Z"
+        },
+        {
+          "id": "tmm1wfe4xsdgzs",
+          "text": "Before sleep preparation",
+          "scheduledTime": "22:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-25T10:35:53.553Z"
+        }
+      ],
+      "actual": [],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-02-25T10:35:53.553Z"
     }
   }
 }
