@@ -483,6 +483,101 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-02-26T21:59:30.256Z"
+        },
+        {
+          "id": "tmm45ekycmsonw",
+          "text": "Interview with Jiecao",
+          "startTime": "18:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T00:22:44.628Z"
+        },
+        {
+          "id": "tmm45jc14bo10u",
+          "text": "Birthday party with Kun",
+          "startTime": "19:15",
+          "duration": "3h45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T00:26:26.344Z"
+        }
+      ],
+      "naps": [
+        {
+          "id": "tmm45g7691thu7",
+          "startTime": "16:00",
+          "duration": "1h",
+          "quality": 7,
+          "notes": "",
+          "actualTaskId": null
+        }
+      ],
+      "work": "没怎么动",
+      "sleep": {
+        "bedTime": "04:00",
+        "wakeTime": "12:30",
+        "quality": 6,
+        "comment": "前一天上床太晚了，本质上是在缓解OpenAI面试失败的负面情绪"
+      },
+      "exercise": [],
+      "energy": 4,
+      "mental": {
+        "mood": 5,
+        "notes": "休息的一天"
+      },
+      "freeform": "",
+      "updatedAt": "2026-02-27T00:26:52.103Z",
+      "shiftReason": ""
+    },
+    "2026-02-26": {
+      "planned": [
+        {
+          "id": "tmm45vcbqofhdz",
+          "text": "Notes on Agent RL",
+          "scheduledTime": "16:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-27T00:35:46.598Z"
+        },
+        {
+          "id": "tmm45wmesas521",
+          "text": "Paper reading",
+          "scheduledTime": "17:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "- SkillRL\n- Nvidia terminalbench paper\n- RUC coding agent paper",
+          "createdAt": "2026-02-27T00:36:46.324Z"
+        },
+        {
+          "id": "tmm4631xarjnv6",
+          "text": "Meeting",
+          "scheduledTime": "21:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-27T00:41:46.366Z"
+        }
+      ],
+      "actual": [
+        {
+          "id": "tmm45k3w99v9fp",
+          "text": "健身",
+          "startTime": "15:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T00:27:02.457Z"
+        },
+        {
+          "id": "tmm45kbnhv40sd",
+          "text": "Interview with Zhan",
+          "startTime": "14:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T00:27:12.509Z"
         }
       ],
       "naps": [],
@@ -499,8 +594,9 @@
         "mood": 0,
         "notes": ""
       },
-      "freeform": "",
-      "updatedAt": "2026-02-26T21:59:30.256Z"
+      "freeform": "**Plan** \n周五：General coding\n周六：准备talk (8h)\n周日：Math coding\n周一：准备talk (4h)\n周二：coding 加强版",
+      "updatedAt": "2026-02-27T00:41:46.367Z",
+      "shiftReason": ""
     }
   }
 }
