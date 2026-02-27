@@ -661,7 +661,7 @@
           "text": "Check with Seongwook",
           "scheduledTime": "10:00",
           "duration": "15m",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "createdAt": "2026-02-27T01:09:58.091Z"
         },
@@ -670,12 +670,40 @@
           "text": "Haircut",
           "scheduledTime": "10:30",
           "duration": "1h30m",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "createdAt": "2026-02-27T08:54:23.572Z"
         }
       ],
-      "actual": [],
+      "actual": [
+        {
+          "id": "tmm5ivjb2bwlq0",
+          "text": "Haircut",
+          "startTime": "10:30",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T23:27:36.830Z"
+        },
+        {
+          "id": "tmm5iw8epl3uqm",
+          "text": "Agent RL Discussion",
+          "startTime": "13:30",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "Synced on the current progress of agent RL. Reward is not improving. Discussed debugging plan. Looked into a few technical details.",
+          "createdAt": "2026-02-27T23:28:09.361Z"
+        },
+        {
+          "id": "tmm5ix9n54014l",
+          "text": "Review Miles",
+          "startTime": "15:30",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T23:28:57.617Z"
+        }
+      ],
       "naps": [],
       "work": "",
       "sleep": {
@@ -691,7 +719,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-27T08:54:27.658Z"
+      "updatedAt": "2026-02-27T23:28:57.617Z"
     }
   }
 }
