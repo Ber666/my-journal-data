@@ -597,6 +597,36 @@
       "freeform": "**Plan** \n周五：General coding\n周六：准备talk (8h)\n周日：Math coding\n周一：准备talk (4h)\n周二：coding 加强版",
       "updatedAt": "2026-02-27T00:41:46.367Z",
       "shiftReason": ""
+    },
+    "2026-02-27": {
+      "planned": [
+        {
+          "id": "tmm473b9nvqhlw",
+          "text": "Check with Seongwook",
+          "scheduledTime": "11:00",
+          "duration": "15m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-27T01:09:58.091Z"
+        }
+      ],
+      "actual": [],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-02-27T01:09:58.091Z"
     }
   }
 }
