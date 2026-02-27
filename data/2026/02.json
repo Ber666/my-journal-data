@@ -547,7 +547,7 @@
           "scheduledTime": "17:30",
           "duration": "1h",
           "status": "not-started",
-          "notes": "- SkillRL\n- Nvidia terminalbench paper\n- RUC coding agent paper",
+          "notes": "- SkillRL\n- Nvidia terminalbench paper\n- RUC coding agent paper\n- https://faithful-almanac-add.notion.site/The-Bitter-Lesson-Behind-Building-Agentic-RL-in-Terminal-Environments-2eaddd45837f80c9ad2ed6a15ef3c1a1",
           "createdAt": "2026-02-27T00:36:46.324Z"
         },
         {
@@ -555,7 +555,7 @@
           "text": "Meeting",
           "scheduledTime": "21:30",
           "duration": "1h",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "createdAt": "2026-02-27T00:41:46.366Z"
         }
@@ -578,24 +578,80 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-02-27T00:27:12.509Z"
+        },
+        {
+          "id": "tmm4nh1n59bkdk",
+          "text": "Reading code",
+          "startTime": "17:15",
+          "duration": "1h15m",
+          "plannedIds": [
+            "tmm45vcbqofhdz"
+          ],
+          "notes": "",
+          "createdAt": "2026-02-27T08:48:32.657Z"
+        },
+        {
+          "id": "tmm4nhapm0s7ml",
+          "text": "Dinner with Zhoujun",
+          "startTime": "19:00",
+          "duration": "1h45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T08:48:44.410Z"
+        },
+        {
+          "id": "tmm4nhekdglsty",
+          "text": "Meeting",
+          "startTime": "21:30",
+          "duration": "1h",
+          "plannedIds": [
+            "tmm4631xarjnv6"
+          ],
+          "notes": "",
+          "createdAt": "2026-02-27T08:48:49.405Z"
+        },
+        {
+          "id": "tmm4nhsl9eai92",
+          "text": "Paper writing",
+          "startTime": "21:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T08:49:07.581Z"
+        },
+        {
+          "id": "tmm4ni43vhphdq",
+          "text": "Update website",
+          "startTime": "23:00",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-02-27T08:49:22.507Z"
         }
       ],
       "naps": [],
-      "work": "",
+      "work": "昨天晚上收到了OAI推进的消息，今天面试字节看起来应该没什么问题。继续努力，希望能有好结果。今天的目标是1:30之前睡觉。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
-        "comment": ""
+        "bedTime": "04:00",
+        "wakeTime": "11:30",
+        "quality": 6,
+        "comment": "OK, but 起床被很多事情distracted. 到学校的时候很晕，可能是饿的。"
       },
-      "exercise": [],
-      "energy": 0,
+      "exercise": [
+        {
+          "name": "Gym",
+          "duration": "45m",
+          "intensity": "high",
+          "comment": "器械推胸，深蹲，硬拉，引题，二头"
+        }
+      ],
+      "energy": 7,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 7,
+        "notes": "和kun喝茶，和zhoujun聊天，还不错"
       },
       "freeform": "**Plan** \n周五：General coding\n周六：准备talk (8h)\n周日：Math coding\n周一：准备talk (4h)\n周二：coding 加强版",
-      "updatedAt": "2026-02-27T00:41:46.367Z",
+      "updatedAt": "2026-02-27T08:54:41.345Z",
       "shiftReason": ""
     },
     "2026-02-27": {
@@ -603,11 +659,20 @@
         {
           "id": "tmm473b9nvqhlw",
           "text": "Check with Seongwook",
-          "scheduledTime": "11:00",
+          "scheduledTime": "10:00",
           "duration": "15m",
           "status": "not-started",
           "notes": "",
           "createdAt": "2026-02-27T01:09:58.091Z"
+        },
+        {
+          "id": "tmm4nokes5o4xz",
+          "text": "Haircut",
+          "scheduledTime": "10:30",
+          "duration": "1h30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-27T08:54:23.572Z"
         }
       ],
       "actual": [],
@@ -626,7 +691,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-27T01:09:58.091Z"
+      "updatedAt": "2026-02-27T08:54:27.658Z"
     }
   }
 }
