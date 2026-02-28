@@ -705,21 +705,60 @@
         }
       ],
       "naps": [],
+      "work": "没有很深度的工作，和zhoujun和junli讨论agent rl很久，看了一下ray和miles, 但是还没有完全掌握",
+      "sleep": {
+        "bedTime": "02:50",
+        "wakeTime": "10:15",
+        "quality": 7,
+        "comment": "入睡太晚"
+      },
+      "exercise": [
+        {
+          "name": "Basketball",
+          "duration": "1h",
+          "intensity": "medium",
+          "comment": "Feeling good"
+        }
+      ],
+      "energy": 7,
+      "mental": {
+        "mood": 7,
+        "notes": "身体状态不错，打篮球感觉体力有改进，不过作息还是有问题"
+      },
+      "freeform": "",
+      "updatedAt": "2026-02-28T23:41:49.900Z",
+      "shiftReason": ""
+    },
+    "2026-02-28": {
+      "planned": [
+        {
+          "id": "tmm6ywsx4r3cou",
+          "text": "跑步",
+          "scheduledTime": "16:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-02-28T23:44:15.976Z"
+        }
+      ],
+      "actual": [],
+      "naps": [],
       "work": "",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
-        "comment": ""
+        "bedTime": "03:10",
+        "wakeTime": "12:20",
+        "quality": 4,
+        "comment": "周五太累了，心脏有点不舒服。中间醒过几次，今天必须调整回12点前入睡。"
       },
       "exercise": [],
-      "energy": 0,
+      "energy": 6,
       "mental": {
-        "mood": 0,
+        "mood": 6,
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-27T23:28:57.617Z"
+      "updatedAt": "2026-02-28T23:44:15.976Z",
+      "shiftReason": ""
     }
   }
 }
