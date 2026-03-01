@@ -755,7 +755,7 @@
           "scheduledTime": "18:30",
           "duration": "1h",
           "status": "not-started",
-          "notes": "- **Early experience**: implicit world modeling / self-reflection with expert reference on a few different agent environments. Improvement over SFT. Better RL results. Mostly 7B models.\n- **..**",
+          "notes": "- **Early experience**: implicit world modeling / self-reflection with expert reference on a few different agent environments. Improvement over SFT. Better RL results. Mostly 7B models.\n- **Code World Model**: mid-training mainly includes code tracing (looks like it only helps with cruxeval), and ForagerAgent (*mutate-fix* - creating bugs, and *issue-fix* - similar to SWE-Bench), which is explored with a strong LLM.",
           "createdAt": "2026-03-01T02:15:15.590Z"
         }
       ],
@@ -775,7 +775,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-01T03:39:35.052Z",
+      "updatedAt": "2026-03-01T05:29:21.829Z",
       "shiftReason": ""
     }
   }
