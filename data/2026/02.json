@@ -746,7 +746,7 @@
           "scheduledTime": "15:45",
           "duration": "45m",
           "status": "not-started",
-          "notes": "**Plan**\n-",
+          "notes": "**Plan**\n- Reading: Code world model, Early-experience, K2V2, Pengfei's mid-training, Xiang Yue, GLM-5, Kimi-K2.5; Claude 4.6, Minimax-2.5 and Qwen3.5 blogs.\n- Story: Enhancing LLM reasoning abilities -> Cocoabench: What's missing for a general powerful agent -> (Proposal) Agent mid-training",
           "createdAt": "2026-03-01T02:14:56.889Z"
         },
         {
@@ -775,7 +775,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-01T02:15:15.590Z",
+      "updatedAt": "2026-03-01T02:41:08.033Z",
       "shiftReason": ""
     }
   }
