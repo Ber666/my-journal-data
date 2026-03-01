@@ -739,6 +739,24 @@
           "status": "not-started",
           "notes": "",
           "createdAt": "2026-02-28T23:44:15.976Z"
+        },
+        {
+          "id": "tmm74akxl2rlxg",
+          "text": "Talk preparation",
+          "scheduledTime": "15:45",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "**Plan**\n-",
+          "createdAt": "2026-03-01T02:14:56.889Z"
+        },
+        {
+          "id": "tmm74azd2ra7dz",
+          "text": "Read papers",
+          "scheduledTime": "18:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-01T02:15:15.590Z"
         }
       ],
       "actual": [],
@@ -757,7 +775,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-02-28T23:44:15.976Z",
+      "updatedAt": "2026-03-01T02:15:15.590Z",
       "shiftReason": ""
     }
   }
