@@ -1,0 +1,45 @@
+{
+  "month": "2026-03",
+  "entries": {
+    "2026-03-01": {
+      "planned": [],
+      "actual": [
+        {
+          "id": "tmm8efumu27g9u",
+          "text": "醒后玩手机👎",
+          "startTime": "12:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-01T23:46:45.078Z"
+        },
+        {
+          "id": "tmm8eg4sxdw3to",
+          "text": "吃饭",
+          "startTime": "14:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-01T23:46:58.257Z"
+        }
+      ],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "02:40",
+        "wakeTime": "12:30",
+        "quality": 6,
+        "comment": "前一天晚上因为楼上开party加上压力大情绪不好(和GPT聊天规划之后的trip才缓解)，睡前吃了褪黑素，中间醒过几次，十点半闹钟明显还在深睡，就回去继续睡了。"
+      },
+      "exercise": [],
+      "energy": 7,
+      "mental": {
+        "mood": 6,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-01T23:46:58.257Z",
+      "shiftReason": ""
+    }
+  }
+}
