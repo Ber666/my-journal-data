@@ -759,7 +759,48 @@
           "createdAt": "2026-03-01T02:15:15.590Z"
         }
       ],
-      "actual": [],
+      "actual": [
+        {
+          "id": "tmm8ec9e88sbgj",
+          "text": "Read papers",
+          "startTime": "18:30",
+          "duration": "3h",
+          "plannedIds": [
+            "tmm74azd2ra7dz"
+          ],
+          "notes": "",
+          "createdAt": "2026-03-01T23:43:57.584Z"
+        },
+        {
+          "id": "tmm8ecogn0zstt",
+          "text": "跑步",
+          "startTime": "16:30",
+          "duration": "1h",
+          "plannedIds": [
+            "tmm6ywsx4r3cou"
+          ],
+          "notes": "",
+          "createdAt": "2026-03-01T23:44:17.111Z"
+        },
+        {
+          "id": "tmm8ecu2ccmy8w",
+          "text": "RL Disucssion",
+          "startTime": "15:45",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-01T23:44:24.372Z"
+        },
+        {
+          "id": "tmm8ecym8xfpu1",
+          "text": "RL Discussion",
+          "startTime": "17:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-01T23:44:30.272Z"
+        }
+      ],
       "naps": [],
       "work": "",
       "sleep": {
@@ -775,7 +816,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-01T05:29:21.829Z",
+      "updatedAt": "2026-03-01T23:44:30.273Z",
       "shiftReason": ""
     }
   }
