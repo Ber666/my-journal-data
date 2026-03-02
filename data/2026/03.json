@@ -97,6 +97,36 @@
       "freeform": "",
       "updatedAt": "2026-03-02T06:59:13.449Z",
       "shiftReason": ""
+    },
+    "2026-03-02": {
+      "planned": [],
+      "actual": [
+        {
+          "id": "tmm9jeafdzbk0u",
+          "text": "起床洗漱",
+          "startTime": "10:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-02T18:53:16.489Z"
+        }
+      ],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-02T18:53:16.489Z"
     }
   }
 }
