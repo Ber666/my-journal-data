@@ -109,6 +109,15 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-02T18:53:16.489Z"
+        },
+        {
+          "id": "tmm9r6oos5jf7v",
+          "text": "Meet",
+          "startTime": "13:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-02T22:31:18.652Z"
         }
       ],
       "naps": [],
@@ -126,7 +135,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-02T18:53:16.489Z"
+      "updatedAt": "2026-03-02T22:31:18.652Z"
     }
   }
 }
