@@ -60,6 +60,15 @@
           ],
           "notes": "",
           "createdAt": "2026-03-02T01:09:03.936Z"
+        },
+        {
+          "id": "tmm8hoj7h6ejid",
+          "text": "Slides for CocoaBench: examples and creation",
+          "startTime": "17:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-02T01:17:29.021Z"
         }
       ],
       "naps": [],
@@ -77,7 +86,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-02T01:09:14.687Z",
+      "updatedAt": "2026-03-02T01:17:29.021Z",
       "shiftReason": ""
     }
   }
