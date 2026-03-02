@@ -40,6 +40,26 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-01T23:47:12.604Z"
+        },
+        {
+          "id": "tmm8hdm7znqzba",
+          "text": "laundry & 取信",
+          "startTime": "16:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-02T01:08:59.711Z"
+        },
+        {
+          "id": "tmm8hdphcyrrwi",
+          "text": "Layout",
+          "startTime": "16:00",
+          "duration": "30m",
+          "plannedIds": [
+            "tmm8egtgb0s97n"
+          ],
+          "notes": "",
+          "createdAt": "2026-03-02T01:09:03.936Z"
         }
       ],
       "naps": [],
@@ -53,11 +73,11 @@
       "exercise": [],
       "energy": 7,
       "mental": {
-        "mood": 6,
+        "mood": 7,
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-01T23:47:30.203Z",
+      "updatedAt": "2026-03-02T01:09:14.687Z",
       "shiftReason": ""
     }
   }
