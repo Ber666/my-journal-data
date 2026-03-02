@@ -69,6 +69,15 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-02T01:17:29.021Z"
+        },
+        {
+          "id": "tmm8trxm0p7u7s",
+          "text": "玩clawbot",
+          "startTime": "20:00",
+          "duration": "2h30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-02T06:56:03.048Z"
         }
       ],
       "naps": [],
@@ -80,13 +89,13 @@
         "comment": "前一天晚上因为楼上开party加上压力大情绪不好(和GPT聊天规划之后的trip才缓解)，睡前吃了褪黑素，中间醒过几次，十点半闹钟明显还在深睡，就回去继续睡了。"
       },
       "exercise": [],
-      "energy": 7,
+      "energy": 4,
       "mental": {
         "mood": 7,
-        "notes": ""
+        "notes": "精神不是很好，不知道是不是褪黑素的问题。"
       },
       "freeform": "",
-      "updatedAt": "2026-03-02T01:17:29.021Z",
+      "updatedAt": "2026-03-02T06:59:13.449Z",
       "shiftReason": ""
     }
   }
