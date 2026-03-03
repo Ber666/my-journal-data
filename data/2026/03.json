@@ -145,6 +145,51 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-03T04:11:38.812Z"
+        },
+        {
+          "id": "tmmabk5es13yz1",
+          "text": "Dinner",
+          "startTime": "18:00",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-03T08:01:39.172Z"
+        },
+        {
+          "id": "tmmabkd6aatiy5",
+          "text": "Agent RL",
+          "startTime": "16:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-03T08:01:49.234Z"
+        },
+        {
+          "id": "tmmabkhswo236w",
+          "text": "Slides",
+          "startTime": "16:45",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-03T08:01:55.232Z"
+        },
+        {
+          "id": "tmmabkp16vs8y9",
+          "text": "Slides",
+          "startTime": "21:30",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-03T08:02:04.602Z"
+        },
+        {
+          "id": "tmmabqtqewd06j",
+          "text": "Paper Reading",
+          "startTime": "23:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "GLM-5 Mid-train: concatenating repo-level code files, commit diffs, GitHub issues, pull requests, and relevant source files into unified training sequences (10 million issue–PR pairs, 160B unique tokens)\n\nGLM-5 SFT: A large number of execution environments, with particular emphasis on real-world scenarios and long-horizon tasks. We further improve the SFT data using **expert reinforcement learning and rejection sampling**. Erroneous segments within trajectories are retained but **masked out** in the loss function, allowing the model to learn error correction behaviors without reinforcing incorrect actions.",
+          "createdAt": "2026-03-03T08:06:50.630Z"
         }
       ],
       "naps": [],
@@ -162,7 +207,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-03T04:11:38.813Z"
+      "updatedAt": "2026-03-03T08:06:50.630Z"
     }
   }
 }
