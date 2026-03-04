@@ -211,23 +211,78 @@
     },
     "2026-03-03": {
       "planned": [],
-      "actual": [],
+      "actual": [
+        {
+          "id": "tmmbn3sxwfqt12",
+          "text": "Prepare for talk",
+          "startTime": "10:00",
+          "duration": "3h30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-04T06:12:38.084Z"
+        },
+        {
+          "id": "tmmbn3xxstfpk5",
+          "text": "Prepare for talk",
+          "startTime": "14:30",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-04T06:12:44.560Z"
+        },
+        {
+          "id": "tmmbncb6pr2fg6",
+          "text": "Chat with Jiannan",
+          "startTime": "17:30",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-04T06:19:14.977Z"
+        },
+        {
+          "id": "tmmbncgikvwoyd",
+          "text": "OAI question search",
+          "startTime": "20:00",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-04T06:19:21.884Z"
+        },
+        {
+          "id": "tmmbnckx9p24zy",
+          "text": "Chat with Yu",
+          "startTime": "18:45",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-04T06:19:27.597Z"
+        },
+        {
+          "id": "tmmbncqawlwt8o",
+          "text": "Dinner",
+          "startTime": "19:15",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-04T06:19:34.568Z"
+        }
+      ],
       "naps": [],
       "work": "",
       "sleep": {
         "bedTime": "03:30",
         "wakeTime": "09:30",
         "quality": 6,
-        "comment": "时间短，但是质量还可以，起来的时候在做梦。"
+        "comment": "时间短，但是质量还可以，起来的时候在做梦，也不算太痛苦。"
       },
       "exercise": [],
-      "energy": 0,
+      "energy": 7,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 6,
+        "notes": "被逼着要做xai的slides，效率比较高。晚上晓东约我明天上午chat，不确定聊啥，感觉可能会比较难顶。"
       },
       "freeform": "",
-      "updatedAt": "2026-03-03T18:30:10.533Z",
+      "updatedAt": "2026-03-04T06:19:34.568Z",
       "shiftReason": ""
     }
   }
