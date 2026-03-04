@@ -265,6 +265,15 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-04T06:19:34.568Z"
+        },
+        {
+          "id": "tmmbq17y6tg41t",
+          "text": "Math learning",
+          "startTime": "22:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "**Martingales**: a mathematical model of a \"fair game.\" A sequence of random variables $X_1, X_2, \\dots, X_n$ is a martingale if the expected value of the next observation, given all the past observations, is exactly equal to the most recent observation:$E[X_{n+1} | X_1, X_2, \\dots, X_n] = X_n$，想象多轮抛硬币赌钱就是了\n\n**Optional Stopping Theorem (OST)**: If $M_n$ is a martingale and $\\tau$ is a valid stopping time (a rule for stopping that only depends on the present and past, not the future), then under certain bounded conditions:$$E[M_\\tau] = E[M_0]$$\n\n这里stopping time不是constant. 举例，如果我有100块，停止条件是赢到150或者输光，这两种结局的期望仍然是100，所以是p * 150 + (1 - p) * 0 = 100\n\n还看了下水印的实现方法 (a hash value depending on the previous context)",
+          "createdAt": "2026-03-04T07:34:36.414Z"
         }
       ],
       "naps": [],
@@ -282,8 +291,56 @@
         "notes": "被逼着要做xai的slides，效率比较高。晚上晓东约我明天上午chat，不确定聊啥，感觉可能会比较难顶。"
       },
       "freeform": "",
-      "updatedAt": "2026-03-04T06:19:34.568Z",
+      "updatedAt": "2026-03-04T07:34:36.414Z",
       "shiftReason": ""
+    },
+    "2026-03-04": {
+      "planned": [
+        {
+          "id": "tmmbq5sr6bkfgw",
+          "text": "起床洗漱",
+          "scheduledTime": "08:45",
+          "duration": "15m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-04T07:38:10.002Z"
+        },
+        {
+          "id": "tmmbq6445lslov",
+          "text": "Chat with Xiaodong",
+          "scheduledTime": "09:00",
+          "duration": null,
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-04T07:38:24.725Z"
+        },
+        {
+          "id": "tmmbq6nyl9wub7",
+          "text": "Revisit probability distribution",
+          "scheduledTime": "09:30",
+          "duration": "2h30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-04T07:38:50.445Z"
+        }
+      ],
+      "actual": [],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-04T07:38:50.445Z"
     }
   }
 }
