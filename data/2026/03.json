@@ -320,18 +320,18 @@
           "scheduledTime": "09:30",
           "duration": "2h30m",
           "status": "not-started",
-          "notes": "",
+          "notes": "包括今天说的stopping time那题",
           "createdAt": "2026-03-04T07:38:50.445Z"
         }
       ],
       "actual": [],
       "naps": [],
-      "work": "",
+      "work": "https://x.com/jyangballin/status/2029220400757129628?s=20",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
-        "comment": ""
+        "bedTime": "00:20",
+        "wakeTime": "08:50",
+        "quality": 9,
+        "comment": "最健康的一集。中间醒了一次，但是起床之后还是比较舒服的。"
       },
       "exercise": [],
       "energy": 0,
@@ -340,7 +340,8 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-04T07:38:50.445Z"
+      "updatedAt": "2026-03-04T17:12:36.806Z",
+      "shiftReason": ""
     }
   }
 }
