@@ -324,7 +324,19 @@
           "createdAt": "2026-03-04T07:38:50.445Z"
         }
       ],
-      "actual": [],
+      "actual": [
+        {
+          "id": "tmmcgdyc6vcm6k",
+          "text": "等比数列和差比数列求和",
+          "startTime": "10:00",
+          "duration": "1h",
+          "plannedIds": [
+            "tmmbq6nyl9wub7"
+          ],
+          "notes": "",
+          "createdAt": "2026-03-04T19:52:20.502Z"
+        }
+      ],
       "naps": [],
       "work": "https://x.com/jyangballin/status/2029220400757129628?s=20",
       "sleep": {
@@ -340,7 +352,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-04T17:12:36.806Z",
+      "updatedAt": "2026-03-04T19:52:20.503Z",
       "shiftReason": ""
     }
   }
