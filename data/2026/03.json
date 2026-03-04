@@ -335,6 +335,24 @@
           ],
           "notes": "expectation of geometric distribution:\n- first review Geometric series $$\\frac{a_0 * (1-r)^n}{1-r}. the expectation (product of geometric and arithmetic sequence) can be derived by **differentiating** the infinite series of Geometric sequence.\n- Another trick is to use recursion. E(x) = q + (1-q) (E(x) + 1) (q is stopping prob)",
           "createdAt": "2026-03-04T19:52:20.502Z"
+        },
+        {
+          "id": "tmmco8dlnue5nt",
+          "text": "Chat with Yu",
+          "startTime": "15:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-04T23:31:57.275Z"
+        },
+        {
+          "id": "tmmco8lyespfjk",
+          "text": "Lunch",
+          "startTime": "14:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-04T23:32:08.102Z"
         }
       ],
       "naps": [],
@@ -352,7 +370,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-04T21:10:38.986Z",
+      "updatedAt": "2026-03-04T23:32:08.103Z",
       "shiftReason": ""
     }
   }
