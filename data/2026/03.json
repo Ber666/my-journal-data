@@ -408,6 +408,45 @@
       "freeform": "",
       "updatedAt": "2026-03-05T19:57:01.458Z",
       "shiftReason": ""
+    },
+    "2026-03-05": {
+      "planned": [],
+      "actual": [
+        {
+          "id": "tmmdw0jt1ez8uo",
+          "text": "起床洗漱",
+          "startTime": "10:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "赖床了一阵\n\n洗澡吃饭",
+          "createdAt": "2026-03-05T19:57:35.173Z"
+        },
+        {
+          "id": "tmmdw1kddjq1f9",
+          "text": "复习coding",
+          "startTime": "11:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "- from collections import deque\n- import heapq 之后是在list上操作的",
+          "createdAt": "2026-03-05T19:58:22.561Z"
+        }
+      ],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-05T19:58:22.562Z"
     }
   }
 }
