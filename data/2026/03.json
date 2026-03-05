@@ -362,6 +362,15 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-05T00:45:47.922Z"
+        },
+        {
+          "id": "tmmctfgticl4pn",
+          "text": "BFS",
+          "startTime": "17:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-05T01:57:26.118Z"
         }
       ],
       "naps": [],
@@ -379,7 +388,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-05T00:45:47.923Z",
+      "updatedAt": "2026-03-05T01:57:26.118Z",
       "shiftReason": ""
     }
   }
