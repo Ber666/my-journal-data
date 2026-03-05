@@ -353,6 +353,15 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-04T23:32:08.102Z"
+        },
+        {
+          "id": "tmmcqvcb6kkkci",
+          "text": "Infection",
+          "startTime": "15:30",
+          "duration": "1h15m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-05T00:45:47.922Z"
         }
       ],
       "naps": [],
@@ -370,7 +379,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-04T23:32:08.103Z",
+      "updatedAt": "2026-03-05T00:45:47.923Z",
       "shiftReason": ""
     }
   }
