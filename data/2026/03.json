@@ -371,6 +371,24 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-05T01:57:26.118Z"
+        },
+        {
+          "id": "tmmd3wa0vl6f7p",
+          "text": "Interview with Bytedance",
+          "startTime": "18:00",
+          "duration": "1h15m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-05T06:50:26.623Z"
+        },
+        {
+          "id": "tmmd466borxx65",
+          "text": "Coding",
+          "startTime": "21:00",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "API: \n\n1. deque\n\n`from collections import deque`\n\n常用方法:\n- `append(x)` / `appendleft(x)`：两端添加，$O(1)$\n- `pop()` / `popleft()`: 两端弹出，$O(1)$。面试场景: BFS 核心队列、LRU 缓存（配合哈希表）、滑动窗口最值。\n\n2. heapq\n\n堆与优先队列 (heapq)\n\nAPI: \n\n`import heapq`\n\n常用方法: `heapq.heapify(list)`：原地建堆，$O(n)$。\n`heapq.heappush(heap, val)`：压入元素，$O(\\log n)$。`heapq.heappop(heap)`：弹出最小元素，$O(\\log n)$。\n\n3. 二分查找 (bisect)\n当你面对有序数组，需要快速查找插入位置时，bisect 是代码量最少的选择。API: \n`import bisect` 常用方法: `bisect.bisect_left(arr, target)`：返回插入 target 且保持有序的最左位置。`bisect.bisect_right(arr, target)`：返回最右位置。`bisect.insort(arr, target)`：查找并插入（插入本身仍是 $O(n)$）",
+          "createdAt": "2026-03-05T06:58:08.388Z"
         }
       ],
       "naps": [],
@@ -388,7 +406,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-05T01:57:26.118Z",
+      "updatedAt": "2026-03-05T06:58:08.388Z",
       "shiftReason": ""
     }
   }
