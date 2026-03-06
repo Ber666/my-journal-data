@@ -456,24 +456,33 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-06T05:59:33.193Z"
+        },
+        {
+          "id": "tmmfciyjon81fe",
+          "text": "Check quality",
+          "startTime": "23:00",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-06T20:27:34.116Z"
         }
       ],
       "naps": [],
       "work": "Human-agent interaction: https://x.com/valeriechen_/status/2029616647984578931?s=20\nSlides-skill: https://x.com/zarazhangrui/status/2029092514435932647?s=20\nSkill-creater: https://x.com/xiaohu/status/2029548875263176877?s=20\nSWE-bench patch: https://x.com/jyangballin/status/2029220400757129628?s=20\nHY-Memory: https://x.com/TencentHunyuan/status/2029644529578692723?s=20",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
-        "comment": ""
+        "bedTime": "02:30",
+        "wakeTime": "10:30",
+        "quality": 6,
+        "comment": "不如早睡早起感觉好"
       },
       "exercise": [],
-      "energy": 0,
+      "energy": 7,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 5,
+        "notes": "第一场面试表现还不错，第二场面试有点失误（和面试官风格有关系）"
       },
       "freeform": "",
-      "updatedAt": "2026-03-06T05:59:33.193Z",
+      "updatedAt": "2026-03-06T20:28:28.611Z",
       "shiftReason": ""
     },
     "2026-03-06": {
@@ -492,9 +501,9 @@
       "naps": [],
       "work": "",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
+        "bedTime": "02:40",
+        "wakeTime": "10:30",
+        "quality": 6,
         "comment": ""
       },
       "exercise": [],
@@ -504,7 +513,8 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-06T07:26:26.852Z"
+      "updatedAt": "2026-03-06T20:33:26.720Z",
+      "shiftReason": ""
     }
   }
 }
