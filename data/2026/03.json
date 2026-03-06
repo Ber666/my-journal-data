@@ -429,6 +429,15 @@
           "plannedIds": [],
           "notes": "- from collections import deque\n- import heapq 之后是在list上操作的",
           "createdAt": "2026-03-05T19:58:22.561Z"
+        },
+        {
+          "id": "tmmdyn527iho5r",
+          "text": "Math",
+          "startTime": "12:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "np.random.rand()\nnp.random.choice()\nnp.random.randint()\n\nnp.random.binomial() -> sample出来\nnp.random.multinomial\nnp.math.factorial()\nnp.prod()\nnp.cumprod()\nplt.figure(figsize=(12, 5))\nnp.arange(start, stop, step)",
+          "createdAt": "2026-03-05T21:11:08.383Z"
         }
       ],
       "naps": [],
@@ -446,7 +455,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-05T20:37:57.217Z",
+      "updatedAt": "2026-03-05T21:11:08.383Z",
       "shiftReason": ""
     }
   }
