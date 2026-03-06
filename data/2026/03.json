@@ -475,6 +475,36 @@
       "freeform": "",
       "updatedAt": "2026-03-06T05:59:33.193Z",
       "shiftReason": ""
+    },
+    "2026-03-06": {
+      "planned": [
+        {
+          "id": "tmmekmfj8m449o",
+          "text": "Test GPT-5.4",
+          "scheduledTime": "08:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-06T07:26:26.852Z"
+        }
+      ],
+      "actual": [],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-06T07:26:26.852Z"
     }
   }
 }
