@@ -510,10 +510,31 @@
       "energy": 6,
       "mental": {
         "mood": 6,
-        "notes": "重做了一部分xai的slides，晚上吃那个"
+        "notes": "重做了一部分xai的slides，晚上吃豪记"
       },
       "freeform": "",
-      "updatedAt": "2026-03-09T08:05:47.881Z",
+      "updatedAt": "2026-03-09T08:40:29.491Z",
+      "shiftReason": ""
+    },
+    "2026-03-08": {
+      "planned": [],
+      "actual": [],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "04:00",
+        "wakeTime": "13:00",
+        "quality": 6,
+        "comment": "夏令时了，所以实际上是三点睡的。醒过几次。"
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "去了costco, 因为找不到想买的东西比较后悔。不过至少也买了坚果。",
+      "updatedAt": "2026-03-09T09:01:37.988Z",
       "shiftReason": ""
     }
   }
