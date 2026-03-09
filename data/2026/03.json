@@ -557,6 +557,101 @@
       "freeform": "去了costco, 因为找不到想买的东西比较后悔。不过至少也买了坚果（根据GPT老师健康增重的建议）。加了油，跑了步。意外地体力还不错，跑了2miles在20min以内，VO2也到了40，考虑到最近作息和压力，感觉是超出预期了，不过也可能是因为瘦了所以身体负担小了。\n\n晚上吃饭和学弟 (Ziche Liu) 聊的时候感觉到有些隐藏的冲突，反思了一下感觉有两个原因，第一个是他与我的context非常不同，但是作出的statment都比较confident。第二个原因是我自己的问题，和最近面试的经历一样，我需要有在短时间内把自己sell出去的能力，不能assume别人都看过你的工作。",
       "updatedAt": "2026-03-09T09:28:59.999Z",
       "shiftReason": ""
+    },
+    "2026-03-09": {
+      "planned": [
+        {
+          "id": "tmmjiaguspo15c",
+          "text": "总结整理Miles",
+          "scheduledTime": "12:00",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:20:00.340Z"
+        },
+        {
+          "id": "tmmjiamixty6n3",
+          "text": "吃饭",
+          "scheduledTime": "12:45",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:20:07.689Z"
+        },
+        {
+          "id": "tmmjiaswjqf8tg",
+          "text": "Meeting",
+          "scheduledTime": "13:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:20:15.955Z"
+        },
+        {
+          "id": "tmmjib1fmuc2gi",
+          "text": "跑verl",
+          "scheduledTime": "15:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:20:27.010Z"
+        },
+        {
+          "id": "tmmjib4p81m1qp",
+          "text": "Gym",
+          "scheduledTime": "16:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:20:31.244Z"
+        },
+        {
+          "id": "tmmjibarae7j3u",
+          "text": "跑verl",
+          "scheduledTime": "17:00",
+          "duration": "1h30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:20:39.094Z"
+        }
+      ],
+      "actual": [
+        {
+          "id": "tmmjhk7idvkamh",
+          "text": "玩手机",
+          "startTime": "09:45",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-09T17:59:35.173Z"
+        },
+        {
+          "id": "tmmjhkchja6jcw",
+          "text": "早饭",
+          "startTime": "10:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-09T17:59:41.623Z"
+        }
+      ],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "03:10",
+        "wakeTime": "09:45",
+        "quality": 6,
+        "comment": "早上被seungwook咕了"
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-09T18:20:39.094Z",
+      "shiftReason": ""
     }
   }
 }
