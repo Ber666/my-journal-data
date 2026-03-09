@@ -718,6 +718,17 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-09T21:27:24.611Z"
+        },
+        {
+          "id": "tmmjpthhadiv0g",
+          "text": "回邮件",
+          "startTime": "14:30",
+          "duration": "30m",
+          "plannedIds": [
+            "tmmjibrfbzm6z1"
+          ],
+          "notes": "",
+          "createdAt": "2026-03-09T21:50:44.926Z"
         }
       ],
       "naps": [],
@@ -735,7 +746,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-09T21:27:24.611Z",
+      "updatedAt": "2026-03-09T21:50:44.926Z",
       "shiftReason": ""
     }
   }
