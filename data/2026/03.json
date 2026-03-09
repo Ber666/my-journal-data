@@ -589,11 +589,11 @@
         },
         {
           "id": "tmmjib1fmuc2gi",
-          "text": "跑verl",
+          "text": "跑verl (1)",
           "scheduledTime": "15:00",
           "duration": "1h",
           "status": "not-started",
-          "notes": "",
+          "notes": "看懂agent rl code, 有个能跑的版本",
           "createdAt": "2026-03-09T18:20:27.010Z"
         },
         {
@@ -607,12 +607,57 @@
         },
         {
           "id": "tmmjibarae7j3u",
-          "text": "跑verl",
+          "text": "跑verl (2)",
           "scheduledTime": "17:00",
           "duration": "1h30m",
           "status": "not-started",
-          "notes": "",
+          "notes": "能训起来",
           "createdAt": "2026-03-09T18:20:39.094Z"
+        },
+        {
+          "id": "tmmjibgpafb7vy",
+          "text": "吃饭",
+          "scheduledTime": "18:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:20:46.798Z"
+        },
+        {
+          "id": "tmmjibrfbzm6z1",
+          "text": "回邮件",
+          "scheduledTime": "14:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:21:00.695Z"
+        },
+        {
+          "id": "tmmjiby0ahh4g0",
+          "text": "跑verl (3)",
+          "scheduledTime": "20:30",
+          "duration": "1h30m",
+          "status": "not-started",
+          "notes": "收工",
+          "createdAt": "2026-03-09T18:21:09.226Z"
+        },
+        {
+          "id": "tmmjic9cnalzne",
+          "text": "Buffer",
+          "scheduledTime": "22:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:21:23.927Z"
+        },
+        {
+          "id": "tmmjiecqrojdcp",
+          "text": "Chat with Zhan",
+          "scheduledTime": "20:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-09T18:23:01.635Z"
         }
       ],
       "actual": [
@@ -650,7 +695,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-09T18:20:39.094Z",
+      "updatedAt": "2026-03-09T18:23:11.064Z",
       "shiftReason": ""
     }
   }
