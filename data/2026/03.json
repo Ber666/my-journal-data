@@ -507,13 +507,13 @@
         "comment": ""
       },
       "exercise": [],
-      "energy": 0,
+      "energy": 6,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 6,
+        "notes": "重做了一部分xai的slides，晚上吃那个"
       },
       "freeform": "",
-      "updatedAt": "2026-03-06T20:33:26.720Z",
+      "updatedAt": "2026-03-09T08:05:47.881Z",
       "shiftReason": ""
     }
   }
