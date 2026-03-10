@@ -751,15 +751,60 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-10T00:13:56.648Z"
+        },
+        {
+          "id": "tmmkedxrpsh5eq",
+          "text": "Update tracker",
+          "startTime": "17:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-10T09:18:29.941Z"
+        },
+        {
+          "id": "tmmkek78ibhryz",
+          "text": "Read miles code",
+          "startTime": "17:45",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-10T09:23:22.146Z"
+        },
+        {
+          "id": "tmmkekyzncj58m",
+          "text": "吃饭，回家",
+          "startTime": "19:30",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "认识了Yue Ma",
+          "createdAt": "2026-03-10T09:23:58.116Z"
+        },
+        {
+          "id": "tmmkelhgvorydh",
+          "text": "Chat with Zhiting",
+          "startTime": "21:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-10T09:24:22.063Z"
+        },
+        {
+          "id": "tmmkelwrsttlg7",
+          "text": "verl + harbor integration",
+          "startTime": "22:30",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-10T09:24:41.896Z"
         }
       ],
       "naps": [],
-      "work": "",
+      "work": "今天和好几个人meet了",
       "sleep": {
         "bedTime": "03:10",
         "wakeTime": "09:45",
         "quality": 6,
-        "comment": "早上被seungwook咕了"
+        "comment": "早上被seungwook咕了，下午困的很厉害"
       },
       "exercise": [],
       "energy": 0,
@@ -768,7 +813,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T01:28:08.240Z",
+      "updatedAt": "2026-03-10T09:25:14.953Z",
       "shiftReason": ""
     },
     "2026-03-10": {
