@@ -651,13 +651,14 @@
           "createdAt": "2026-03-09T18:23:01.635Z"
         },
         {
-          "id": "tmmjw91ju22t27",
+          "id": "tmmjwhb7a4byf2",
           "text": "OpenClaw discussion",
           "scheduledTime": "13:30",
           "duration": "45m",
           "status": "not-started",
           "notes": "",
-          "createdAt": "2026-03-10T00:50:48.474Z"
+          "importedFrom": "gcal",
+          "createdAt": "2026-03-10T00:57:14.230Z"
         }
       ],
       "actual": [
@@ -766,28 +767,30 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T00:50:48.474Z",
+      "updatedAt": "2026-03-10T00:57:14.230Z",
       "shiftReason": ""
     },
     "2026-03-10": {
       "planned": [
         {
-          "id": "tmmjw4ndeyb376",
+          "id": "tmmjwi3jx9eno6",
           "text": "Post-Training Standup",
           "scheduledTime": "09:30",
           "duration": "15m",
           "status": "not-started",
           "notes": "15 mins standup about all Post-Training work\n\nRupesh Srivastava is inviting you to a scheduled Zoom meeting.\nJoin Zoom Meeting\nhttps://zoom.us/j/95533844662?pwd=28gJDmkdyZ4TKNtUXQc8cqcadnoFFU.1&from=addon\n\nMeeting ID: 955 3384 4662\nPasscode: 017674\n\n---\n\nOne tap mobile\n+16694449171,,95533844662#,,,,*017674# US\n+16699009128,,95533844662#,,,,*017674# US (San Jose)\n\nJoin instructions\nhttps://zoom.us/meetings/95533844662/invitations?signature=lNDXXsCpFIzLXJ6Nbt0fMnmDDO0vdB38IKVhwKMvo4w",
-          "createdAt": "2026-03-10T00:47:23.474Z"
+          "importedFrom": "gcal",
+          "createdAt": "2026-03-10T00:57:50.973Z"
         },
         {
-          "id": "tmmjw4ndervprr",
+          "id": "tmmjwi3jxao5qe",
           "text": "Shibo / Seungwook",
           "scheduledTime": "10:00",
           "duration": "45m",
           "status": "not-started",
           "notes": "",
-          "createdAt": "2026-03-10T00:47:23.474Z"
+          "importedFrom": "gcal",
+          "createdAt": "2026-03-10T00:57:50.973Z"
         }
       ],
       "actual": [],
@@ -806,7 +809,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T00:47:23.474Z"
+      "updatedAt": "2026-03-10T00:57:50.973Z"
     }
   }
 }
