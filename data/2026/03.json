@@ -852,7 +852,26 @@
           "createdAt": "2026-03-10T10:18:44.911Z"
         }
       ],
-      "actual": [],
+      "actual": [
+        {
+          "id": "tmml2fl4oe85q1",
+          "text": "赖床",
+          "startTime": "12:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-10T20:31:37.656Z"
+        },
+        {
+          "id": "tmml2fqj189k9h",
+          "text": "研究找工作",
+          "startTime": "13:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-10T20:31:44.653Z"
+        }
+      ],
       "naps": [],
       "work": "",
       "sleep": {
@@ -868,7 +887,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T19:56:34.421Z",
+      "updatedAt": "2026-03-10T20:31:44.653Z",
       "shiftReason": ""
     },
     "2026-03-12": {
