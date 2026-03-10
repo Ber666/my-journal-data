@@ -579,15 +579,6 @@
           "createdAt": "2026-03-09T18:20:07.689Z"
         },
         {
-          "id": "tmmjiaswjqf8tg",
-          "text": "Meeting",
-          "scheduledTime": "13:30",
-          "duration": "1h",
-          "status": "not-started",
-          "notes": "",
-          "createdAt": "2026-03-09T18:20:15.955Z"
-        },
-        {
           "id": "tmmjib1fmuc2gi",
           "text": "跑verl (1)",
           "scheduledTime": "15:00",
@@ -660,13 +651,13 @@
           "createdAt": "2026-03-09T18:23:01.635Z"
         },
         {
-          "id": "tmmjw41zq3a90a",
+          "id": "tmmjw91ju22t27",
           "text": "OpenClaw discussion",
           "scheduledTime": "13:30",
           "duration": "45m",
           "status": "not-started",
           "notes": "",
-          "createdAt": "2026-03-10T00:46:55.766Z"
+          "createdAt": "2026-03-10T00:50:48.474Z"
         }
       ],
       "actual": [
@@ -775,7 +766,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T00:46:55.767Z",
+      "updatedAt": "2026-03-10T00:50:48.474Z",
       "shiftReason": ""
     },
     "2026-03-10": {
