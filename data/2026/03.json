@@ -651,14 +651,15 @@
           "createdAt": "2026-03-09T18:23:01.635Z"
         },
         {
-          "id": "tmmjwhb7a4byf2",
+          "id": "tmmjwoc4zoudxo",
           "text": "OpenClaw discussion",
           "scheduledTime": "13:30",
           "duration": "45m",
           "status": "not-started",
           "notes": "",
           "importedFrom": "gcal",
-          "createdAt": "2026-03-10T00:57:14.230Z"
+          "gcalEventId": "3jim2jct995jvikahhv7raavah",
+          "createdAt": "2026-03-10T01:02:42.035Z"
         }
       ],
       "actual": [
@@ -767,7 +768,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T00:57:14.230Z",
+      "updatedAt": "2026-03-10T01:02:47.375Z",
       "shiftReason": ""
     },
     "2026-03-10": {
