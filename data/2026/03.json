@@ -799,7 +799,7 @@
         }
       ],
       "naps": [],
-      "work": "今天和好几个人meet了",
+      "work": "今天和好几个人meet了，领教了很多关于找工作的知识（字节的价格，怎么互相compete，以及关于xai更多内幕）",
       "sleep": {
         "bedTime": "03:10",
         "wakeTime": "09:45",
@@ -807,13 +807,13 @@
         "comment": "早上被seungwook咕了，下午困的很厉害"
       },
       "exercise": [],
-      "energy": 0,
+      "energy": 5,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 7,
+        "notes": "下午因为缺觉头晕的厉害，心情倒是还不错，和几个人聊天了，也在和朋友保持联系。"
       },
-      "freeform": "",
-      "updatedAt": "2026-03-10T09:25:14.953Z",
+      "freeform": "字节的组没什么不好的（除了一年cliff，那就把base开高点？）",
+      "updatedAt": "2026-03-10T10:14:22.786Z",
       "shiftReason": ""
     },
     "2026-03-10": {
