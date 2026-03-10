@@ -761,7 +761,32 @@
       "shiftReason": ""
     },
     "2026-03-10": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmmjxk384vbk9k",
+          "text": "Post-Training Standup",
+          "scheduledTime": "09:30",
+          "duration": "15m",
+          "status": "not-started",
+          "notes": "",
+          "gcalDescription": "15 mins standup about all Post-Training work\n\nRupesh Srivastava is inviting you to a scheduled Zoom meeting.\nJoin Zoom Meeting\nhttps://zoom.us/j/95533844662?pwd=28gJDmkdyZ4TKNtUXQc8cqcadnoFFU.1&from=addon\n\nMeeting ID: 955 3384 4662\nPasscode: 017674\n\n---\n\nOne tap mobile\n+16694449171,,95533844662#,,,,*017674# US\n+16699009128,,95533844662#,,,,*017674# US (San Jose)\n\nJoin instructions\nhttps://zoom.us/meetings/95533844662/invitations?signature=lNDXXsCpFIzLXJ6Nbt0fMnmDDO0vdB38IKVhwKMvo4w",
+          "importedFrom": "gcal",
+          "gcalEventId": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g70sk8dho68sj4e9k85248gpg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g612j6c1h8gsj2e9m851jeh9k65136gpn6orjae9p8ks36h1p60q0_20260310T163000Z",
+          "createdAt": "2026-03-10T01:27:23.476Z"
+        },
+        {
+          "id": "tmmjxk3847wn5f",
+          "text": "Shibo / Seungwook",
+          "scheduledTime": "10:00",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "gcalDescription": null,
+          "importedFrom": "gcal",
+          "gcalEventId": "6hjb62l4kcdcpakea69er0pjek",
+          "createdAt": "2026-03-10T01:27:23.476Z"
+        }
+      ],
       "actual": [],
       "naps": [],
       "work": "",
@@ -778,7 +803,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T01:27:00.289Z"
+      "updatedAt": "2026-03-10T01:27:23.476Z"
     },
     "2026-03-12": {
       "planned": [],
