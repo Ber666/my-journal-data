@@ -850,6 +850,15 @@
           "status": "not-started",
           "notes": "",
           "createdAt": "2026-03-10T10:18:44.911Z"
+        },
+        {
+          "id": "tmml2sejxdxppo",
+          "text": "回邮件",
+          "scheduledTime": "15:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-10T20:41:35.661Z"
         }
       ],
       "actual": [
@@ -870,6 +879,15 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-10T20:31:44.653Z"
+        },
+        {
+          "id": "tmml2u7l2bw3k2",
+          "text": "洗衣服",
+          "startTime": "13:45",
+          "duration": "15m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-10T20:42:59.942Z"
         }
       ],
       "naps": [],
@@ -887,7 +905,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T20:31:44.653Z",
+      "updatedAt": "2026-03-10T20:42:59.942Z",
       "shiftReason": ""
     },
     "2026-03-12": {
