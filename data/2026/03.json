@@ -658,6 +658,15 @@
           "status": "not-started",
           "notes": "",
           "createdAt": "2026-03-09T18:23:01.635Z"
+        },
+        {
+          "id": "tmmjw41zq3a90a",
+          "text": "OpenClaw discussion",
+          "scheduledTime": "13:30",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-10T00:46:55.766Z"
         }
       ],
       "actual": [
@@ -766,8 +775,47 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T00:13:56.648Z",
+      "updatedAt": "2026-03-10T00:46:55.767Z",
       "shiftReason": ""
+    },
+    "2026-03-10": {
+      "planned": [
+        {
+          "id": "tmmjw4ndeyb376",
+          "text": "Post-Training Standup",
+          "scheduledTime": "09:30",
+          "duration": "15m",
+          "status": "not-started",
+          "notes": "15 mins standup about all Post-Training work\n\nRupesh Srivastava is inviting you to a scheduled Zoom meeting.\nJoin Zoom Meeting\nhttps://zoom.us/j/95533844662?pwd=28gJDmkdyZ4TKNtUXQc8cqcadnoFFU.1&from=addon\n\nMeeting ID: 955 3384 4662\nPasscode: 017674\n\n---\n\nOne tap mobile\n+16694449171,,95533844662#,,,,*017674# US\n+16699009128,,95533844662#,,,,*017674# US (San Jose)\n\nJoin instructions\nhttps://zoom.us/meetings/95533844662/invitations?signature=lNDXXsCpFIzLXJ6Nbt0fMnmDDO0vdB38IKVhwKMvo4w",
+          "createdAt": "2026-03-10T00:47:23.474Z"
+        },
+        {
+          "id": "tmmjw4ndervprr",
+          "text": "Shibo / Seungwook",
+          "scheduledTime": "10:00",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-10T00:47:23.474Z"
+        }
+      ],
+      "actual": [],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-10T00:47:23.474Z"
     }
   }
 }
