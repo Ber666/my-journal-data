@@ -565,7 +565,7 @@
           "text": "总结整理Miles",
           "scheduledTime": "12:00",
           "duration": "45m",
-          "status": "not-started",
+          "status": "in-progress",
           "notes": "",
           "createdAt": "2026-03-09T18:20:00.340Z"
         },
@@ -574,7 +574,7 @@
           "text": "吃饭",
           "scheduledTime": "12:45",
           "duration": "45m",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "createdAt": "2026-03-09T18:20:07.689Z"
         },
@@ -583,7 +583,7 @@
           "text": "跑verl (1)",
           "scheduledTime": "15:00",
           "duration": "1h",
-          "status": "not-started",
+          "status": "in-progress",
           "notes": "看懂agent rl code, 有个能跑的版本",
           "createdAt": "2026-03-09T18:20:27.010Z"
         },
@@ -592,7 +592,7 @@
           "text": "Gym",
           "scheduledTime": "16:00",
           "duration": "1h",
-          "status": "not-started",
+          "status": "cancelled",
           "notes": "",
           "createdAt": "2026-03-09T18:20:31.244Z"
         },
@@ -601,7 +601,7 @@
           "text": "跑verl (2)",
           "scheduledTime": "17:00",
           "duration": "1h30m",
-          "status": "not-started",
+          "status": "cancelled",
           "notes": "能训起来",
           "createdAt": "2026-03-09T18:20:39.094Z"
         },
@@ -610,7 +610,7 @@
           "text": "吃饭",
           "scheduledTime": "18:30",
           "duration": "1h",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "createdAt": "2026-03-09T18:20:46.798Z"
         },
@@ -619,7 +619,7 @@
           "text": "回邮件",
           "scheduledTime": "14:30",
           "duration": "30m",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "createdAt": "2026-03-09T18:21:00.695Z"
         },
@@ -628,7 +628,7 @@
           "text": "跑verl (3)",
           "scheduledTime": "20:30",
           "duration": "1h30m",
-          "status": "not-started",
+          "status": "cancelled",
           "notes": "收工",
           "createdAt": "2026-03-09T18:21:09.226Z"
         },
@@ -637,7 +637,7 @@
           "text": "Buffer",
           "scheduledTime": "22:00",
           "duration": "30m",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "createdAt": "2026-03-09T18:21:23.927Z"
         },
@@ -646,7 +646,7 @@
           "text": "Chat with Zhan",
           "scheduledTime": "20:00",
           "duration": "30m",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "createdAt": "2026-03-09T18:23:01.635Z"
         },
@@ -655,7 +655,7 @@
           "text": "OpenClaw discussion",
           "scheduledTime": "13:30",
           "duration": "45m",
-          "status": "not-started",
+          "status": "done",
           "notes": "",
           "importedFrom": "gcal",
           "gcalEventId": "3jim2jct995jvikahhv7raavah",
@@ -812,8 +812,8 @@
         "mood": 7,
         "notes": "下午因为缺觉头晕的厉害，心情倒是还不错，和几个人聊天了，也在和朋友保持联系。"
       },
-      "freeform": "字节的组没什么不好的（除了一年cliff，那就把base开高点？）",
-      "updatedAt": "2026-03-10T10:14:22.786Z",
+      "freeform": "字节的组没什么不好的（除了一年cliff，那就把base开高点？）\n似乎现在的困境在于overtask太多。只能祈祷xAI这边给offer，然后我就可以继续逐项击破了。不然真的很难了。",
+      "updatedAt": "2026-03-10T10:28:00.963Z",
       "shiftReason": ""
     },
     "2026-03-10": {
@@ -841,15 +841,24 @@
           "importedFrom": "gcal",
           "gcalEventId": "6hjb62l4kcdcpakea69er0pjek",
           "createdAt": "2026-03-10T01:27:23.476Z"
+        },
+        {
+          "id": "tmmkgjf3jeupng",
+          "text": "Upload Insurance",
+          "scheduledTime": "00:00",
+          "duration": "10m",
+          "status": "not-started",
+          "notes": "",
+          "createdAt": "2026-03-10T10:18:44.911Z"
         }
       ],
       "actual": [],
       "naps": [],
       "work": "",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
+        "bedTime": "03:30",
+        "wakeTime": "12:00",
+        "quality": 7,
         "comment": ""
       },
       "exercise": [],
@@ -859,7 +868,8 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T01:27:23.476Z"
+      "updatedAt": "2026-03-10T19:56:34.421Z",
+      "shiftReason": ""
     },
     "2026-03-12": {
       "planned": [],
