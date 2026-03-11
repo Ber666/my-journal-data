@@ -965,10 +965,10 @@
       "energy": 5,
       "mental": {
         "mood": 5,
-        "notes": "缺觉。因为和hzt聊了，感觉很无力。"
+        "notes": "缺觉。因为和hzt聊了之后觉得字节不好，感觉很无力。"
       },
-      "freeform": "",
-      "updatedAt": "2026-03-11T04:40:44.676Z",
+      "freeform": "- 如果有xai的offer，一切都迎刃而解。我可以积累model training的经验跳到humans&\n- 如果没有的话，几个选项：去meta做intern，考虑去msr，那个postdoc...?",
+      "updatedAt": "2026-03-11T06:05:58.914Z",
       "shiftReason": ""
     },
     "2026-03-12": {
