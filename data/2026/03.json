@@ -924,6 +924,24 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-11T03:27:44.285Z"
+        },
+        {
+          "id": "tmmljwd848rdrs",
+          "text": "verl + harbor",
+          "startTime": "20:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T04:40:34.036Z"
+        },
+        {
+          "id": "tmmljwlfozs5hk",
+          "text": "survey找工作",
+          "startTime": "21:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T04:40:44.676Z"
         }
       ],
       "naps": [
@@ -950,7 +968,7 @@
         "notes": "缺觉。因为和hzt聊了，感觉很无力。"
       },
       "freeform": "",
-      "updatedAt": "2026-03-11T03:41:09.432Z",
+      "updatedAt": "2026-03-11T04:40:44.676Z",
       "shiftReason": ""
     },
     "2026-03-12": {
