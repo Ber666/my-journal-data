@@ -990,6 +990,81 @@
       },
       "freeform": "",
       "updatedAt": "2026-03-10T01:21:46.491Z"
+    },
+    "2026-03-11": {
+      "planned": [],
+      "actual": [
+        {
+          "id": "tmmmmra0jqgd7e",
+          "text": "Meeting",
+          "startTime": "11:30",
+          "duration": "1h15m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T22:48:21.619Z"
+        },
+        {
+          "id": "tmmmmrfh90a4j0",
+          "text": "早饭",
+          "startTime": "11:15",
+          "duration": "15m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T22:48:28.701Z"
+        },
+        {
+          "id": "tmmmmrs3wcrw4f",
+          "text": "Survey找工作",
+          "startTime": "12:45",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T22:48:45.068Z"
+        },
+        {
+          "id": "tmmmms27k3htuv",
+          "text": "吃饭",
+          "startTime": "14:15",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T22:48:58.161Z"
+        },
+        {
+          "id": "tmmmms64oudxw9",
+          "text": "通勤",
+          "startTime": "15:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T22:49:03.240Z"
+        },
+        {
+          "id": "tmmmmshe69vd2r",
+          "text": "CocoaBench",
+          "startTime": "15:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T22:49:17.838Z"
+        }
+      ],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-11T22:49:17.838Z"
     }
   }
 }
