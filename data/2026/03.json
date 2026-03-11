@@ -888,6 +888,33 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-10T20:42:59.942Z"
+        },
+        {
+          "id": "tmmlfh0xyqz1mz",
+          "text": "verl + harbor",
+          "startTime": "18:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T02:36:39.814Z"
+        },
+        {
+          "id": "tmmlfhl03zjqma",
+          "text": "吃饭",
+          "startTime": "14:15",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T02:37:05.811Z"
+        },
+        {
+          "id": "tmmlfhtos9zy14",
+          "text": "verl + harbor",
+          "startTime": "15:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T02:37:17.068Z"
         }
       ],
       "naps": [
@@ -914,7 +941,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-11T02:36:13.318Z",
+      "updatedAt": "2026-03-11T02:37:17.068Z",
       "shiftReason": ""
     },
     "2026-03-12": {
