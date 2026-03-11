@@ -915,6 +915,15 @@
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-11T02:37:17.068Z"
+        },
+        {
+          "id": "tmmlhapi5i56uf",
+          "text": "Dinner",
+          "startTime": "19:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-11T03:27:44.285Z"
         }
       ],
       "naps": [
@@ -941,7 +950,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-11T02:37:17.068Z",
+      "updatedAt": "2026-03-11T03:27:44.285Z",
       "shiftReason": ""
     },
     "2026-03-12": {
