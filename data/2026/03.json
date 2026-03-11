@@ -890,7 +890,16 @@
           "createdAt": "2026-03-10T20:42:59.942Z"
         }
       ],
-      "naps": [],
+      "naps": [
+        {
+          "id": "tmmlfgghyqu7u0",
+          "startTime": "16:30",
+          "duration": "2h",
+          "quality": 5,
+          "notes": "一直在做梦",
+          "actualTaskId": null
+        }
+      ],
       "work": "",
       "sleep": {
         "bedTime": "03:30",
@@ -905,7 +914,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T20:42:59.942Z",
+      "updatedAt": "2026-03-11T02:36:13.318Z",
       "shiftReason": ""
     },
     "2026-03-12": {
