@@ -1043,7 +1043,7 @@
           "id": "tmmmmshe69vd2r",
           "text": "CocoaBench",
           "startTime": "15:30",
-          "duration": "1h",
+          "duration": "2h",
           "plannedIds": [],
           "notes": "",
           "createdAt": "2026-03-11T22:49:17.838Z"
@@ -1064,7 +1064,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-11T22:49:17.838Z"
+      "updatedAt": "2026-03-12T00:12:12.486Z"
     }
   }
 }
