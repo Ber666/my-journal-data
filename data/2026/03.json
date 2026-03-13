@@ -1136,6 +1136,36 @@
       "freeform": "",
       "updatedAt": "2026-03-13T09:08:41.451Z",
       "shiftReason": ""
+    },
+    "2026-03-13": {
+      "planned": [],
+      "actual": [
+        {
+          "id": "tmmpgtwgknro3b",
+          "text": "Review",
+          "startTime": "15:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-13T22:25:44.852Z"
+        }
+      ],
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-13T22:25:44.852Z"
     }
   }
 }
