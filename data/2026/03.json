@@ -972,9 +972,65 @@
       "shiftReason": ""
     },
     "2026-03-12": {
-      "planned": [],
-      "actual": [],
-      "naps": [],
+      "planned": [
+        {
+          "id": "tmmomruxasivav",
+          "text": "Victoria / Shibo",
+          "scheduledTime": "11:00",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "gcalDescription": null,
+          "importedFrom": "gcal",
+          "gcalEventId": "22mocn03uko1e9psvjmvppmbsh",
+          "createdAt": "2026-03-13T08:24:21.070Z"
+        },
+        {
+          "id": "tmmomruxa6x8ko",
+          "text": "Dentist",
+          "scheduledTime": "13:30",
+          "duration": "1h 30m",
+          "status": "not-started",
+          "notes": "",
+          "gcalDescription": null,
+          "importedFrom": "gcal",
+          "gcalEventId": "1d8hpr8uce630c8c65mdf6iip8",
+          "createdAt": "2026-03-13T08:24:21.070Z"
+        },
+        {
+          "id": "tmmomruxall23d",
+          "text": "CocoaBench",
+          "scheduledTime": "21:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "gcalDescription": "https://ucsd.zoom.us/j/94759867721",
+          "importedFrom": "gcal",
+          "gcalEventId": "22cvcpaft1bsttufdevmq98gvt_20260313T043000Z",
+          "createdAt": "2026-03-13T08:24:21.070Z"
+        }
+      ],
+      "actual": [
+        {
+          "id": "tmmomsm803v8jm",
+          "text": "Dinner",
+          "startTime": "18:00",
+          "duration": "3h30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-13T08:24:56.448Z"
+        }
+      ],
+      "naps": [
+        {
+          "id": "tmmonqt6ojavc3",
+          "startTime": "16:40",
+          "duration": "40m",
+          "quality": 0,
+          "notes": "",
+          "actualTaskId": null
+        }
+      ],
       "work": "",
       "sleep": {
         "bedTime": "",
@@ -989,7 +1045,7 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-10T01:21:46.491Z"
+      "updatedAt": "2026-03-13T08:51:31.776Z"
     },
     "2026-03-11": {
       "planned": [],
