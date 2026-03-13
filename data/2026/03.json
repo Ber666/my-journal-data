@@ -1038,14 +1038,21 @@
         "quality": 0,
         "comment": ""
       },
-      "exercise": [],
+      "exercise": [
+        {
+          "name": "Gym",
+          "duration": "30m",
+          "intensity": "medium",
+          "comment": "胸，肩"
+        }
+      ],
       "energy": 0,
       "mental": {
         "mood": 0,
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-13T08:51:31.776Z"
+      "updatedAt": "2026-03-13T08:52:11.877Z"
     },
     "2026-03-11": {
       "planned": [],
@@ -1108,19 +1115,27 @@
       "naps": [],
       "work": "",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
-        "comment": ""
+        "bedTime": "03:30",
+        "wakeTime": "10:30",
+        "quality": 5,
+        "comment": "没休息好"
       },
-      "exercise": [],
+      "exercise": [
+        {
+          "name": "Badminton",
+          "duration": "1h30m",
+          "intensity": "high",
+          "comment": ""
+        }
+      ],
       "energy": 0,
       "mental": {
         "mood": 0,
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-12T00:12:12.486Z"
+      "updatedAt": "2026-03-13T09:08:41.451Z",
+      "shiftReason": ""
     }
   }
 }
