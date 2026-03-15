@@ -29,6 +29,16 @@
       "id": "mmr2r53kbjz4gwmj3hc",
       "name": "Social",
       "color": "#1ABC9C"
+    },
+    {
+      "id": "mmseaubmxory6magqy7",
+      "name": "Drinks",
+      "color": "#5B9BD5"
+    },
+    {
+      "id": "mmseaubmmg80f9qayo",
+      "name": "Snacks",
+      "color": "#F0A500"
     }
   ],
   "tags": [
@@ -191,6 +201,36 @@
       "id": "tmmriv3a6eudry",
       "name": "Chit-chat",
       "groupId": "mmr2pus4r257p92vogm"
+    },
+    {
+      "id": "mmseaubmwr4cssf41t",
+      "name": "Coffee",
+      "groupId": "mmseaubmxory6magqy7"
+    },
+    {
+      "id": "mmseaubmzl347keq3bm",
+      "name": "Tea",
+      "groupId": "mmseaubmxory6magqy7"
+    },
+    {
+      "id": "mmseaubmp613nbm8f7o",
+      "name": "Water",
+      "groupId": "mmseaubmxory6magqy7"
+    },
+    {
+      "id": "mmseaubms7l74oi9l6k",
+      "name": "Juice",
+      "groupId": "mmseaubmxory6magqy7"
+    },
+    {
+      "id": "mmseaubmie719l7up5l",
+      "name": "Alcohol",
+      "groupId": "mmseaubmxory6magqy7"
+    },
+    {
+      "id": "mmseaubmilh0ge4ckm",
+      "name": "Snack",
+      "groupId": "mmseaubmmg80f9qayo"
     }
   ],
   "projects": [
@@ -221,5 +261,5 @@
       "color": "#1BA87A"
     }
   ],
-  "updatedAt": "2026-03-15T05:24:58.096Z"
+  "updatedAt": "2026-03-15T23:40:50.935Z"
 }
