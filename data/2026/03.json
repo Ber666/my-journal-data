@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T05:25:54.186Z",
+      "updatedAt": "2026-03-15T05:26:12.753Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1238,6 +1238,21 @@
             "mmr5p9jq6dkxberbb3"
           ],
           "createdAt": "2026-03-15T03:03:17.877Z"
+        },
+        {
+          "id": "tmmrbah3luh3m1",
+          "text": "Test log entry",
+          "startTime": "14:00",
+          "duration": "30m",
+          "notes": "testing CLI log",
+          "tagIds": [
+            "tmmqzxj673qgii"
+          ],
+          "projectIds": [
+            "tmmqzxn2s5kepu"
+          ],
+          "plannedIds": [],
+          "createdAt": "2026-03-15T05:26:12.753Z"
         }
       ],
       "morningMessage": "",
