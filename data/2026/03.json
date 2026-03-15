@@ -13,7 +13,24 @@
           "createdAt": "2026-03-01T23:47:30.203Z"
         }
       ],
-      "actual": [
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "02:40",
+        "wakeTime": "12:30",
+        "quality": 6,
+        "comment": "前一天晚上因为楼上开party加上压力大情绪不好(和GPT聊天规划之后的trip才缓解)，睡前吃了褪黑素，中间醒过几次，十点半闹钟明显还在深睡，就回去继续睡了。"
+      },
+      "exercise": [],
+      "energy": 4,
+      "mental": {
+        "mood": 7,
+        "notes": "精神不是很好，不知道是不是褪黑素的问题。"
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-15T01:11:29.151Z",
+      "shiftReason": "",
+      "log": [
         {
           "id": "tmm8efumu27g9u",
           "text": "醒后玩手机👎",
@@ -79,28 +96,27 @@
           "notes": "",
           "createdAt": "2026-03-02T06:56:03.048Z"
         }
-      ],
-      "naps": [],
-      "work": "",
-      "sleep": {
-        "bedTime": "02:40",
-        "wakeTime": "12:30",
-        "quality": 6,
-        "comment": "前一天晚上因为楼上开party加上压力大情绪不好(和GPT聊天规划之后的trip才缓解)，睡前吃了褪黑素，中间醒过几次，十点半闹钟明显还在深睡，就回去继续睡了。"
-      },
-      "exercise": [],
-      "energy": 4,
-      "mental": {
-        "mood": 7,
-        "notes": "精神不是很好，不知道是不是褪黑素的问题。"
-      },
-      "freeform": "",
-      "updatedAt": "2026-03-02T06:59:13.449Z",
-      "shiftReason": ""
+      ]
     },
     "2026-03-02": {
       "planned": [],
-      "actual": [
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-15T01:11:29.151Z",
+      "log": [
         {
           "id": "tmm9jeafdzbk0u",
           "text": "起床洗漱",
@@ -191,27 +207,28 @@
           "notes": "GLM-5 Mid-train: concatenating repo-level code files, commit diffs, GitHub issues, pull requests, and relevant source files into unified training sequences (10 million issue–PR pairs, 160B unique tokens)\n\nGLM-5 SFT: A large number of execution environments, with particular emphasis on real-world scenarios and long-horizon tasks. We further improve the SFT data using **expert reinforcement learning and rejection sampling**. Erroneous segments within trajectories are retained but **masked out** in the loss function, allowing the model to learn error correction behaviors without reinforcing incorrect actions.",
           "createdAt": "2026-03-03T08:06:50.630Z"
         }
-      ],
-      "naps": [],
-      "work": "",
-      "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
-        "comment": ""
-      },
-      "exercise": [],
-      "energy": 0,
-      "mental": {
-        "mood": 0,
-        "notes": ""
-      },
-      "freeform": "",
-      "updatedAt": "2026-03-03T08:06:50.630Z"
+      ]
     },
     "2026-03-03": {
       "planned": [],
-      "actual": [
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "03:30",
+        "wakeTime": "09:30",
+        "quality": 6,
+        "comment": "时间短，但是质量还可以，起来的时候在做梦，也不算太痛苦。"
+      },
+      "exercise": [],
+      "energy": 7,
+      "mental": {
+        "mood": 6,
+        "notes": "被逼着要做xai的slides，效率比较高。晚上晓东约我明天上午chat，不确定聊啥，感觉可能会比较难顶。"
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-15T01:11:29.151Z",
+      "shiftReason": "",
+      "log": [
         {
           "id": "tmmbn3sxwfqt12",
           "text": "Prepare for talk",
@@ -275,24 +292,7 @@
           "notes": "**Martingales**: a mathematical model of a \"fair game.\" A sequence of random variables $X_1, X_2, \\dots, X_n$ is a martingale if the expected value of the next observation, given all the past observations, is exactly equal to the most recent observation:$E[X_{n+1} | X_1, X_2, \\dots, X_n] = X_n$，想象多轮抛硬币赌钱就是了\n\n**Optional Stopping Theorem (OST)**: If $M_n$ is a martingale and $\\tau$ is a valid stopping time (a rule for stopping that only depends on the present and past, not the future), then under certain bounded conditions:$$E[M_\\tau] = E[M_0]$$\n\n这里stopping time不是constant. 举例，如果我有100块，停止条件是赢到150或者输光，这两种结局的期望仍然是100，所以是p * 150 + (1 - p) * 0 = 100\n\n还看了下水印的实现方法 (a hash value depending on the previous context)",
           "createdAt": "2026-03-04T07:34:36.414Z"
         }
-      ],
-      "naps": [],
-      "work": "",
-      "sleep": {
-        "bedTime": "03:30",
-        "wakeTime": "09:30",
-        "quality": 6,
-        "comment": "时间短，但是质量还可以，起来的时候在做梦，也不算太痛苦。"
-      },
-      "exercise": [],
-      "energy": 7,
-      "mental": {
-        "mood": 6,
-        "notes": "被逼着要做xai的slides，效率比较高。晚上晓东约我明天上午chat，不确定聊啥，感觉可能会比较难顶。"
-      },
-      "freeform": "",
-      "updatedAt": "2026-03-04T07:34:36.414Z",
-      "shiftReason": ""
+      ]
     },
     "2026-03-04": {
       "planned": [
@@ -324,7 +324,24 @@
           "createdAt": "2026-03-04T07:38:50.445Z"
         }
       ],
-      "actual": [
+      "naps": [],
+      "work": "https://x.com/jyangballin/status/2029220400757129628?s=20\n\ndeque, heapq, sortedcontainers",
+      "sleep": {
+        "bedTime": "00:20",
+        "wakeTime": "08:50",
+        "quality": 9,
+        "comment": "最健康的一集。中间醒了一次，但是起床之后还是比较舒服的。"
+      },
+      "exercise": [],
+      "energy": 7,
+      "mental": {
+        "mood": 7,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-15T01:11:29.151Z",
+      "shiftReason": "",
+      "log": [
         {
           "id": "tmmcgdyc6vcm6k",
           "text": "等比数列和差比数列求和",
@@ -390,28 +407,28 @@
           "notes": "API: \n\n1. deque\n\n`from collections import deque`\n\n常用方法:\n- `append(x)` / `appendleft(x)`：两端添加，$O(1)$\n- `pop()` / `popleft()`: 两端弹出，$O(1)$。面试场景: BFS 核心队列、LRU 缓存（配合哈希表）、滑动窗口最值。\n\n2. heapq\n\n堆与优先队列 (heapq)\n\nAPI: \n\n`import heapq`\n\n常用方法: `heapq.heapify(list)`：原地建堆，$O(n)$。\n`heapq.heappush(heap, val)`：压入元素，$O(\\log n)$。`heapq.heappop(heap)`：弹出最小元素，$O(\\log n)$。\n\n3. 二分查找 (bisect)\n当你面对有序数组，需要快速查找插入位置时，bisect 是代码量最少的选择。API: \n`import bisect` 常用方法: `bisect.bisect_left(arr, target)`：返回插入 target 且保持有序的最左位置。`bisect.bisect_right(arr, target)`：返回最右位置。`bisect.insort(arr, target)`：查找并插入（插入本身仍是 $O(n)$）",
           "createdAt": "2026-03-05T06:58:08.388Z"
         }
-      ],
+      ]
+    },
+    "2026-03-05": {
+      "planned": [],
       "naps": [],
-      "work": "https://x.com/jyangballin/status/2029220400757129628?s=20\n\ndeque, heapq, sortedcontainers",
+      "work": "Human-agent interaction: https://x.com/valeriechen_/status/2029616647984578931?s=20\nSlides-skill: https://x.com/zarazhangrui/status/2029092514435932647?s=20\nSkill-creater: https://x.com/xiaohu/status/2029548875263176877?s=20\nSWE-bench patch: https://x.com/jyangballin/status/2029220400757129628?s=20\nHY-Memory: https://x.com/TencentHunyuan/status/2029644529578692723?s=20",
       "sleep": {
-        "bedTime": "00:20",
-        "wakeTime": "08:50",
-        "quality": 9,
-        "comment": "最健康的一集。中间醒了一次，但是起床之后还是比较舒服的。"
+        "bedTime": "02:30",
+        "wakeTime": "10:30",
+        "quality": 6,
+        "comment": "不如早睡早起感觉好"
       },
       "exercise": [],
       "energy": 7,
       "mental": {
-        "mood": 7,
-        "notes": ""
+        "mood": 5,
+        "notes": "第一场面试表现还不错，第二场面试有点失误（和面试官风格有关系）"
       },
       "freeform": "",
-      "updatedAt": "2026-03-05T20:20:15.843Z",
-      "shiftReason": ""
-    },
-    "2026-03-05": {
-      "planned": [],
-      "actual": [
+      "updatedAt": "2026-03-15T01:11:29.151Z",
+      "shiftReason": "",
+      "log": [
         {
           "id": "tmmdw0jt1ez8uo",
           "text": "起床洗漱",
@@ -466,24 +483,7 @@
           "notes": "",
           "createdAt": "2026-03-06T20:27:34.116Z"
         }
-      ],
-      "naps": [],
-      "work": "Human-agent interaction: https://x.com/valeriechen_/status/2029616647984578931?s=20\nSlides-skill: https://x.com/zarazhangrui/status/2029092514435932647?s=20\nSkill-creater: https://x.com/xiaohu/status/2029548875263176877?s=20\nSWE-bench patch: https://x.com/jyangballin/status/2029220400757129628?s=20\nHY-Memory: https://x.com/TencentHunyuan/status/2029644529578692723?s=20",
-      "sleep": {
-        "bedTime": "02:30",
-        "wakeTime": "10:30",
-        "quality": 6,
-        "comment": "不如早睡早起感觉好"
-      },
-      "exercise": [],
-      "energy": 7,
-      "mental": {
-        "mood": 5,
-        "notes": "第一场面试表现还不错，第二场面试有点失误（和面试官风格有关系）"
-      },
-      "freeform": "",
-      "updatedAt": "2026-03-06T20:28:28.611Z",
-      "shiftReason": ""
+      ]
     },
     "2026-03-06": {
       "planned": [
@@ -497,7 +497,6 @@
           "createdAt": "2026-03-06T07:26:26.852Z"
         }
       ],
-      "actual": [],
       "naps": [],
       "work": "",
       "sleep": {
@@ -513,12 +512,12 @@
         "notes": "重做了一部分xai的slides，晚上吃豪记"
       },
       "freeform": "",
-      "updatedAt": "2026-03-09T08:40:29.491Z",
-      "shiftReason": ""
+      "updatedAt": "2026-03-15T01:11:29.152Z",
+      "shiftReason": "",
+      "log": []
     },
     "2026-03-08": {
       "planned": [],
-      "actual": [],
       "naps": [],
       "work": "",
       "sleep": {
@@ -534,12 +533,12 @@
         "notes": ""
       },
       "freeform": "打了一天文明，和一个master学弟meet了一会，很厉害，希望能合作，但是表达的还不是很清楚。\n\n主动联系朋友！！在计划去chicago玩了，一下子就感觉开心了很多。",
-      "updatedAt": "2026-03-09T09:39:19.217Z",
-      "shiftReason": ""
+      "updatedAt": "2026-03-15T01:11:29.152Z",
+      "shiftReason": "",
+      "log": []
     },
     "2026-03-07": {
       "planned": [],
-      "actual": [],
       "naps": [],
       "work": "",
       "sleep": {
@@ -555,8 +554,9 @@
         "notes": ""
       },
       "freeform": "去了costco, 因为找不到想买的东西比较后悔。不过至少也买了坚果（根据GPT老师健康增重的建议）。加了油，跑了步。意外地体力还不错，跑了2miles在20min以内，VO2也到了40，考虑到最近作息和压力，感觉是超出预期了，不过也可能是因为瘦了所以身体负担小了。\n\n晚上吃饭和学弟 (Ziche Liu) 聊的时候感觉到有些隐藏的冲突，反思了一下感觉有两个原因，第一个是他与我的context非常不同，但是作出的statment都比较confident。第二个原因是我自己的问题，和最近面试的经历一样，我需要有在短时间内把自己sell出去的能力，不能assume别人都看过你的工作。",
-      "updatedAt": "2026-03-09T09:28:59.999Z",
-      "shiftReason": ""
+      "updatedAt": "2026-03-15T01:11:29.152Z",
+      "shiftReason": "",
+      "log": []
     },
     "2026-03-09": {
       "planned": [
@@ -662,7 +662,24 @@
           "createdAt": "2026-03-10T01:28:08.239Z"
         }
       ],
-      "actual": [
+      "naps": [],
+      "work": "今天和好几个人meet了，领教了很多关于找工作的知识（字节的价格，怎么互相compete，以及关于xai更多内幕）",
+      "sleep": {
+        "bedTime": "03:10",
+        "wakeTime": "09:45",
+        "quality": 6,
+        "comment": "早上被seungwook咕了，下午困的很厉害"
+      },
+      "exercise": [],
+      "energy": 5,
+      "mental": {
+        "mood": 7,
+        "notes": "下午因为缺觉头晕的厉害，心情倒是还不错，和几个人聊天了，也在和朋友保持联系。"
+      },
+      "freeform": "字节的组没什么不好的（除了一年cliff，那就把base开高点？）\n似乎现在的困境在于overtask太多。只能祈祷xAI这边给offer，然后我就可以继续逐项击破了。不然真的很难了。",
+      "updatedAt": "2026-03-15T01:11:29.148Z",
+      "shiftReason": "",
+      "log": [
         {
           "id": "tmmjhk7idvkamh",
           "text": "玩手机",
@@ -797,24 +814,7 @@
           "notes": "",
           "createdAt": "2026-03-10T09:24:41.896Z"
         }
-      ],
-      "naps": [],
-      "work": "今天和好几个人meet了，领教了很多关于找工作的知识（字节的价格，怎么互相compete，以及关于xai更多内幕）",
-      "sleep": {
-        "bedTime": "03:10",
-        "wakeTime": "09:45",
-        "quality": 6,
-        "comment": "早上被seungwook咕了，下午困的很厉害"
-      },
-      "exercise": [],
-      "energy": 5,
-      "mental": {
-        "mood": 7,
-        "notes": "下午因为缺觉头晕的厉害，心情倒是还不错，和几个人聊天了，也在和朋友保持联系。"
-      },
-      "freeform": "字节的组没什么不好的（除了一年cliff，那就把base开高点？）\n似乎现在的困境在于overtask太多。只能祈祷xAI这边给offer，然后我就可以继续逐项击破了。不然真的很难了。",
-      "updatedAt": "2026-03-10T10:28:00.963Z",
-      "shiftReason": ""
+      ]
     },
     "2026-03-10": {
       "planned": [
@@ -861,7 +861,33 @@
           "createdAt": "2026-03-10T20:41:35.661Z"
         }
       ],
-      "actual": [
+      "naps": [
+        {
+          "id": "tmmlfgghyqu7u0",
+          "startTime": "16:30",
+          "duration": "2h",
+          "quality": 5,
+          "notes": "一直在做梦",
+          "actualTaskId": null
+        }
+      ],
+      "work": "",
+      "sleep": {
+        "bedTime": "03:30",
+        "wakeTime": "12:00",
+        "quality": 7,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 5,
+      "mental": {
+        "mood": 5,
+        "notes": "缺觉。因为和hzt聊了之后觉得字节不好，感觉很无力。"
+      },
+      "freeform": "- 如果有xai的offer，一切都迎刃而解。我可以积累model training的经验跳到humans&\n- 如果没有的话，几个选项：去meta做intern，考虑去msr，那个postdoc...?",
+      "updatedAt": "2026-03-15T01:11:29.149Z",
+      "shiftReason": "",
+      "log": [
         {
           "id": "tmml2fl4oe85q1",
           "text": "赖床",
@@ -943,33 +969,7 @@
           "notes": "",
           "createdAt": "2026-03-11T04:40:44.676Z"
         }
-      ],
-      "naps": [
-        {
-          "id": "tmmlfgghyqu7u0",
-          "startTime": "16:30",
-          "duration": "2h",
-          "quality": 5,
-          "notes": "一直在做梦",
-          "actualTaskId": null
-        }
-      ],
-      "work": "",
-      "sleep": {
-        "bedTime": "03:30",
-        "wakeTime": "12:00",
-        "quality": 7,
-        "comment": ""
-      },
-      "exercise": [],
-      "energy": 5,
-      "mental": {
-        "mood": 5,
-        "notes": "缺觉。因为和hzt聊了之后觉得字节不好，感觉很无力。"
-      },
-      "freeform": "- 如果有xai的offer，一切都迎刃而解。我可以积累model training的经验跳到humans&\n- 如果没有的话，几个选项：去meta做intern，考虑去msr，那个postdoc...?",
-      "updatedAt": "2026-03-11T06:05:58.914Z",
-      "shiftReason": ""
+      ]
     },
     "2026-03-12": {
       "planned": [
@@ -1010,17 +1010,6 @@
           "createdAt": "2026-03-13T08:24:21.070Z"
         }
       ],
-      "actual": [
-        {
-          "id": "tmmomsm803v8jm",
-          "text": "Dinner",
-          "startTime": "18:00",
-          "duration": "3h30m",
-          "plannedIds": [],
-          "notes": "",
-          "createdAt": "2026-03-13T08:24:56.448Z"
-        }
-      ],
       "naps": [
         {
           "id": "tmmonqt6ojavc3",
@@ -1052,11 +1041,46 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-13T08:52:11.877Z"
+      "updatedAt": "2026-03-15T01:11:29.149Z",
+      "log": [
+        {
+          "id": "tmmomsm803v8jm",
+          "text": "Dinner",
+          "startTime": "18:00",
+          "duration": "3h30m",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-13T08:24:56.448Z"
+        }
+      ]
     },
     "2026-03-11": {
       "planned": [],
-      "actual": [
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "03:30",
+        "wakeTime": "10:30",
+        "quality": 5,
+        "comment": "没休息好"
+      },
+      "exercise": [
+        {
+          "name": "Badminton",
+          "duration": "1h30m",
+          "intensity": "high",
+          "comment": ""
+        }
+      ],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-15T01:11:29.149Z",
+      "shiftReason": "",
+      "log": [
         {
           "id": "tmmmmra0jqgd7e",
           "text": "Meeting",
@@ -1111,45 +1135,10 @@
           "notes": "",
           "createdAt": "2026-03-11T22:49:17.838Z"
         }
-      ],
-      "naps": [],
-      "work": "",
-      "sleep": {
-        "bedTime": "03:30",
-        "wakeTime": "10:30",
-        "quality": 5,
-        "comment": "没休息好"
-      },
-      "exercise": [
-        {
-          "name": "Badminton",
-          "duration": "1h30m",
-          "intensity": "high",
-          "comment": ""
-        }
-      ],
-      "energy": 0,
-      "mental": {
-        "mood": 0,
-        "notes": ""
-      },
-      "freeform": "",
-      "updatedAt": "2026-03-13T09:08:41.451Z",
-      "shiftReason": ""
+      ]
     },
     "2026-03-13": {
       "planned": [],
-      "actual": [
-        {
-          "id": "tmmpgtwgknro3b",
-          "text": "Review",
-          "startTime": "15:30",
-          "duration": "1h",
-          "plannedIds": [],
-          "notes": "",
-          "createdAt": "2026-03-13T22:25:44.852Z"
-        }
-      ],
       "naps": [],
       "work": "",
       "sleep": {
@@ -1165,11 +1154,38 @@
         "notes": ""
       },
       "freeform": "",
-      "updatedAt": "2026-03-13T22:25:44.852Z"
+      "updatedAt": "2026-03-15T01:11:29.150Z",
+      "log": [
+        {
+          "id": "tmmpgtwgknro3b",
+          "text": "Review",
+          "startTime": "15:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "createdAt": "2026-03-13T22:25:44.852Z"
+        }
+      ]
     },
     "2026-03-14": {
       "planned": [],
-      "actual": [
+      "naps": [],
+      "work": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "comment": ""
+      },
+      "exercise": [],
+      "energy": 0,
+      "mental": {
+        "mood": 0,
+        "notes": ""
+      },
+      "freeform": "",
+      "updatedAt": "2026-03-15T02:37:37.881Z",
+      "log": [
         {
           "id": "tmmqzxq9luo5q5",
           "text": "Tracker + OpenClaw",
@@ -1184,24 +1200,21 @@
             "tmmqzxj673qgii"
           ],
           "createdAt": "2026-03-15T00:08:22.329Z"
+        },
+        {
+          "id": "tmmr59oegrgu6c",
+          "text": "Dinner",
+          "startTime": "19:15",
+          "duration": "15m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-03-15T02:37:37.864Z"
         }
-      ],
-      "naps": [],
-      "work": "",
-      "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
-        "comment": ""
-      },
-      "exercise": [],
-      "energy": 0,
-      "mental": {
-        "mood": 0,
-        "notes": ""
-      },
-      "freeform": "",
-      "updatedAt": "2026-03-15T00:08:22.329Z"
+      ]
     }
   }
 }
