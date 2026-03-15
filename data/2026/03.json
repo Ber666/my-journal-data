@@ -1445,9 +1445,20 @@
             "mmr2ns9q0koipp7wd0e"
           ],
           "createdAt": "2026-03-15T19:47:36.548Z"
+        },
+        {
+          "id": "tmms9bau82pagq",
+          "text": "Errands and admin tasks",
+          "startTime": "13:15",
+          "duration": "1h",
+          "notes": "Picked up mail, updated renter's insurance, and looked into parking policy.",
+          "tagIds": [],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-15T21:18:38.240Z"
         }
       ],
-      "updatedAt": "2026-03-15T19:47:53.433Z",
+      "updatedAt": "2026-03-15T21:18:38.241Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
