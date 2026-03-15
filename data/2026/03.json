@@ -1290,7 +1290,21 @@
       }
     },
     "2026-03-15": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmms39l717w13j",
+          "text": "Review paper 1",
+          "scheduledTime": "11:45",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2ns9q0koipp7wd0e"
+          ],
+          "projectIds": [],
+          "createdAt": "2026-03-15T18:29:20.653Z"
+        }
+      ],
       "log": [
         {
           "id": "tmmriw0i5huxf1",
@@ -1336,7 +1350,7 @@
           "createdAt": "2026-03-15T09:02:27.234Z"
         }
       ],
-      "updatedAt": "2026-03-15T18:01:03.773Z",
+      "updatedAt": "2026-03-15T18:29:20.653Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
