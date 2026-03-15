@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T06:28:51.272Z",
+      "updatedAt": "2026-03-15T06:37:39.265Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1268,6 +1268,21 @@
           ],
           "plannedIds": [],
           "createdAt": "2026-03-15T06:28:51.272Z"
+        },
+        {
+          "id": "tmmrducld0lxt9",
+          "text": "Test project id support",
+          "startTime": "23:31",
+          "duration": "1m",
+          "notes": "",
+          "tagIds": [
+            "tmmqzxj673qgii"
+          ],
+          "projectIds": [
+            "tmmqzxn2s5kepu"
+          ],
+          "plannedIds": [],
+          "createdAt": "2026-03-15T06:37:39.265Z"
         }
       ],
       "morningMessage": "",
