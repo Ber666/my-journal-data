@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T06:37:39.265Z",
+      "updatedAt": "2026-03-15T06:41:14.686Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1283,6 +1283,21 @@
           ],
           "plannedIds": [],
           "createdAt": "2026-03-15T06:37:39.265Z"
+        },
+        {
+          "id": "tmmrdyytamuiva",
+          "text": "Test tag id support v2",
+          "startTime": "23:33",
+          "duration": "1m",
+          "notes": "",
+          "tagIds": [
+            "tmmqzxj673qgii"
+          ],
+          "projectIds": [
+            "tmmqzxn2s5kepu"
+          ],
+          "plannedIds": [],
+          "createdAt": "2026-03-15T06:41:14.686Z"
         }
       ],
       "morningMessage": "",
