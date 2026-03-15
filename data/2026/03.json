@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T02:53:56.056Z",
+      "updatedAt": "2026-03-15T02:58:07.943Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1230,7 +1230,19 @@
       "morningMessage": "",
       "dayNotes": "",
       "nightMessage": "",
-      "shiftReason": ""
+      "shiftReason": "",
+      "meals": [
+        {
+          "id": "tmmr5ztlaqc8tc",
+          "name": "Latte (self-made)",
+          "type": "drink"
+        },
+        {
+          "id": "tmmr601ir6nzmy",
+          "name": "Icecream (one spoon)",
+          "type": "drink"
+        }
+      ]
     }
   }
 }
