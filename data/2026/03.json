@@ -1417,9 +1417,22 @@
           ],
           "plannedIds": [],
           "createdAt": "2026-03-15T09:02:27.234Z"
+        },
+        {
+          "id": "tmms3vn0ao43tw",
+          "text": "Morning routine",
+          "startTime": "10:45",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "麦片",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2oifg7godullxeq"
+          ],
+          "createdAt": "2026-03-15T18:46:29.434Z"
         }
       ],
-      "updatedAt": "2026-03-15T18:45:42.331Z",
+      "updatedAt": "2026-03-15T19:01:58.982Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
