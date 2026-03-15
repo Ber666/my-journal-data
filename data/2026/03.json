@@ -1172,19 +1172,18 @@
       "naps": [],
       "work": "",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
-        "quality": 0,
+        "bedTime": "04:00",
+        "wakeTime": "11:30",
+        "quality": 7,
         "comment": ""
       },
       "exercise": [],
       "energy": 0,
       "mental": {
-        "mood": 0,
-        "notes": ""
+        "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T02:50:07.589Z",
+      "updatedAt": "2026-03-15T02:51:55.735Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1227,7 +1226,11 @@
           ],
           "createdAt": "2026-03-15T02:50:07.323Z"
         }
-      ]
+      ],
+      "morningMessage": "",
+      "dayNotes": "",
+      "nightMessage": "",
+      "shiftReason": ""
     }
   }
 }
