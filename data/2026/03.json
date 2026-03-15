@@ -1319,9 +1319,24 @@
           ],
           "plannedIds": [],
           "createdAt": "2026-03-15T08:58:55.582Z"
+        },
+        {
+          "id": "tmmrj0k9utklgs",
+          "text": "Debug OpenClaw night routine",
+          "startTime": "00:45",
+          "duration": "45m",
+          "notes": "",
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "projectIds": [
+            "tmmqzxn2s5kepu"
+          ],
+          "plannedIds": [],
+          "createdAt": "2026-03-15T09:02:27.234Z"
         }
       ],
-      "updatedAt": "2026-03-15T08:58:55.582Z"
+      "updatedAt": "2026-03-15T09:02:27.235Z"
     }
   }
 }
