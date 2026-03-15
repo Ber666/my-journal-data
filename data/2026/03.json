@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T03:35:23.900Z",
+      "updatedAt": "2026-03-15T04:02:52.516Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1260,7 +1260,19 @@
           "name": "茉莉抹茶",
           "type": "drink"
         }
-      ]
+      ],
+      "morning": {
+        "quality": 3,
+        "clarity": 3,
+        "mood": 3,
+        "fatigue": 3
+      },
+      "night": {
+        "focus": 3,
+        "social": 2,
+        "mood": 3,
+        "body": 3
+      }
     }
   }
 }
