@@ -1174,8 +1174,8 @@
           "text": "Test CLI task",
           "scheduledTime": "10:00",
           "duration": "30m",
-          "status": "not-started",
-          "notes": "",
+          "status": "done",
+          "notes": "CLI is working",
           "tagIds": [
             "tmmqzxj673qgii"
           ],
@@ -1199,7 +1199,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T05:25:31.420Z",
+      "updatedAt": "2026-03-15T05:25:43.741Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
