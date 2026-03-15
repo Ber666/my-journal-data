@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T02:51:55.735Z",
+      "updatedAt": "2026-03-15T02:53:56.056Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1214,17 +1214,17 @@
           "createdAt": "2026-03-15T02:37:37.864Z"
         },
         {
-          "id": "tmmr5pqorfbbcc",
+          "id": "tmmr5un65g1wvx",
           "text": "Nap",
-          "startTime": "17:45",
-          "duration": "15m",
+          "startTime": "18:15",
+          "duration": "30m",
           "plannedIds": [],
           "notes": "",
           "projectIds": [],
           "tagIds": [
             "mmr5pmfl6bnnn77zp7f"
           ],
-          "createdAt": "2026-03-15T02:50:07.323Z"
+          "createdAt": "2026-03-15T02:53:56.045Z"
         }
       ],
       "morningMessage": "",
