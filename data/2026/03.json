@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T03:03:17.883Z",
+      "updatedAt": "2026-03-15T03:04:24.711Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1206,7 +1206,7 @@
           "startTime": "19:15",
           "duration": "15m",
           "plannedIds": [],
-          "notes": "",
+          "notes": "炒菜",
           "projectIds": [],
           "tagIds": [
             "mmr55rn06icoh8thaon"
@@ -1232,7 +1232,7 @@
           "startTime": "21:00",
           "duration": "15m",
           "plannedIds": [],
-          "notes": "",
+          "notes": "强度很高",
           "projectIds": [],
           "tagIds": [
             "mmr5p9jq6dkxberbb3"
