@@ -1316,6 +1316,62 @@
           ],
           "projectIds": [],
           "createdAt": "2026-03-15T18:30:12.963Z"
+        },
+        {
+          "id": "tmms3umnve4cbz",
+          "text": "Write CocoaBench",
+          "scheduledTime": "14:30",
+          "duration": "2h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2nqmli7j3a22w8s9"
+          ],
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "createdAt": "2026-03-15T18:45:42.331Z"
+        },
+        {
+          "id": "tmms3umnvbrdac",
+          "text": "Gym",
+          "scheduledTime": "16:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2p1h2kn9fz2rdc6a"
+          ],
+          "projectIds": [],
+          "createdAt": "2026-03-15T18:45:42.331Z"
+        },
+        {
+          "id": "tmms3umnvr4llx",
+          "text": "Run",
+          "scheduledTime": "17:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr856xwlsz44v0bf1k"
+          ],
+          "projectIds": [],
+          "createdAt": "2026-03-15T18:45:42.331Z"
+        },
+        {
+          "id": "tmms3umnvkojki",
+          "text": "Unify codebase for VERL and MILES",
+          "scheduledTime": "21:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "projectIds": [
+            "mmr2voz9ckppztrdedh"
+          ],
+          "createdAt": "2026-03-15T18:45:42.331Z"
         }
       ],
       "log": [
@@ -1363,7 +1419,7 @@
           "createdAt": "2026-03-15T09:02:27.234Z"
         }
       ],
-      "updatedAt": "2026-03-15T18:30:12.963Z",
+      "updatedAt": "2026-03-15T18:45:42.331Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
