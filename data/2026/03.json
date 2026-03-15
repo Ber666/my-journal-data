@@ -1430,9 +1430,24 @@
             "mmr2oifg7godullxeq"
           ],
           "createdAt": "2026-03-15T18:46:29.434Z"
+        },
+        {
+          "id": "tmms628kkqv9hp",
+          "text": "Review paper 1",
+          "startTime": "11:45",
+          "duration": "1h",
+          "plannedIds": [
+            "tmms39l717w13j"
+          ],
+          "notes": "Emergent Manifold Separability during Reasoning in Large Language Models\n\n在某个推理步骤真正发生之前，LLM 的内部表示会短暂地变得更容易被线性分开。作者用 manifold capacity 来衡量这一点，这个量本质上对应于实现线性分离所需最小随机子空间维度的倒数。对某个目标变量来说，capacity 升高表示它的真假标签在当前表示空间里被组织得更适合线性读出。\n\n并且回顾了下线性可分相关的知识。\n\n不是很专注。",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ns9q0koipp7wd0e"
+          ],
+          "createdAt": "2026-03-15T19:47:36.548Z"
         }
       ],
-      "updatedAt": "2026-03-15T19:29:42.088Z",
+      "updatedAt": "2026-03-15T19:47:53.433Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
