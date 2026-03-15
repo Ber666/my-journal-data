@@ -1168,7 +1168,23 @@
       ]
     },
     "2026-03-14": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmmrb9l7f1d6rg",
+          "text": "Test CLI task",
+          "scheduledTime": "10:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "tmmqzxj673qgii"
+          ],
+          "projectIds": [
+            "tmmqzxn2s5kepu"
+          ],
+          "createdAt": "2026-03-15T05:25:31.420Z"
+        }
+      ],
       "naps": [],
       "work": "",
       "sleep": {
@@ -1183,7 +1199,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T04:02:52.516Z",
+      "updatedAt": "2026-03-15T05:25:31.420Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
