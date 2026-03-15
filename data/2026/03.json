@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T06:54:28.672Z",
+      "updatedAt": "2026-03-15T08:06:01.485Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1287,7 +1287,7 @@
       ],
       "morningMessage": "",
       "dayNotes": "",
-      "nightMessage": "",
+      "nightMessage": "- **Work**\n  - Long work session on vibe coding Tracker.\n  - I got Tracker basically set up today.\n  - I did not feel like I was thinking very deeply.\n\n- **Social**\n  - Stayed home all day.\n  - Kun invited me to go hiking at the last minute, which annoyed me, so I did not go.\n  - I could probably have handled it with a calmer mindset.\n\n- **Mood / anxiety**\n  - I found out the girl I have a crush on has a boyfriend.\n  - Later at night I saw Elon Musk talking about refactoring the coding team again, which made me worry that I might not get my offer.\n\n- **Body**\n  - My eyes felt a bit tired.\n  - I still have an ulcer in my throat.\n  - Not wearing socks all day felt uncomfortable.\n  - Sitting cross-legged too much also felt bad.\n  - Muscle recovery was okay.\n  - Diet was just average.\n\n- **Things I did well**\n  - I did not play games.\n  - I mostly avoided checking Twitter / xAI news during the day to keep offer anxiety from getting worse.\n  - I will likely sleep early.\n\n- **Tomorrow**\n  - What I want to carry into tomorrow is simply to keep using Tracker.\n  - I want to plan a bit better, because today I did not really have much of a plan.\n  - Top priorities:\n    - review ICML — hard deadline\n    - think about the CocoaBench story — most important task",
       "shiftReason": "",
       "meals": [
         {
@@ -1313,10 +1313,10 @@
         "fatigue": 3
       },
       "night": {
-        "focus": 3,
+        "focus": 4,
         "social": 2,
-        "mood": 3,
-        "body": 3
+        "mood": 2,
+        "body": 2
       }
     },
     "2026-03-15": {
