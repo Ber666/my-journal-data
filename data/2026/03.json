@@ -1291,8 +1291,22 @@
     },
     "2026-03-15": {
       "planned": [],
-      "log": [],
-      "updatedAt": "2026-03-15T06:28:50.676Z"
+      "log": [
+        {
+          "id": "tmmriw0i5huxf1",
+          "text": "Chit-chat with a friend",
+          "startTime": "01:30",
+          "duration": "15m",
+          "notes": "",
+          "tagIds": [
+            "tmmriv3a6eudry"
+          ],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-15T08:58:54.989Z"
+        }
+      ],
+      "updatedAt": "2026-03-15T08:58:54.989Z"
     }
   }
 }
