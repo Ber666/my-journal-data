@@ -1,4 +1,220 @@
 {
-  "version": 1,
-  "createdAt": "2026-02-22T05:45:49.758Z"
+  "tagGroups": [
+    {
+      "id": "mmr2n86x1m36v4q8xt6h",
+      "name": "Exercise",
+      "color": "#006A96"
+    },
+    {
+      "id": "mmr2nlwww2ha9urz26e",
+      "name": "Work",
+      "color": "#C69214"
+    },
+    {
+      "id": "mmr2of4vrogzq5ax2v",
+      "name": "Meal",
+      "color": "#E67E22"
+    },
+    {
+      "id": "mmr2pus4r257p92vogm",
+      "name": "Fun",
+      "color": "#C8323A"
+    },
+    {
+      "id": "mmr2qulgeku4lq9asri",
+      "name": "Misc",
+      "color": "#E91E8C"
+    },
+    {
+      "id": "mmr2r53kbjz4gwmj3hc",
+      "name": "Social",
+      "color": "#1ABC9C"
+    }
+  ],
+  "tags": [
+    {
+      "id": "tmmqzxj673qgii",
+      "name": "Coding",
+      "color": "#006A96"
+    },
+    {
+      "id": "mmr2dbk46za7mfwo3u",
+      "name": "Writing",
+      "color": "#C69214"
+    },
+    {
+      "id": "mmr2depdq1mi544z15d",
+      "name": "Reading",
+      "color": "#1ABC9C"
+    },
+    {
+      "id": "mmr2dl1yxw1j03opdhd",
+      "name": "Exercise",
+      "color": "#C8323A"
+    },
+    {
+      "id": "mmr2dph2src5pugrvme",
+      "name": "Nap",
+      "color": "#E91E8C"
+    },
+    {
+      "id": "mmr2e2euhrnhvj9w9te",
+      "name": "Social",
+      "color": "#E67E22"
+    },
+    {
+      "id": "mmr2eojftk2l5q22r9m",
+      "name": "Entertainment",
+      "color": "#006A96"
+    },
+    {
+      "id": "mmr2no961fq7x58dl9t",
+      "name": "Coding",
+      "groupId": "mmr2nlwww2ha9urz26e"
+    },
+    {
+      "id": "mmr2nqmli7j3a22w8s9",
+      "name": "Writing",
+      "groupId": "mmr2nlwww2ha9urz26e"
+    },
+    {
+      "id": "mmr2ns9q0koipp7wd0e",
+      "name": "Reading",
+      "groupId": "mmr2nlwww2ha9urz26e"
+    },
+    {
+      "id": "mmr2oifg7godullxeq",
+      "name": "Breakfast",
+      "groupId": "mmr2of4vrogzq5ax2v"
+    },
+    {
+      "id": "mmr2ojz2433y63hgj0t",
+      "name": "Lunch",
+      "groupId": "mmr2of4vrogzq5ax2v"
+    },
+    {
+      "id": "mmr2p1h2kn9fz2rdc6a",
+      "name": "Gym",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmr2q78oufh4sbhv6od",
+      "name": "Game",
+      "groupId": "mmr2pus4r257p92vogm"
+    },
+    {
+      "id": "mmr2qxyeqiljf88nzn",
+      "name": "Laundry",
+      "groupId": "mmr2qulgeku4lq9asri"
+    },
+    {
+      "id": "mmr2r11vxs5bk77g6i8",
+      "name": "Meditation",
+      "groupId": "mmr2qulgeku4lq9asri"
+    },
+    {
+      "id": "mmr2rbuad1c88u28vet",
+      "name": "Cleaning",
+      "groupId": "mmr2qulgeku4lq9asri"
+    },
+    {
+      "id": "mmr55rn06icoh8thaon",
+      "name": "Dinner",
+      "groupId": "mmr2of4vrogzq5ax2v"
+    },
+    {
+      "id": "mmr5p0tp9al4uxk6zlj",
+      "name": "Meeting",
+      "groupId": "mmr2nlwww2ha9urz26e"
+    },
+    {
+      "id": "mmr5p4h1wnrjx9u337",
+      "name": "Chat",
+      "groupId": "mmr2r53kbjz4gwmj3hc"
+    },
+    {
+      "id": "mmr5p9jq6dkxberbb3",
+      "name": "Badminton",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmr5pbaudf0cmxc9w5n",
+      "name": "Running",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmr5pgs37vf3vlwnchq",
+      "name": "Basketball",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmr5pmfl6bnnn77zp7f",
+      "name": "Nap",
+      "groupId": "mmr2qulgeku4lq9asri"
+    },
+    {
+      "id": "mmr856xwlsz44v0bf1k",
+      "name": "Run",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmr856xwa0lnnnyqklp",
+      "name": "Walk",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmr856xwdp1ln19abc",
+      "name": "Swim",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmr856xwszuxwcc0vk",
+      "name": "Bike",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmr856xwnx3s1w30yy",
+      "name": "Yoga",
+      "groupId": "mmr2n86x1m36v4q8xt6h"
+    },
+    {
+      "id": "mmrb8qcmdibhjmyp0z",
+      "name": "Movie",
+      "groupId": "mmr2pus4r257p92vogm"
+    },
+    {
+      "id": "mmrb8rpopl8chc4opje",
+      "name": "TV",
+      "groupId": "mmr2pus4r257p92vogm"
+    }
+  ],
+  "projects": [
+    {
+      "id": "tmmqzxn2s5kepu",
+      "name": "Tracker",
+      "color": "#C69214",
+      "description": ""
+    },
+    {
+      "id": "mmr2d0yfntzf5nyz43",
+      "name": "CocoaBench",
+      "color": "#7B61FF"
+    },
+    {
+      "id": "tmmr2vdgtif4sk",
+      "name": "UDA",
+      "color": "#006A96"
+    },
+    {
+      "id": "mmr2voz9ckppztrdedh",
+      "name": "HarborRL",
+      "color": "#E91E8C"
+    },
+    {
+      "id": "mmr2vuuqsasarz3p1tb",
+      "name": "Job",
+      "color": "#1BA87A"
+    }
+  ],
+  "updatedAt": "2026-03-15T05:24:58.096Z"
 }
