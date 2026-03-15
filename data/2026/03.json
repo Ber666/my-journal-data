@@ -1336,11 +1336,18 @@
           "createdAt": "2026-03-15T09:02:27.234Z"
         }
       ],
-      "updatedAt": "2026-03-15T17:56:40.553Z",
+      "updatedAt": "2026-03-15T18:01:03.773Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
-      }
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 3,
+        "mood": 3,
+        "fatigue": 3
+      },
+      "morningMessage": "Sleep duration and bedtime improved, but I stayed awake for quite a while in the middle of the night. Mental clarity feels normal. Mood feels pretty neutral this morning. I felt a bit cold while sleeping, and I still have an ulcer in my throat."
     }
   }
 }
