@@ -209,7 +209,7 @@
     },
     {
       "id": "mmseaubmzl347keq3bm",
-      "name": "Tea",
+      "name": "Milktea",
       "groupId": "mmseaubmxory6magqy7"
     },
     {
@@ -229,6 +229,26 @@
     },
     {
       "id": "mmseaubmilh0ge4ckm",
+      "name": "Icecream",
+      "groupId": "mmseaubmmg80f9qayo"
+    },
+    {
+      "id": "mmsez9g8lb0orw0b47d",
+      "name": "Cookie",
+      "groupId": "mmseaubmmg80f9qayo"
+    },
+    {
+      "id": "mmsezddvecv9z0fjbaw",
+      "name": "Nut",
+      "groupId": "mmseaubmmg80f9qayo"
+    },
+    {
+      "id": "mmsezhts7c8cuv29jl",
+      "name": "Tea",
+      "groupId": "mmseaubmxory6magqy7"
+    },
+    {
+      "id": "mmsezhts5j87nc1puhe",
       "name": "Snack",
       "groupId": "mmseaubmmg80f9qayo"
     }
@@ -261,5 +281,5 @@
       "color": "#1BA87A"
     }
   ],
-  "updatedAt": "2026-03-15T23:40:50.935Z"
+  "updatedAt": "2026-03-15T23:57:27.305Z"
 }
