@@ -1183,7 +1183,7 @@
         "mood": 0
       },
       "freeform": "",
-      "updatedAt": "2026-03-15T02:58:07.943Z",
+      "updatedAt": "2026-03-15T03:03:17.883Z",
       "log": [
         {
           "id": "tmmqzxq9luo5q5",
@@ -1225,6 +1225,19 @@
             "mmr5pmfl6bnnn77zp7f"
           ],
           "createdAt": "2026-03-15T02:53:56.045Z"
+        },
+        {
+          "id": "tmmr66oolymfqg",
+          "text": "Badminton",
+          "startTime": "21:00",
+          "duration": "15m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5p9jq6dkxberbb3"
+          ],
+          "createdAt": "2026-03-15T03:03:17.877Z"
         }
       ],
       "morningMessage": "",
@@ -1240,6 +1253,11 @@
         {
           "id": "tmmr601ir6nzmy",
           "name": "Icecream (one spoon)",
+          "type": "drink"
+        },
+        {
+          "id": "tmmr61ex34bb8a",
+          "name": "茉莉抹茶",
           "type": "drink"
         }
       ]
