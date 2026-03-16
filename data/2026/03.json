@@ -1543,9 +1543,22 @@
           "projectIds": [],
           "plannedIds": [],
           "createdAt": "2026-03-16T02:11:07.984Z"
+        },
+        {
+          "id": "tmmspelhunx176",
+          "text": "Dinner at Crab Hut",
+          "startTime": "19:30",
+          "duration": "2h",
+          "notes": "",
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-16T04:49:05.874Z"
         }
       ],
-      "updatedAt": "2026-03-16T02:11:42.750Z",
+      "updatedAt": "2026-03-16T04:49:05.875Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
