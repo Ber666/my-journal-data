@@ -1517,7 +1517,7 @@
           "createdAt": "2026-03-16T00:13:09.849Z"
         }
       ],
-      "updatedAt": "2026-03-16T00:13:09.856Z",
+      "updatedAt": "2026-03-16T00:14:11.504Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
@@ -1529,7 +1529,7 @@
         "fatigue": 3
       },
       "morningMessage": "Sleep duration and bedtime improved, but I stayed awake for quite a while in the middle of the night. Mental clarity feels normal. Mood feels pretty neutral this morning. I felt a bit cold while sleeping, and I still have an ulcer in my throat.",
-      "dayNotes": "胸闷",
+      "dayNotes": "中午有点胸闷",
       "night": {
         "focus": 0,
         "social": 0,
