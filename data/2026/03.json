@@ -1827,9 +1827,24 @@
           "projectIds": [],
           "plannedIds": [],
           "createdAt": "2026-03-16T19:34:05.960Z"
+        },
+        {
+          "id": "tmmtl1hc6p9rs3",
+          "text": "Meeting",
+          "startTime": "11:30",
+          "duration": "45m",
+          "notes": "",
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "projectIds": [],
+          "plannedIds": [
+            "tmmsvipsicf4a3"
+          ],
+          "createdAt": "2026-03-16T19:34:41.670Z"
         }
       ],
-      "updatedAt": "2026-03-16T19:34:05.960Z",
+      "updatedAt": "2026-03-16T19:34:41.671Z",
       "vitals": {
         "meals": [
           {
