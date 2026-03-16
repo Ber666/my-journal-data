@@ -1593,7 +1593,7 @@
           "createdAt": "2026-03-16T06:48:49.789Z"
         }
       ],
-      "updatedAt": "2026-03-16T06:48:49.789Z",
+      "updatedAt": "2026-03-16T07:06:24.816Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
@@ -1607,12 +1607,12 @@
       "morningMessage": "Sleep duration and bedtime improved, but I stayed awake for quite a while in the middle of the night. Mental clarity feels normal. Mood feels pretty neutral this morning. I felt a bit cold while sleeping, and I still have an ulcer in my throat.",
       "dayNotes": "中午有点胸闷",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 3,
+        "social": 3,
+        "mood": 4,
+        "body": 3
       },
-      "nightMessage": "",
+      "nightMessage": "No deep-work vibe overall, but still got several useful things done: reviewed two papers, organized CocoaBench a bit, met with Zhoujun and Junli, and fixed some Tracker bugs.\n\nSocially, saw many people today: lunch with Tianyang and Yuecong, gym + dinner with Qiyue, Kun, and Zhishang, and a discussion with Zhoujun and Junli. By the evening, social state did not feel fully under control.\n\nMood was good overall: no urgent pressure source, a more relaxed day, and Tracker helped the day feel more manageable and under control. Gym also felt especially good.\n\nBody was mixed: sleep quality was not high, mind did not feel very clear after waking up, and chest tightness / shortness of breath felt fairly serious around noon. But the afternoon gym session felt very energetic. Also spent time at night researching arch and hip exercises.",
       "shiftReason": "",
       "vitals": {
         "meals": [
