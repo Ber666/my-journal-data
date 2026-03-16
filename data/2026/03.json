@@ -1574,22 +1574,8 @@
     },
     "2026-03-16": {
       "planned": [],
-      "log": [
-        {
-          "id": "tmmsjlfg5mnkr2",
-          "text": "Gym",
-          "startTime": "17:45",
-          "duration": "1h15m",
-          "notes": "",
-          "tagIds": [
-            "mmr2p1h2kn9fz2rdc6a"
-          ],
-          "projectIds": [],
-          "plannedIds": [],
-          "createdAt": "2026-03-16T02:06:26.933Z"
-        }
-      ],
-      "updatedAt": "2026-03-16T02:11:06.107Z",
+      "log": [],
+      "updatedAt": "2026-03-16T02:11:06.701Z",
       "vitals": {
         "meals": [],
         "drinks": [],
