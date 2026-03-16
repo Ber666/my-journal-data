@@ -1839,7 +1839,7 @@
           "createdAt": "2026-03-16T19:34:41.670Z"
         }
       ],
-      "updatedAt": "2026-03-16T19:36:50.603Z",
+      "updatedAt": "2026-03-16T19:37:31.040Z",
       "vitals": {
         "meals": [
           {
@@ -1864,20 +1864,11 @@
         "snacks": [],
         "exercise": [
           {
-            "id": "tmmsjnnbm8fme9",
-            "time": "17:45",
-            "type": "Gym",
-            "duration": "1h15m",
-            "notes": "",
-            "logId": "tmmsjlfg5mnkr2",
-            "createdAt": "2026-03-16T02:08:10.450Z"
-          },
-          {
             "id": "tmmtipa7qmd23b",
             "time": "10:30",
             "type": "Run",
             "duration": "1h",
-            "notes": "",
+            "notes": "2 miles 在大操场，可能有海拔落差，加上一半是在草地上跑，比较累",
             "logId": "tmmtip9nh5p9l0",
             "createdAt": "2026-03-16T18:29:13.333Z"
           }
