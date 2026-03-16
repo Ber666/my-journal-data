@@ -1485,9 +1485,39 @@
             "mmr2no961fq7x58dl9t"
           ],
           "createdAt": "2026-03-15T23:40:21.993Z"
+        },
+        {
+          "id": "tmmsfivwp9hhx6",
+          "text": "Review paper 2",
+          "startTime": "16:45",
+          "duration": "30m",
+          "plannedIds": [
+            "tmms3apk20g71w"
+          ],
+          "notes": "读了Implicit CoT compression，把推理难度formulate成order-n interaction (推理需要依赖于多少变量)，有些理论分析，不是很看的懂",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ns9q0koipp7wd0e"
+          ],
+          "createdAt": "2026-03-16T00:12:29.833Z"
+        },
+        {
+          "id": "tmmsfjqs9rqeat",
+          "text": "Sync with Zhoujun / Junli",
+          "startTime": "16:30",
+          "duration": "15m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [
+            "tmmr2vdgtif4sk"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-16T00:13:09.849Z"
         }
       ],
-      "updatedAt": "2026-03-16T00:08:45.111Z",
+      "updatedAt": "2026-03-16T00:13:09.856Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
