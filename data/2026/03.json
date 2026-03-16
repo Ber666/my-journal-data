@@ -1837,9 +1837,39 @@
             "tmmsvipsicf4a3"
           ],
           "createdAt": "2026-03-16T19:34:41.670Z"
+        },
+        {
+          "id": "tmmtlakhs9i7ic",
+          "text": "Reading agent training",
+          "startTime": "12:30",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [
+            "tmmr2vdgtif4sk"
+          ],
+          "tagIds": [
+            "mmr2ns9q0koipp7wd0e"
+          ],
+          "createdAt": "2026-03-16T19:41:45.664Z"
+        },
+        {
+          "id": "tmmtlay18qq3qx",
+          "text": "V+M unified",
+          "startTime": "12:30",
+          "duration": "45m",
+          "plannedIds": [
+            "tmmsvipsigj6li"
+          ],
+          "notes": "",
+          "projectIds": [
+            "mmr2voz9ckppztrdedh"
+          ],
+          "tagIds": [],
+          "createdAt": "2026-03-16T19:42:03.212Z"
         }
       ],
-      "updatedAt": "2026-03-16T19:37:31.040Z",
+      "updatedAt": "2026-03-16T19:42:03.228Z",
       "vitals": {
         "meals": [
           {
