@@ -1593,7 +1593,7 @@
           "createdAt": "2026-03-16T06:48:49.789Z"
         }
       ],
-      "updatedAt": "2026-03-16T07:06:24.816Z",
+      "updatedAt": "2026-03-16T19:33:42.289Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
@@ -1631,6 +1631,14 @@
             "content": "Xin Chào - Pho + Egg roll + Chicken wings",
             "logId": "tmmsebredtajhy",
             "createdAt": "2026-03-15T23:38:57.796Z"
+          },
+          {
+            "id": "tmmtl07iogmzu2",
+            "time": "19:30",
+            "mealType": "Dinner",
+            "content": "",
+            "logId": "tmmspelhunx176",
+            "createdAt": "2026-03-16T19:33:42.288Z"
           }
         ],
         "drinks": [
@@ -1844,7 +1852,7 @@
           "createdAt": "2026-03-16T19:34:41.670Z"
         }
       ],
-      "updatedAt": "2026-03-16T19:34:41.671Z",
+      "updatedAt": "2026-03-16T19:34:42.552Z",
       "vitals": {
         "meals": [
           {
@@ -1885,6 +1893,15 @@
             "notes": "",
             "logId": "tmmtip9nh5p9l0",
             "createdAt": "2026-03-16T18:29:13.333Z"
+          },
+          {
+            "id": "tmmtl1i0nt95p5",
+            "time": "10:30",
+            "type": "Run",
+            "duration": "1h",
+            "notes": "",
+            "logId": "tmmtl0ps87me9g",
+            "createdAt": "2026-03-16T19:34:42.551Z"
           }
         ],
         "naps": []
