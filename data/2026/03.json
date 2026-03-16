@@ -1659,9 +1659,133 @@
       }
     },
     "2026-03-16": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmmsvipsigj6li",
+          "text": "V+M unified + code deep dive (part 1)",
+          "scheduledTime": "09:45",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "projectIds": [
+            "mmr2voz9ckppztrdedh"
+          ],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        },
+        {
+          "id": "tmmsvipsimsgyq",
+          "text": "Run",
+          "scheduledTime": "10:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr856xwlsz44v0bf1k"
+          ],
+          "projectIds": [],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        },
+        {
+          "id": "tmmsvipsieho8o",
+          "text": "UDA restart (part 1)",
+          "scheduledTime": "11:30",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "projectIds": [
+            "tmmr2vdgtif4sk"
+          ],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        },
+        {
+          "id": "tmmsvipsicf4a3",
+          "text": "Meet",
+          "scheduledTime": "13:00",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "projectIds": [],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        },
+        {
+          "id": "tmmsvipsiqwjaf",
+          "text": "V+M unified + code deep dive (part 2)",
+          "scheduledTime": "14:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "projectIds": [
+            "mmr2voz9ckppztrdedh"
+          ],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        },
+        {
+          "id": "tmmsvipsio0jy0",
+          "text": "CocoaBench PRs + work planning",
+          "scheduledTime": "15:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2nqmli7j3a22w8s9"
+          ],
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        },
+        {
+          "id": "tmmsvipsiycziw",
+          "text": "UDA restart (part 2) / free work buffer",
+          "scheduledTime": "16:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "projectIds": [
+            "tmmr2vdgtif4sk"
+          ],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        },
+        {
+          "id": "tmmsvipsi3lb32",
+          "text": "Gym or help friend move",
+          "scheduledTime": "17:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [],
+          "projectIds": [],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        },
+        {
+          "id": "tmmsvipsiu9ukb",
+          "text": "Evening work block",
+          "scheduledTime": "19:30",
+          "duration": "1h15m",
+          "status": "not-started",
+          "notes": "",
+          "tagIds": [],
+          "projectIds": [],
+          "createdAt": "2026-03-16T07:40:15.762Z"
+        }
+      ],
       "log": [],
-      "updatedAt": "2026-03-16T02:11:06.701Z",
+      "updatedAt": "2026-03-16T07:40:15.762Z",
       "vitals": {
         "meals": [],
         "drinks": [],
