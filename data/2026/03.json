@@ -1518,7 +1518,7 @@
         },
         {
           "id": "tmmsjrftrfhtwf",
-          "text": "Work on CocoaBench writing",
+          "text": "CocoaBench writing",
           "startTime": "17:15",
           "duration": "30m",
           "notes": "Handled a Prism-related issue.",
@@ -1545,7 +1545,7 @@
           "createdAt": "2026-03-16T02:11:07.984Z"
         }
       ],
-      "updatedAt": "2026-03-16T02:11:07.984Z",
+      "updatedAt": "2026-03-16T02:11:34.859Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
@@ -1596,7 +1596,17 @@
           }
         ],
         "snacks": [],
-        "exercise": [],
+        "exercise": [
+          {
+            "id": "tmmsjrzmoxmrqf",
+            "time": "17:45",
+            "type": "Gym",
+            "duration": "1h15m",
+            "notes": "",
+            "logId": "tmmsjrgb45foxi",
+            "createdAt": "2026-03-16T02:11:33.024Z"
+          }
+        ],
         "naps": []
       }
     },
