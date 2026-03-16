@@ -1785,7 +1785,7 @@
         }
       ],
       "log": [],
-      "updatedAt": "2026-03-16T16:11:04.105Z",
+      "updatedAt": "2026-03-16T16:13:10.190Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -1806,7 +1806,14 @@
       "sleep": {
         "bedTime": "00:45",
         "wakeTime": "08:45"
-      }
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 3,
+        "mood": 3,
+        "fatigue": 3
+      },
+      "morningMessage": "Sleep quality was mixed because I woke up multiple times. Clarity feels okay overall. Mood is okay; not seeing news this morning helped, but there is still some low-level xAI anxiety in the background. Body feels mixed: glutes are sore from yesterday's training, and the throat ulcer is still there."
     }
   }
 }
