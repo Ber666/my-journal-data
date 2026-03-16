@@ -1824,19 +1824,6 @@
           "createdAt": "2026-03-16T18:29:12.605Z"
         },
         {
-          "id": "tmmtl0ps87me9g",
-          "text": "Run",
-          "startTime": "10:30",
-          "duration": "1h",
-          "notes": "",
-          "tagIds": [
-            "mmr856xwlsz44v0bf1k"
-          ],
-          "projectIds": [],
-          "plannedIds": [],
-          "createdAt": "2026-03-16T19:34:05.960Z"
-        },
-        {
           "id": "tmmtl1hc6p9rs3",
           "text": "Meeting",
           "startTime": "11:30",
@@ -1852,7 +1839,7 @@
           "createdAt": "2026-03-16T19:34:41.670Z"
         }
       ],
-      "updatedAt": "2026-03-16T19:34:42.552Z",
+      "updatedAt": "2026-03-16T19:35:38.417Z",
       "vitals": {
         "meals": [
           {
