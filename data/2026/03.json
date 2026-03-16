@@ -1604,7 +1604,24 @@
           "createdAt": "2026-03-16T02:06:26.933Z"
         }
       ],
-      "updatedAt": "2026-03-16T02:06:26.933Z"
+      "updatedAt": "2026-03-16T02:08:10.450Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [
+          {
+            "id": "tmmsjnnbm8fme9",
+            "time": "17:45",
+            "type": "Gym",
+            "duration": "1h15m",
+            "notes": "",
+            "logId": "tmmsjlfg5mnkr2",
+            "createdAt": "2026-03-16T02:08:10.450Z"
+          }
+        ],
+        "naps": []
+      }
     }
   }
 }
