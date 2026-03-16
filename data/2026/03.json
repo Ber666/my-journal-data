@@ -1784,10 +1784,34 @@
           "createdAt": "2026-03-16T07:40:15.762Z"
         }
       ],
-      "log": [],
-      "updatedAt": "2026-03-16T16:13:10.190Z",
+      "log": [
+        {
+          "id": "tmmth8zt2pyffg",
+          "text": "Morning routine",
+          "startTime": "09:00",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "听完了Yuandong的interview\n发现Yuandong很喜欢把热门概念扯到自己的work，memory的问题讲到了之前做long context. 不过也让我想到一点，现在的context folding能不能内化到transformer architecture里？Title: Scaling up experience with memory-native transformer\n某层的attention变成hard switch. 比如repo-level的coding，当前哪些文件可以忽略掉，哪些不用。",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ns9q0koipp7wd0e",
+            "mmr2oifg7godullxeq"
+          ],
+          "createdAt": "2026-03-16T17:48:33.734Z"
+        }
+      ],
+      "updatedAt": "2026-03-16T18:29:03.603Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmmtip2pe7n2aw",
+            "time": "09:00",
+            "mealType": "Breakfast",
+            "content": "",
+            "logId": "tmmth8zt2pyffg",
+            "createdAt": "2026-03-16T18:29:03.602Z"
+          }
+        ],
         "drinks": [],
         "snacks": [],
         "exercise": [
