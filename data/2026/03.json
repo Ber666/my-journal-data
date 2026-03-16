@@ -1576,21 +1576,6 @@
       "planned": [],
       "log": [
         {
-          "id": "tmmsjcja3mv26u",
-          "text": "Work on CocoaBench writing",
-          "startTime": "17:15",
-          "duration": "30m",
-          "notes": "Handled a Prism-related issue.",
-          "tagIds": [
-            "mmr2nqmli7j3a22w8s9"
-          ],
-          "projectIds": [
-            "mmr2d0yfntzf5nyz43"
-          ],
-          "plannedIds": [],
-          "createdAt": "2026-03-16T01:59:31.995Z"
-        },
-        {
           "id": "tmmsjlfg5mnkr2",
           "text": "Gym",
           "startTime": "17:45",
@@ -1604,7 +1589,7 @@
           "createdAt": "2026-03-16T02:06:26.933Z"
         }
       ],
-      "updatedAt": "2026-03-16T02:08:10.450Z",
+      "updatedAt": "2026-03-16T02:11:06.107Z",
       "vitals": {
         "meals": [],
         "drinks": [],
