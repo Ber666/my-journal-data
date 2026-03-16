@@ -1795,24 +1795,49 @@
           "projectIds": [],
           "tagIds": [
             "mmr2ns9q0koipp7wd0e",
-            "mmr2oifg7godullxeq"
+            "mmr2oifg7godullxeq",
+            "mmseaubmwr4cssf41t"
           ],
           "createdAt": "2026-03-16T17:48:33.734Z"
+        },
+        {
+          "id": "tmmtip9nh5p9l0",
+          "text": "Run",
+          "startTime": "10:30",
+          "duration": "1h",
+          "plannedIds": [
+            "tmmsvipsimsgyq"
+          ],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr856xwlsz44v0bf1k"
+          ],
+          "createdAt": "2026-03-16T18:29:12.605Z"
         }
       ],
-      "updatedAt": "2026-03-16T18:29:03.603Z",
+      "updatedAt": "2026-03-16T18:30:21.535Z",
       "vitals": {
         "meals": [
           {
             "id": "tmmtip2pe7n2aw",
             "time": "09:00",
             "mealType": "Breakfast",
-            "content": "",
+            "content": "Chick-fila-A - Muffin, coffee, hash brown",
             "logId": "tmmth8zt2pyffg",
             "createdAt": "2026-03-16T18:29:03.602Z"
           }
         ],
-        "drinks": [],
+        "drinks": [
+          {
+            "id": "tmmtiqh422dn0w",
+            "time": "09:00",
+            "drinkType": "Coffee",
+            "content": "Black coffee with half-half",
+            "logId": "tmmth8zt2pyffg",
+            "createdAt": "2026-03-16T18:30:08.930Z"
+          }
+        ],
         "snacks": [],
         "exercise": [
           {
@@ -1823,6 +1848,15 @@
             "notes": "",
             "logId": "tmmsjlfg5mnkr2",
             "createdAt": "2026-03-16T02:08:10.450Z"
+          },
+          {
+            "id": "tmmtipa7qmd23b",
+            "time": "10:30",
+            "type": "Run",
+            "duration": "1h",
+            "notes": "",
+            "logId": "tmmtip9nh5p9l0",
+            "createdAt": "2026-03-16T18:29:13.333Z"
           }
         ],
         "naps": []
