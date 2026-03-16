@@ -1857,7 +1857,7 @@
           "id": "tmmtlay18qq3qx",
           "text": "V+M unified",
           "startTime": "12:30",
-          "duration": "45m",
+          "duration": "2h30m",
           "plannedIds": [
             "tmmsvipsigj6li"
           ],
@@ -1867,9 +1867,26 @@
           ],
           "tagIds": [],
           "createdAt": "2026-03-16T19:42:03.212Z"
+        },
+        {
+          "id": "tmmtq5w1t76l2r",
+          "text": "Discussion",
+          "startTime": "14:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "Chat with Zhoujun about next steps of UDA",
+          "projectIds": [
+            "tmmr2vdgtif4sk"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj",
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-03-16T21:58:05.441Z"
         }
       ],
-      "updatedAt": "2026-03-16T19:48:02.347Z",
+      "updatedAt": "2026-03-16T21:58:59.076Z",
       "vitals": {
         "meals": [
           {
@@ -1879,6 +1896,14 @@
             "content": "Chick-fila-A - Muffin, coffee, hash brown",
             "logId": "tmmth8zt2pyffg",
             "createdAt": "2026-03-16T18:29:03.602Z"
+          },
+          {
+            "id": "tmmtq65e6otvg8",
+            "time": "14:00",
+            "mealType": "Lunch",
+            "content": "Tapioca - Chicken steam rice",
+            "logId": "tmmtq5w1t76l2r",
+            "createdAt": "2026-03-16T21:58:17.550Z"
           }
         ],
         "drinks": [
@@ -1889,6 +1914,14 @@
             "content": "Chick-fila-A - Black coffee with half-half",
             "logId": "tmmth8zt2pyffg",
             "createdAt": "2026-03-16T18:30:08.930Z"
+          },
+          {
+            "id": "tmmtq6n10782ea",
+            "time": "14:00",
+            "drinkType": "Milktea",
+            "content": "Tapioca - Lemon black tea",
+            "logId": "tmmtq5w1t76l2r",
+            "createdAt": "2026-03-16T21:58:40.404Z"
           }
         ],
         "snacks": [],
