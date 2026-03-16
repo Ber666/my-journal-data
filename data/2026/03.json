@@ -1884,9 +1884,26 @@
             "mmseaubmzl347keq3bm"
           ],
           "createdAt": "2026-03-16T21:58:05.441Z"
+        },
+        {
+          "id": "tmmtqadcddwb7n",
+          "text": "Code deep dive",
+          "startTime": "15:00",
+          "duration": "1h",
+          "plannedIds": [
+            "tmmsvipsiqwjaf"
+          ],
+          "notes": "",
+          "projectIds": [
+            "mmr2voz9ckppztrdedh"
+          ],
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "createdAt": "2026-03-16T22:01:34.477Z"
         }
       ],
-      "updatedAt": "2026-03-16T21:58:59.076Z",
+      "updatedAt": "2026-03-16T22:01:42.076Z",
       "vitals": {
         "meals": [
           {
