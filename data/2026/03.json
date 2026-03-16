@@ -1578,9 +1578,22 @@
           "projectIds": [],
           "plannedIds": [],
           "createdAt": "2026-03-16T06:42:04.452Z"
+        },
+        {
+          "id": "tmmstokn1y49e8",
+          "text": "Listened to a talk",
+          "startTime": "23:30",
+          "duration": "15m",
+          "notes": "Yuandong interview",
+          "tagIds": [
+            "mmr2ns9q0koipp7wd0e"
+          ],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-16T06:48:49.789Z"
         }
       ],
-      "updatedAt": "2026-03-16T06:42:04.453Z",
+      "updatedAt": "2026-03-16T06:48:49.789Z",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "10:30"
