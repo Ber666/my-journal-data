@@ -1589,9 +1589,22 @@
           ],
           "plannedIds": [],
           "createdAt": "2026-03-16T01:59:31.995Z"
+        },
+        {
+          "id": "tmmsjlfg5mnkr2",
+          "text": "Gym",
+          "startTime": "17:45",
+          "duration": "1h15m",
+          "notes": "",
+          "tagIds": [
+            "mmr2p1h2kn9fz2rdc6a"
+          ],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-16T02:06:26.933Z"
         }
       ],
-      "updatedAt": "2026-03-16T01:59:31.995Z"
+      "updatedAt": "2026-03-16T02:06:26.933Z"
     }
   }
 }
