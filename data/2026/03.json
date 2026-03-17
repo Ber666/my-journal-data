@@ -2037,12 +2037,22 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-17T06:55:24.846Z",
+      "updatedAt": "2026-03-17T07:00:58.026Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
-        "exercise": [],
+        "exercise": [
+          {
+            "id": "tmmu9k17umifo5",
+            "time": "10:00",
+            "type": "Yoga",
+            "duration": "45m",
+            "notes": "",
+            "logId": "tmmu9cw4ul53jb",
+            "createdAt": "2026-03-17T07:00:58.026Z"
+          }
+        ],
         "naps": []
       }
     }
