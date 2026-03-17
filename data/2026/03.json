@@ -2052,8 +2052,8 @@
       "log": [],
       "morningMessage": "",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "02:00",
+        "wakeTime": "10:00",
         "quality": 0,
         "notes": ""
       },
@@ -2062,7 +2062,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-17T08:38:40.042Z",
+      "updatedAt": "2026-03-17T17:21:00.181Z",
       "vitals": {
         "meals": [],
         "drinks": [],
