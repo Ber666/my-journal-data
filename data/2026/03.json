@@ -1996,22 +1996,7 @@
           "createdAt": "2026-03-17T01:35:12.377Z"
         }
       ],
-      "log": [
-        {
-          "id": "tmmu9cw4ul53jb",
-          "text": "Routine",
-          "startTime": "10:00",
-          "duration": "45m",
-          "notes": "washed up; practiced foot arch exercises",
-          "tagIds": [
-            "mmr2rbuad1c88u28vet",
-            "mmr856xwnx3s1w30yy"
-          ],
-          "projectIds": [],
-          "plannedIds": [],
-          "createdAt": "2026-03-17T06:55:24.846Z"
-        }
-      ],
+      "log": [],
       "morningMessage": "",
       "sleep": {
         "bedTime": "",
@@ -2024,7 +2009,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-17T07:38:42.142Z",
+      "updatedAt": "2026-03-17T07:38:42.764Z",
       "vitals": {
         "meals": [],
         "drinks": [],
