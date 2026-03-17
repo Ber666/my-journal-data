@@ -2078,10 +2078,26 @@
           "startTime": "13:00",
           "duration": "1h",
           "notes": "",
-          "tagIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t"
+          ],
           "projectIds": [],
           "plannedIds": [],
           "createdAt": "2026-03-17T21:09:41.141Z"
+        },
+        {
+          "id": "tmmv3wt499w4mg",
+          "text": "Morning routine",
+          "startTime": "10:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2oifg7godullxeq",
+            "mmseaubmwr4cssf41t"
+          ],
+          "createdAt": "2026-03-17T21:10:42.537Z"
         }
       ],
       "morningMessage": "Slept 02:00-10:00. Overall sleep was okay; woke up once before getting up. Still feels tired and slow to respond. Mood is neutral. Eyes feel uncomfortable this morning.",
@@ -2096,10 +2112,36 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-17T21:09:41.141Z",
+      "updatedAt": "2026-03-17T21:12:04.789Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmmv3wt4lfjoh4",
+            "time": "10:30",
+            "mealType": "Breakfast",
+            "content": "Oatmeal",
+            "logId": "tmmv3wt499w4mg",
+            "createdAt": "2026-03-17T21:10:42.549Z"
+          },
+          {
+            "id": "tmmv3xa8yi1bcj",
+            "time": "13:00",
+            "mealType": "Lunch",
+            "content": "Shrimp, beef, 白菜",
+            "logId": "tmmv3vhqttw61b",
+            "createdAt": "2026-03-17T21:11:04.738Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmmv3wt4l0enlv",
+            "time": "10:30",
+            "drinkType": "Coffee",
+            "content": "Latte",
+            "logId": "tmmv3wt499w4mg",
+            "createdAt": "2026-03-17T21:10:42.549Z"
+          }
+        ],
         "snacks": [],
         "exercise": [
           {
