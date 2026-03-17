@@ -2049,7 +2049,41 @@
           "createdAt": "2026-03-17T01:35:12.377Z"
         }
       ],
-      "log": [],
+      "log": [
+        {
+          "id": "tmmv3vhqt1ofw1",
+          "text": "HR conversation",
+          "startTime": "11:00",
+          "duration": "1h",
+          "notes": "",
+          "tagIds": [],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-17T21:09:41.141Z"
+        },
+        {
+          "id": "tmmv3vhqtlz5hr",
+          "text": "Anxiety / zoned out",
+          "startTime": "12:00",
+          "duration": "1h",
+          "notes": "felt anxious and drifted",
+          "tagIds": [],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-17T21:09:41.141Z"
+        },
+        {
+          "id": "tmmv3vhqttw61b",
+          "text": "Lunch",
+          "startTime": "13:00",
+          "duration": "1h",
+          "notes": "",
+          "tagIds": [],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-17T21:09:41.141Z"
+        }
+      ],
       "morningMessage": "Slept 02:00-10:00. Overall sleep was okay; woke up once before getting up. Still feels tired and slow to respond. Mood is neutral. Eyes feel uncomfortable this morning.",
       "sleep": {
         "bedTime": "02:00",
@@ -2062,7 +2096,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-17T17:30:09.113Z",
+      "updatedAt": "2026-03-17T21:09:41.141Z",
       "vitals": {
         "meals": [],
         "drinks": [],
