@@ -2098,6 +2098,17 @@
             "mmseaubmwr4cssf41t"
           ],
           "createdAt": "2026-03-17T21:10:42.537Z"
+        },
+        {
+          "id": "tmmv79iou17cgt",
+          "text": "Call with HM",
+          "startTime": "15:00",
+          "duration": "15m",
+          "notes": "",
+          "tagIds": [],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-17T22:44:34.398Z"
         }
       ],
       "morningMessage": "Slept 02:00-10:00. Overall sleep was okay; woke up once before getting up. Still feels tired and slow to respond. Mood is neutral. Eyes feel uncomfortable this morning.",
@@ -2112,7 +2123,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-17T21:12:07.438Z",
+      "updatedAt": "2026-03-17T22:44:34.398Z",
       "vitals": {
         "meals": [
           {
