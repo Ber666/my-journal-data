@@ -2055,7 +2055,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-17T07:38:42.764Z",
+      "updatedAt": "2026-03-17T08:38:28.525Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -2072,7 +2072,8 @@
           }
         ],
         "naps": []
-      }
+      },
+      "night": {}
     }
   }
 }
