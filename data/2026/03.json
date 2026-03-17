@@ -1901,9 +1901,24 @@
             "mmr2no961fq7x58dl9t"
           ],
           "createdAt": "2026-03-16T22:01:34.477Z"
+        },
+        {
+          "id": "tmmtximsb1cqot",
+          "text": "Meeting",
+          "startTime": "16:00",
+          "duration": "2h30m",
+          "plannedIds": [
+            "tmmsvipsicf4a3"
+          ],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-17T01:23:57.275Z"
         }
       ],
-      "updatedAt": "2026-03-16T22:01:42.076Z",
+      "updatedAt": "2026-03-17T01:24:05.099Z",
       "vitals": {
         "meals": [
           {
@@ -1966,6 +1981,42 @@
         "fatigue": 3
       },
       "morningMessage": "Sleep quality was mixed because I woke up multiple times. Clarity feels okay overall. Mood is okay; not seeing news this morning helped, but there is still some low-level xAI anxiety in the background. Body feels mixed: glutes are sore from yesterday's training, and the throat ulcer is still there."
+    },
+    "2026-03-17": {
+      "planned": [
+        {
+          "id": "tmmtxx3p5pd9a4",
+          "text": "Chat with Selene",
+          "scheduledTime": "11:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-17T01:35:12.377Z"
+        }
+      ],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-03-17T01:35:12.606Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
     }
   }
 }
