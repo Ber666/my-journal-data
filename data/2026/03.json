@@ -1955,7 +1955,7 @@
           "createdAt": "2026-03-17T07:41:49.744Z"
         }
       ],
-      "updatedAt": "2026-03-17T07:41:49.752Z",
+      "updatedAt": "2026-03-17T08:39:04.633Z",
       "vitals": {
         "meals": [
           {
@@ -2026,7 +2026,14 @@
         "mood": 3,
         "fatigue": 3
       },
-      "morningMessage": "Sleep quality was mixed because I woke up multiple times. Clarity feels okay overall. Mood is okay; not seeing news this morning helped, but there is still some low-level xAI anxiety in the background. Body feels mixed: glutes are sore from yesterday's training, and the throat ulcer is still there."
+      "morningMessage": "Sleep quality was mixed because I woke up multiple times. Clarity feels okay overall. Mood is okay; not seeing news this morning helped, but there is still some low-level xAI anxiety in the background. Body feels mixed: glutes are sore from yesterday's training, and the throat ulcer is still there.",
+      "night": {
+        "focus": 2,
+        "social": 5,
+        "mood": 3,
+        "body": 3
+      },
+      "nightMessage": "Sleep quality was not enough. Morning procrastination and a low-focus work environment made my energy clearly insufficient.\n\nIn the evening, pressure from Xiaodong to decide on the offer amplified my job-search anxiety, and my management system basically collapsed.\n\nLesson: when I get into this state, I should leave, clean up, and sleep instead of pretending I can still work efficiently.\n\nGood parts: I still went for a run in the morning and felt very alive; I engaged deeply in the UDA discussion; I did pretty well socially at dinner.\n\nTomorrow: sleep well tonight and start the day with a clear head.\n\nKey tasks tomorrow: ByteDance offer conversation (10:30-11:30), gym reset, 1.5h UDA, 1.5h cocoabench session, harborRL session, cocoabench meeting at night.\n\nPriorities: UDA (keep collaborator trust), cocoabench.\n\nReminder: bring headphones to school."
     },
     "2026-03-17": {
       "planned": [
