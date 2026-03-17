@@ -1998,19 +1998,6 @@
       ],
       "log": [
         {
-          "id": "tmmu9bxk9a5dvc",
-          "text": "Chat",
-          "startTime": "08:45",
-          "duration": "1h",
-          "notes": "chatted with Xiaohan and Dinghuai; zoned out for quite a while; felt very tired in the afternoon",
-          "tagIds": [
-            "mmr5p4h1wnrjx9u337"
-          ],
-          "projectIds": [],
-          "plannedIds": [],
-          "createdAt": "2026-03-17T06:54:40.041Z"
-        },
-        {
           "id": "tmmu9cw4ul53jb",
           "text": "Routine",
           "startTime": "10:00",
@@ -2037,7 +2024,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-17T07:00:58.026Z",
+      "updatedAt": "2026-03-17T07:38:42.142Z",
       "vitals": {
         "meals": [],
         "drinks": [],
