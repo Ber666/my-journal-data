@@ -1920,7 +1920,7 @@
         {
           "id": "tmmuawl6itgqh3",
           "text": "Chat",
-          "startTime": "08:45",
+          "startTime": "20:45",
           "duration": "1h",
           "notes": "chatted with Xiaohan and Dinghuai; zoned out for quite a while; felt very tired in the afternoon",
           "tagIds": [
@@ -1933,19 +1933,29 @@
         {
           "id": "tmmuawl6iib1jo",
           "text": "Routine",
-          "startTime": "10:00",
+          "startTime": "22:00",
           "duration": "45m",
           "notes": "washed up; practiced foot arch exercises",
           "tagIds": [
-            "mmr2rbuad1c88u28vet",
             "mmr856xwnx3s1w30yy"
           ],
           "projectIds": [],
           "plannedIds": [],
           "createdAt": "2026-03-17T07:38:43.386Z"
+        },
+        {
+          "id": "tmmub0kz49fbtz",
+          "text": "浪费时间内耗",
+          "startTime": "23:00",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-17T07:41:49.744Z"
         }
       ],
-      "updatedAt": "2026-03-17T07:39:07.680Z",
+      "updatedAt": "2026-03-17T07:41:49.752Z",
       "vitals": {
         "meals": [
           {
