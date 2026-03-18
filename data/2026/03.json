@@ -2119,7 +2119,8 @@
           "notes": "",
           "projectIds": [],
           "tagIds": [
-            "mmr55rn06icoh8thaon"
+            "mmr55rn06icoh8thaon",
+            "mmsezhts7c8cuv29jl"
           ],
           "createdAt": "2026-03-18T02:48:20.904Z"
         },
@@ -2133,6 +2134,19 @@
           "projectIds": [],
           "tagIds": [],
           "createdAt": "2026-03-18T02:48:47.914Z"
+        },
+        {
+          "id": "tmmvt61wkzenux",
+          "text": "Chat",
+          "startTime": "21:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "Chatted with Yu and Hanlin",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5p4h1wnrjx9u337"
+          ],
+          "createdAt": "2026-03-18T08:57:44.228Z"
         }
       ],
       "morningMessage": "Slept 02:00-10:00. Overall sleep was okay; woke up once before getting up. Still feels tired and slow to respond. Mood is neutral. Eyes feel uncomfortable this morning.",
@@ -2146,8 +2160,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-18T02:48:47.929Z",
+      "nightMessage": "和三个hr和hm开会，和n个同学交流信息。\n下午和Xiaodong meet的时候皮质醇爆表了，还好后续听到Zhiting带来xAI的好消息，然后字节这边的包也超过了预期。\n今天很热。\n大脑神经太兴奋了。需要更沉稳。大脑很累，但是我需要适应这种情况。",
+      "updatedAt": "2026-03-18T09:22:18.496Z",
       "vitals": {
         "meals": [
           {
@@ -2183,6 +2197,14 @@
             "content": "Latte",
             "logId": "tmmv3wt499w4mg",
             "createdAt": "2026-03-17T21:10:42.549Z"
+          },
+          {
+            "id": "tmmvth4945rceh",
+            "time": "19:00",
+            "drinkType": "Tea",
+            "content": "茉莉抹茶",
+            "logId": "tmmvfz0koo5voh",
+            "createdAt": "2026-03-18T09:06:20.487Z"
           }
         ],
         "snacks": [],
@@ -2199,13 +2221,20 @@
         ],
         "naps": []
       },
-      "night": {},
+      "night": {
+        "focus": 1,
+        "social": 2,
+        "mood": 3,
+        "body": 3
+      },
       "morning": {
         "quality": 3,
         "clarity": 2,
         "mood": 3,
         "fatigue": 3
-      }
+      },
+      "dayNotes": "",
+      "shiftReason": ""
     },
     "2026-03-18": {
       "planned": [],
