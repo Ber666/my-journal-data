@@ -2158,12 +2158,23 @@
           ],
           "tagIds": [],
           "createdAt": "2026-03-18T09:25:56.014Z"
+        },
+        {
+          "id": "tmmvuaomd18rvk",
+          "text": "Laundry",
+          "scheduledTime": "19:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-18T09:29:19.909Z"
         }
       ],
       "log": [],
-      "morningMessage": "",
+      "morningMessage": "第一原则：不要慌，做了任何选择都是非常满意的结果了。遇到这点压力就急，以后怎么办？",
       "sleep": {
-        "bedTime": "",
+        "bedTime": "02:45",
         "wakeTime": "",
         "quality": 0,
         "notes": ""
@@ -2173,14 +2184,28 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-18T09:25:56.024Z",
+      "updatedAt": "2026-03-18T09:44:47.484Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 0,
+        "clarity": 0,
+        "mood": 0,
+        "fatigue": 0
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 0,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
     }
   }
 }
