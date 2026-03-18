@@ -2036,207 +2036,6 @@
       "nightMessage": "Sleep quality was not enough. Morning procrastination and a low-focus work environment made my energy clearly insufficient.\n\nIn the evening, pressure from Xiaodong to decide on the offer amplified my job-search anxiety, and my management system basically collapsed.\n\nLesson: when I get into this state, I should leave, clean up, and sleep instead of pretending I can still work efficiently.\n\nGood parts: I still went for a run in the morning and felt very alive; I engaged deeply in the UDA discussion; I did pretty well socially at dinner.\n\nTomorrow: sleep well tonight and start the day with a clear head.\n\nKey tasks tomorrow: ByteDance offer conversation (10:30-11:30), gym reset, 1.5h UDA, 1.5h cocoabench session, harborRL session, cocoabench meeting at night.\n\nPriorities: UDA (keep collaborator trust), cocoabench.\n\nReminder: bring headphones to school."
     },
     "2026-03-17": {
-      "planned": [
-        {
-          "id": "tmmtxx3p5pd9a4",
-          "text": "Chat with Selene",
-          "scheduledTime": "11:00",
-          "duration": "30m",
-          "status": "not-started",
-          "notes": "",
-          "projectIds": [],
-          "tagIds": [],
-          "createdAt": "2026-03-17T01:35:12.377Z"
-        }
-      ],
-      "log": [
-        {
-          "id": "tmmv3vhqt1ofw1",
-          "text": "HR conversation",
-          "startTime": "11:00",
-          "duration": "1h",
-          "notes": "",
-          "tagIds": [],
-          "projectIds": [],
-          "plannedIds": [],
-          "createdAt": "2026-03-17T21:09:41.141Z"
-        },
-        {
-          "id": "tmmv3vhqtlz5hr",
-          "text": "Anxiety / zoned out",
-          "startTime": "12:00",
-          "duration": "1h",
-          "notes": "felt anxious and drifted",
-          "tagIds": [],
-          "projectIds": [],
-          "plannedIds": [],
-          "createdAt": "2026-03-17T21:09:41.141Z"
-        },
-        {
-          "id": "tmmv3vhqttw61b",
-          "text": "Lunch",
-          "startTime": "13:00",
-          "duration": "1h",
-          "notes": "",
-          "tagIds": [
-            "mmr2ojz2433y63hgj0t"
-          ],
-          "projectIds": [],
-          "plannedIds": [],
-          "createdAt": "2026-03-17T21:09:41.141Z"
-        },
-        {
-          "id": "tmmv3wt499w4mg",
-          "text": "Morning routine",
-          "startTime": "10:30",
-          "duration": "30m",
-          "plannedIds": [],
-          "notes": "",
-          "projectIds": [],
-          "tagIds": [
-            "mmr2oifg7godullxeq",
-            "mmseaubmwr4cssf41t"
-          ],
-          "createdAt": "2026-03-17T21:10:42.537Z"
-        },
-        {
-          "id": "tmmv79iou17cgt",
-          "text": "Call with HM",
-          "startTime": "15:00",
-          "duration": "15m",
-          "notes": "",
-          "tagIds": [],
-          "projectIds": [],
-          "plannedIds": [],
-          "createdAt": "2026-03-17T22:44:34.398Z"
-        },
-        {
-          "id": "tmmvfz0koo5voh",
-          "text": "Dinner",
-          "startTime": "19:00",
-          "duration": "45m",
-          "plannedIds": [],
-          "notes": "",
-          "projectIds": [],
-          "tagIds": [
-            "mmr55rn06icoh8thaon",
-            "mmsezhts7c8cuv29jl"
-          ],
-          "createdAt": "2026-03-18T02:48:20.904Z"
-        },
-        {
-          "id": "tmmvfzleypsb1j",
-          "text": "Chat with HR",
-          "startTime": "16:30",
-          "duration": "1h",
-          "plannedIds": [],
-          "notes": "",
-          "projectIds": [],
-          "tagIds": [],
-          "createdAt": "2026-03-18T02:48:47.914Z"
-        },
-        {
-          "id": "tmmvt61wkzenux",
-          "text": "Chat",
-          "startTime": "21:30",
-          "duration": "1h",
-          "plannedIds": [],
-          "notes": "Chatted with Yu and Hanlin",
-          "projectIds": [],
-          "tagIds": [
-            "mmr5p4h1wnrjx9u337"
-          ],
-          "createdAt": "2026-03-18T08:57:44.228Z"
-        }
-      ],
-      "morningMessage": "Slept 02:00-10:00. Overall sleep was okay; woke up once before getting up. Still feels tired and slow to respond. Mood is neutral. Eyes feel uncomfortable this morning.",
-      "sleep": {
-        "bedTime": "02:00",
-        "wakeTime": "10:00",
-        "quality": 0,
-        "notes": ""
-      },
-      "energy": 0,
-      "mental": {
-        "mood": 0
-      },
-      "nightMessage": "和三个hr和hm开会，和n个同学交流信息。\n下午和Xiaodong meet的时候皮质醇爆表了，还好后续听到Zhiting带来xAI的好消息，然后字节这边的包也超过了预期。\n今天很热。\n大脑神经太兴奋了。需要更沉稳。大脑很累，但是我需要适应这种情况。",
-      "updatedAt": "2026-03-18T09:22:18.496Z",
-      "vitals": {
-        "meals": [
-          {
-            "id": "tmmv3wt4lfjoh4",
-            "time": "10:30",
-            "mealType": "Breakfast",
-            "content": "Oatmeal",
-            "logId": "tmmv3wt499w4mg",
-            "createdAt": "2026-03-17T21:10:42.549Z"
-          },
-          {
-            "id": "tmmv3xa8yi1bcj",
-            "time": "13:00",
-            "mealType": "Lunch",
-            "content": "Shrimp, beef, 白菜",
-            "logId": "tmmv3vhqttw61b",
-            "createdAt": "2026-03-17T21:11:04.738Z"
-          },
-          {
-            "id": "tmmvfz0lke2377",
-            "time": "19:00",
-            "mealType": "Dinner",
-            "content": "beef, fried fish",
-            "logId": "tmmvfz0koo5voh",
-            "createdAt": "2026-03-18T02:48:20.936Z"
-          }
-        ],
-        "drinks": [
-          {
-            "id": "tmmv3wt4l0enlv",
-            "time": "10:30",
-            "drinkType": "Coffee",
-            "content": "Latte",
-            "logId": "tmmv3wt499w4mg",
-            "createdAt": "2026-03-17T21:10:42.549Z"
-          },
-          {
-            "id": "tmmvth4945rceh",
-            "time": "19:00",
-            "drinkType": "Tea",
-            "content": "茉莉抹茶",
-            "logId": "tmmvfz0koo5voh",
-            "createdAt": "2026-03-18T09:06:20.487Z"
-          }
-        ],
-        "snacks": [],
-        "exercise": [
-          {
-            "id": "tmmu9k17umifo5",
-            "time": "10:00",
-            "type": "Yoga",
-            "duration": "45m",
-            "notes": "",
-            "logId": "tmmu9cw4ul53jb",
-            "createdAt": "2026-03-17T07:00:58.026Z"
-          }
-        ],
-        "naps": []
-      },
-      "night": {
-        "focus": 1,
-        "social": 2,
-        "mood": 3,
-        "body": 3
-      },
-      "morning": {
-        "quality": 3,
-        "clarity": 2,
-        "mood": 3,
-        "fatigue": 3
-      },
-      "dayNotes": "",
-      "shiftReason": ""
-    },
-    "2026-03-18": {
       "planned": [],
       "log": [],
       "morningMessage": "",
@@ -2251,7 +2050,130 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-18T08:46:17.558Z",
+      "updatedAt": "2026-03-18T09:22:23.881Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
+    },
+    "2026-03-18": {
+      "planned": [
+        {
+          "id": "tmmvu27dgxm41l",
+          "text": "Morning routine",
+          "scheduledTime": "10:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-18T09:22:44.308Z"
+        },
+        {
+          "id": "tmmvu2eervq5qn",
+          "text": "Parepare for meeting",
+          "scheduledTime": "10:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [
+            "mmr2voz9ckppztrdedh"
+          ],
+          "tagIds": [],
+          "createdAt": "2026-03-18T09:22:53.427Z"
+        },
+        {
+          "id": "tmmvu2iocql636",
+          "text": "Meeting",
+          "scheduledTime": "11:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [
+            "mmr2voz9ckppztrdedh"
+          ],
+          "tagIds": [],
+          "createdAt": "2026-03-18T09:22:58.956Z"
+        },
+        {
+          "id": "tmmvu3hgfndavp",
+          "text": "Commute & Lunch",
+          "scheduledTime": "12:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-18T09:23:44.031Z"
+        },
+        {
+          "id": "tmmvu3ukq8rul6",
+          "text": "Shibo / Tianyu",
+          "scheduledTime": "20:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "gcalDescription": null,
+          "importedFrom": "gcal",
+          "gcalEventId": "4cb6k68ru1hmb5rfs3a4gln1in",
+          "createdAt": "2026-03-18T09:24:01.034Z"
+        },
+        {
+          "id": "tmmvu3ukq63pyv",
+          "text": "Chat",
+          "scheduledTime": "21:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "gcalDescription": null,
+          "importedFrom": "gcal",
+          "gcalEventId": "2v2fbfthf7a1brr4nommfa56js",
+          "createdAt": "2026-03-18T09:24:01.034Z"
+        },
+        {
+          "id": "tmmvu65z96i5mi",
+          "text": "Pass@k",
+          "scheduledTime": "13:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [
+            "tmmr2vdgtif4sk"
+          ],
+          "tagIds": [],
+          "createdAt": "2026-03-18T09:25:49.125Z"
+        },
+        {
+          "id": "tmmvu6bamnhshf",
+          "text": "Planning",
+          "scheduledTime": "14:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "tagIds": [],
+          "createdAt": "2026-03-18T09:25:56.014Z"
+        }
+      ],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-03-18T09:25:56.024Z",
       "vitals": {
         "meals": [],
         "drinks": [],
