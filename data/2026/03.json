@@ -2227,6 +2227,22 @@
             "mmr5p0tp9al4uxk6zlj"
           ],
           "createdAt": "2026-03-18T19:08:27.983Z"
+        },
+        {
+          "id": "tmmwkriog77re8",
+          "text": "Lunch",
+          "startTime": "12:00",
+          "duration": "1h30m",
+          "plannedIds": [
+            "tmmvu3hgfndavp"
+          ],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-03-18T21:50:15.376Z"
         }
       ],
       "morningMessage": "第一原则：不要慌，做了任何选择都是非常满意的结果了。遇到这点压力就急，以后怎么办？\n嘴里起溃疡了",
@@ -2241,10 +2257,28 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-18T19:16:07.762Z",
+      "updatedAt": "2026-03-18T21:50:19.123Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmmwkriozqlzje",
+            "time": "12:00",
+            "mealType": "Lunch",
+            "content": "Udon",
+            "logId": "tmmwkriog77re8",
+            "createdAt": "2026-03-18T21:50:15.395Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmmwkriozuz9ug",
+            "time": "12:00",
+            "drinkType": "Milktea",
+            "content": "",
+            "logId": "tmmwkriog77re8",
+            "createdAt": "2026-03-18T21:50:15.395Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
         "naps": []
