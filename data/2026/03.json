@@ -2150,7 +2150,7 @@
           "id": "tmmvu6bamnhshf",
           "text": "Planning",
           "scheduledTime": "14:30",
-          "duration": "1h",
+          "duration": "30m",
           "status": "not-started",
           "notes": "",
           "projectIds": [
@@ -2169,6 +2169,30 @@
           "projectIds": [],
           "tagIds": [],
           "createdAt": "2026-03-18T09:29:19.909Z"
+        },
+        {
+          "id": "tmmwf8zchl9moj",
+          "text": "Meeting",
+          "scheduledTime": "15:00",
+          "duration": null,
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-18T19:15:52.433Z"
+        },
+        {
+          "id": "tmmwf9b5smz495",
+          "text": "Meeting",
+          "scheduledTime": "18:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-18T19:16:07.744Z"
         }
       ],
       "log": [
@@ -2188,6 +2212,21 @@
             "mmr2no961fq7x58dl9t"
           ],
           "createdAt": "2026-03-18T17:26:45.159Z"
+        },
+        {
+          "id": "tmmwezgeniqiov",
+          "text": "Meeting",
+          "startTime": "11:00",
+          "duration": "1h",
+          "plannedIds": [
+            "tmmvu2iocql636"
+          ],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-18T19:08:27.983Z"
         }
       ],
       "morningMessage": "第一原则：不要慌，做了任何选择都是非常满意的结果了。遇到这点压力就急，以后怎么办？\n嘴里起溃疡了",
@@ -2202,7 +2241,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-18T17:26:45.518Z",
+      "updatedAt": "2026-03-18T19:16:07.762Z",
       "vitals": {
         "meals": [],
         "drinks": [],
