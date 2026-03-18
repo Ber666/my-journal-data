@@ -2171,11 +2171,29 @@
           "createdAt": "2026-03-18T09:29:19.909Z"
         }
       ],
-      "log": [],
-      "morningMessage": "第一原则：不要慌，做了任何选择都是非常满意的结果了。遇到这点压力就急，以后怎么办？",
+      "log": [
+        {
+          "id": "tmmwbcnfryes3b",
+          "text": "Finalize PR",
+          "startTime": "10:30",
+          "duration": "30m",
+          "plannedIds": [
+            "tmmvu2eervq5qn"
+          ],
+          "notes": "",
+          "projectIds": [
+            "mmr2voz9ckppztrdedh"
+          ],
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "createdAt": "2026-03-18T17:26:45.159Z"
+        }
+      ],
+      "morningMessage": "第一原则：不要慌，做了任何选择都是非常满意的结果了。遇到这点压力就急，以后怎么办？\n嘴里起溃疡了",
       "sleep": {
         "bedTime": "02:45",
-        "wakeTime": "",
+        "wakeTime": "09:45",
         "quality": 0,
         "notes": ""
       },
@@ -2184,7 +2202,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-18T09:44:57.594Z",
+      "updatedAt": "2026-03-18T17:26:45.518Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -2193,10 +2211,10 @@
         "naps": []
       },
       "morning": {
-        "quality": 0,
-        "clarity": 0,
-        "mood": 0,
-        "fatigue": 0
+        "quality": 3,
+        "clarity": 3,
+        "mood": 3,
+        "fatigue": 2
       },
       "dayNotes": "",
       "night": {
