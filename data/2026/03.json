@@ -2172,7 +2172,7 @@
         },
         {
           "id": "tmmwf8zchl9moj",
-          "text": "Meeting",
+          "text": "Meeting w/ Zhiqi",
           "scheduledTime": "15:00",
           "duration": null,
           "status": "not-started",
@@ -2256,6 +2256,21 @@
             "mmr5p0tp9al4uxk6zlj"
           ],
           "createdAt": "2026-03-18T21:50:48.413Z"
+        },
+        {
+          "id": "tmmwo209e5w3km",
+          "text": "Meeting w/ Zhiqi",
+          "startTime": "15:30",
+          "duration": "1h",
+          "plannedIds": [
+            "tmmwf8zchl9moj"
+          ],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-18T23:22:23.570Z"
         }
       ],
       "morningMessage": "第一原则：不要慌，做了任何选择都是非常满意的结果了。遇到这点压力就急，以后怎么办？\n嘴里起溃疡了",
@@ -2270,7 +2285,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-18T21:50:48.428Z",
+      "updatedAt": "2026-03-18T23:22:23.578Z",
       "vitals": {
         "meals": [
           {
