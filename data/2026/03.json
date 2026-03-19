@@ -2358,8 +2358,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-19T06:10:29.742Z",
+      "nightMessage": "Had a lot of meetings today, which made focus pretty low, but some projects still moved forward.\n\nSocially things were mostly okay. During the intern meeting, I could have been more patient.\n\nMood was fairly neutral overall, but I felt unfocused in the meeting with MBZ. Later, after the call with Boshi, I got a bit shaken by ByteDance-related thoughts, and then seeing a long-distance-separation animation made me emo at night.\n\nPhysically I was mostly okay, just a bit sleepy.\n\nWorst part of the day: falling into that emo state at night.\nBest part of the day: milk tea.\n\nInsight: deep work helps relieve anxiety.\n\nFor tomorrow: I want to feel stronger, not be affected so much by other people's negative energy, and be the one who brings positive energy.",
+      "updatedAt": "2026-03-19T08:34:33.983Z",
       "vitals": {
         "meals": [
           {
@@ -2393,10 +2393,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 2,
+        "social": 4,
+        "mood": 3,
+        "body": 3
       },
       "shiftReason": ""
     },
