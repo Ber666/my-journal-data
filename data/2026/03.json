@@ -2404,11 +2404,18 @@
       "planned": [],
       "log": [],
       "night": {},
-      "updatedAt": "2026-03-19T16:53:51.365Z",
+      "updatedAt": "2026-03-19T16:55:58.103Z",
       "sleep": {
         "bedTime": "01:30",
         "wakeTime": "09:30"
-      }
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 4,
+        "mood": 3,
+        "fatigue": 4
+      },
+      "morningMessage": "Woke up in the middle of sleep, so the quality was just okay.\n\nMood is okay but still a bit affected by not seeing any message from xAI this morning.\n\nMentally I feel better than the last two days.\n\nPhysically everything feels okay."
     }
   }
 }
