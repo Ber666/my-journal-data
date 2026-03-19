@@ -2404,7 +2404,11 @@
       "planned": [],
       "log": [],
       "night": {},
-      "updatedAt": "2026-03-19T08:34:15.737Z"
+      "updatedAt": "2026-03-19T16:53:51.365Z",
+      "sleep": {
+        "bedTime": "01:30",
+        "wakeTime": "09:30"
+      }
     }
   }
 }
