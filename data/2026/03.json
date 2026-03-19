@@ -2289,7 +2289,9 @@
             "tmmwf9b5smz495"
           ],
           "notes": "",
-          "projectIds": [],
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
           "tagIds": [
             "mmr5p0tp9al4uxk6zlj"
           ],
@@ -2309,6 +2311,40 @@
             "mmr5p0tp9al4uxk6zlj"
           ],
           "createdAt": "2026-03-19T05:58:53.075Z"
+        },
+        {
+          "id": "tmmx2lqaed9r8x",
+          "text": "Meeting w/ Tianyu",
+          "startTime": "20:00",
+          "duration": "45m",
+          "plannedIds": [
+            "tmmvu3ukq8rul6"
+          ],
+          "notes": "",
+          "projectIds": [
+            "mmr2vuuqsasarz3p1tb"
+          ],
+          "tagIds": [
+            "mmr5p4h1wnrjx9u337"
+          ],
+          "createdAt": "2026-03-19T06:09:38.390Z"
+        },
+        {
+          "id": "tmmx2mmcdgdoux",
+          "text": "Meeting w/ Boshi",
+          "startTime": "21:00",
+          "duration": "45m",
+          "plannedIds": [
+            "tmmvu3ukq63pyv"
+          ],
+          "notes": "",
+          "projectIds": [
+            "mmr2vuuqsasarz3p1tb"
+          ],
+          "tagIds": [
+            "mmr5p4h1wnrjx9u337"
+          ],
+          "createdAt": "2026-03-19T06:10:19.933Z"
         }
       ],
       "morningMessage": "第一原则：不要慌，做了任何选择都是非常满意的结果了。遇到这点压力就急，以后怎么办？\n嘴里起溃疡了",
@@ -2323,7 +2359,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-19T05:59:22.336Z",
+      "updatedAt": "2026-03-19T06:10:29.742Z",
       "vitals": {
         "meals": [
           {
