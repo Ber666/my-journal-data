@@ -2847,7 +2847,7 @@
           "createdAt": "2026-03-20T09:24:28.226Z"
         }
       ],
-      "morningMessage": "早上赖床很久，体验不好。",
+      "morningMessage": "早上赖床很久，感觉不好。",
       "sleep": {
         "bedTime": "02:30",
         "wakeTime": "11:00",
@@ -2859,7 +2859,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-20T19:51:32.486Z",
+      "updatedAt": "2026-03-20T20:04:16.822Z",
       "vitals": {
         "meals": [],
         "drinks": [],
