@@ -2761,8 +2761,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "缺少规划的一天，但是和Junli讨论收获了一些新的input\n晚上meeting骂intern了，感觉很不好。\n",
-      "updatedAt": "2026-03-20T09:20:47.191Z",
+      "nightMessage": "缺少规划的一天，但是和Junli讨论收获了一些新的input\n晚上meeting骂intern了，感觉不好。应该更加理性，自律。",
+      "updatedAt": "2026-03-20T09:22:30.723Z",
       "vitals": {
         "meals": [
           {
@@ -2821,7 +2821,23 @@
     },
     "2026-03-20": {
       "planned": [],
-      "log": [],
+      "log": [
+        {
+          "id": "tmmyp04w25phmv",
+          "text": "Writing",
+          "startTime": "01:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "tagIds": [
+            "mmr2nqmli7j3a22w8s9"
+          ],
+          "createdAt": "2026-03-20T09:24:28.226Z"
+        }
+      ],
       "morningMessage": "",
       "sleep": {
         "bedTime": "",
@@ -2834,7 +2850,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-19T17:48:08.935Z",
+      "updatedAt": "2026-03-20T09:24:28.236Z",
       "vitals": {
         "meals": [],
         "drinks": [],
