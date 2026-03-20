@@ -2733,6 +2733,21 @@
             "mmr2no961fq7x58dl9t"
           ],
           "createdAt": "2026-03-20T03:35:43.130Z"
+        },
+        {
+          "id": "tmmynuqwsx6s9l",
+          "text": "Meeting",
+          "startTime": "21:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-20T08:52:17.212Z"
         }
       ],
       "morningMessage": "Woke up in the middle of sleep, so the quality was just okay.\n\nMood is okay but still a bit affected by not seeing any message from xAI this morning.\n\nMentally I feel better than the last two days.\n\nPhysically everything feels okay.",
@@ -2746,8 +2761,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-20T03:35:43.358Z",
+      "nightMessage": "缺少规划的一天，但是和Junli讨论收获了一些新的input\n晚上meeting骂intern了，感觉很不好，",
+      "updatedAt": "2026-03-20T08:53:00.501Z",
       "vitals": {
         "meals": [
           {
@@ -2794,7 +2809,15 @@
         "clarity": 4,
         "mood": 3,
         "fatigue": 4
-      }
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 3,
+        "social": 1,
+        "mood": 2,
+        "body": 3
+      },
+      "shiftReason": ""
     },
     "2026-03-20": {
       "planned": [],
