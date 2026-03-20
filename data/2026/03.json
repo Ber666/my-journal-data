@@ -2718,6 +2718,21 @@
             "mmr55rn06icoh8thaon"
           ],
           "createdAt": "2026-03-20T02:09:17.588Z"
+        },
+        {
+          "id": "tmmycjmzeckswh",
+          "text": "Coding",
+          "startTime": "19:00",
+          "duration": "1h30m",
+          "plannedIds": [],
+          "notes": "看了cocoa-agent的code，主要是这样：\n\ninference_main.py:\n\n- agent.run_task(task)\n  - agent.task_executor.run_task: the executor has sandbox client, and the controller (LLM) and uses them to build an agent loop.",
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "tagIds": [
+            "mmr2no961fq7x58dl9t"
+          ],
+          "createdAt": "2026-03-20T03:35:43.130Z"
         }
       ],
       "morningMessage": "Woke up in the middle of sleep, so the quality was just okay.\n\nMood is okay but still a bit affected by not seeing any message from xAI this morning.\n\nMentally I feel better than the last two days.\n\nPhysically everything feels okay.",
@@ -2732,7 +2747,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-20T02:09:49.577Z",
+      "updatedAt": "2026-03-20T03:35:43.358Z",
       "vitals": {
         "meals": [
           {
