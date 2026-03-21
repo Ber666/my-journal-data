@@ -2852,20 +2852,35 @@
         "bedTime": "02:30",
         "wakeTime": "11:00",
         "quality": 0,
-        "notes": ""
+        "notes": "",
+        "naps": [
+          {
+            "id": "tmmzozyh6iaq2j",
+            "time": "16:00",
+            "duration": "1h45m"
+          }
+        ]
       },
       "energy": 0,
       "mental": {
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-20T20:30:39.580Z",
+      "updatedAt": "2026-03-21T02:12:06.099Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
-        "naps": []
+        "naps": [
+          {
+            "id": "tmmzozyh6p8l42",
+            "time": "16:00",
+            "duration": "1h45m",
+            "logId": null,
+            "createdAt": "2026-03-21T02:12:06.090Z"
+          }
+        ]
       },
       "morning": {
         "quality": 4,
