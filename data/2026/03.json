@@ -2865,8 +2865,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-21T02:12:06.099Z",
+      "nightMessage": "今天玩手机太久了。\n更难受的不是手机本身，而是自律系统崩溃带来的失控感和对自己的失望。\n下午补觉了，但晚上又熬夜，作息还是有点乱。\n晚上和 zhongyang 他们去吃饭，社交还可以。",
+      "updatedAt": "2026-03-21T10:29:05.655Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -2890,10 +2890,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 1,
+        "social": 3,
+        "mood": 2,
+        "body": 2
       },
       "shiftReason": ""
     }
