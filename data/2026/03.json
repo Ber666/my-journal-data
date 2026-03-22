@@ -2917,12 +2917,27 @@
           "id": "tmn1cfoe540k12",
           "text": "Trip",
           "startTime": "10:00",
-          "duration": "7h30m",
+          "duration": "7h",
+          "plannedIds": [],
+          "notes": "Lake Sutherland",
+          "projectIds": [],
+          "tagIds": [
+            "mn1cg643wnhitjt1wqe"
+          ],
+          "createdAt": "2026-03-22T05:55:56.861Z"
+        },
+        {
+          "id": "tmn1ckyvldhgj4",
+          "text": "Dinner",
+          "startTime": "17:00",
+          "duration": "1h30m",
           "plannedIds": [],
           "notes": "",
           "projectIds": [],
-          "tagIds": [],
-          "createdAt": "2026-03-22T05:55:56.861Z"
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-03-22T06:00:03.729Z"
         }
       ],
       "morningMessage": "睡眠不足，而且也醒了很多次。",
@@ -2937,7 +2952,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-22T05:55:56.871Z",
+      "updatedAt": "2026-03-22T06:00:03.740Z",
       "vitals": {
         "meals": [
           {
