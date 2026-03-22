@@ -2900,10 +2900,10 @@
     "2026-03-21": {
       "planned": [],
       "log": [],
-      "morningMessage": "",
+      "morningMessage": "睡眠不足，而且也醒了很多次。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "03:30",
+        "wakeTime": "09:00",
         "quality": 0,
         "notes": ""
       },
@@ -2912,14 +2912,28 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-22T04:00:06.339Z",
+      "updatedAt": "2026-03-22T04:00:50.424Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 1,
+        "clarity": 3,
+        "mood": 4,
+        "fatigue": 2
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 0,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
     }
   }
 }
