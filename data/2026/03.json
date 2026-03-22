@@ -2938,6 +2938,21 @@
             "mmr55rn06icoh8thaon"
           ],
           "createdAt": "2026-03-22T06:00:03.729Z"
+        },
+        {
+          "id": "tmn1cmj1s3m0rg",
+          "text": "Meeting",
+          "startTime": "18:30",
+          "duration": "4h30m",
+          "plannedIds": [],
+          "notes": "Chat with Xiaohan and Zhiqi",
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-22T06:01:16.528Z"
         }
       ],
       "morningMessage": "睡眠不足，而且也醒了很多次。",
@@ -2952,7 +2967,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-22T06:00:03.740Z",
+      "updatedAt": "2026-03-22T06:01:34.907Z",
       "vitals": {
         "meals": [
           {
@@ -2962,6 +2977,14 @@
             "content": "Mcdonald",
             "logId": "tmn1cf0ds13ku1",
             "createdAt": "2026-03-22T05:55:26.034Z"
+          },
+          {
+            "id": "tmn1cl29iyz48r",
+            "time": "17:00",
+            "mealType": "Dinner",
+            "content": "Crab hut",
+            "logId": "tmn1ckyvldhgj4",
+            "createdAt": "2026-03-22T06:00:08.118Z"
           }
         ],
         "drinks": [],
