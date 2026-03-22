@@ -2899,7 +2899,32 @@
     },
     "2026-03-21": {
       "planned": [],
-      "log": [],
+      "log": [
+        {
+          "id": "tmn1cf0ds13ku1",
+          "text": "Breakfast",
+          "startTime": "09:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2oifg7godullxeq"
+          ],
+          "createdAt": "2026-03-22T05:55:25.744Z"
+        },
+        {
+          "id": "tmn1cfoe540k12",
+          "text": "Trip",
+          "startTime": "10:00",
+          "duration": "7h30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-22T05:55:56.861Z"
+        }
+      ],
       "morningMessage": "睡眠不足，而且也醒了很多次。",
       "sleep": {
         "bedTime": "03:30",
@@ -2912,9 +2937,18 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-22T04:00:50.424Z",
+      "updatedAt": "2026-03-22T05:55:56.871Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmn1cf0lu2iiwy",
+            "time": "09:30",
+            "mealType": "Breakfast",
+            "content": "Mcdonald",
+            "logId": "tmn1cf0ds13ku1",
+            "createdAt": "2026-03-22T05:55:26.034Z"
+          }
+        ],
         "drinks": [],
         "snacks": [],
         "exercise": [],
