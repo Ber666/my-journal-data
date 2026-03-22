@@ -251,6 +251,11 @@
       "id": "mmsezhts5j87nc1puhe",
       "name": "Snack",
       "groupId": "mmseaubmmg80f9qayo"
+    },
+    {
+      "id": "mn1cg643wnhitjt1wqe",
+      "name": "Trip",
+      "groupId": "mmr2pus4r257p92vogm"
     }
   ],
   "projects": [
@@ -281,5 +286,5 @@
       "color": "#1BA87A"
     }
   ],
-  "updatedAt": "2026-03-15T23:57:27.305Z"
+  "updatedAt": "2026-03-22T06:00:06.536Z"
 }
