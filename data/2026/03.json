@@ -2909,7 +2909,8 @@
           "notes": "",
           "projectIds": [],
           "tagIds": [
-            "mmr2oifg7godullxeq"
+            "mmr2oifg7godullxeq",
+            "mmseaubmwr4cssf41t"
           ],
           "createdAt": "2026-03-22T05:55:25.744Z"
         },
@@ -2935,7 +2936,8 @@
           "notes": "",
           "projectIds": [],
           "tagIds": [
-            "mmr55rn06icoh8thaon"
+            "mmr55rn06icoh8thaon",
+            "mmseaubmzl347keq3bm"
           ],
           "createdAt": "2026-03-22T06:00:03.729Z"
         },
@@ -2966,15 +2968,15 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-22T06:01:34.907Z",
+      "nightMessage": "Missed the night check-in.. \n缺觉，但是在外面玩了一天，心情不错，社交上没有什么大问题，晚上回家之后深度专注工作了一段时间。",
+      "updatedAt": "2026-03-23T05:27:30.980Z",
       "vitals": {
         "meals": [
           {
             "id": "tmn1cf0lu2iiwy",
             "time": "09:30",
             "mealType": "Breakfast",
-            "content": "Mcdonald",
+            "content": "Mcdonald - muffin",
             "logId": "tmn1cf0ds13ku1",
             "createdAt": "2026-03-22T05:55:26.034Z"
           },
@@ -2987,7 +2989,24 @@
             "createdAt": "2026-03-22T06:00:08.118Z"
           }
         ],
-        "drinks": [],
+        "drinks": [
+          {
+            "id": "tmn2qksz26b5eg",
+            "time": "09:30",
+            "drinkType": "Coffee",
+            "content": "Mcdonald - Cappuccino",
+            "logId": "tmn1cf0ds13ku1",
+            "createdAt": "2026-03-23T05:19:36.877Z"
+          },
+          {
+            "id": "tmn2quxagd469m",
+            "time": "17:00",
+            "drinkType": "Milktea",
+            "content": "",
+            "logId": "tmn1ckyvldhgj4",
+            "createdAt": "2026-03-23T05:27:29.032Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
         "naps": []
@@ -3000,10 +3019,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 4,
+        "social": 4,
+        "mood": 5,
+        "body": 3
       },
       "shiftReason": ""
     },
