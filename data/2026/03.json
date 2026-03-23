@@ -3210,6 +3210,17 @@
           "tagIds": [],
           "projectIds": [],
           "createdAt": "2026-03-23T09:32:21.954Z"
+        },
+        {
+          "id": "tmn2zlv1aatdvf",
+          "text": "Laundry and cleaning",
+          "scheduledTime": "19:30",
+          "duration": null,
+          "status": "not-started",
+          "notes": "吹风机",
+          "tagIds": [],
+          "projectIds": [],
+          "createdAt": "2026-03-23T09:32:22.750Z"
         }
       ],
       "log": [],
@@ -3225,7 +3236,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T09:32:21.954Z",
+      "updatedAt": "2026-03-23T09:32:22.750Z",
       "vitals": {
         "meals": [],
         "drinks": [],
