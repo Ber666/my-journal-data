@@ -1955,7 +1955,7 @@
           "createdAt": "2026-03-17T07:41:49.744Z"
         }
       ],
-      "updatedAt": "2026-03-23T09:02:31.207Z",
+      "updatedAt": "2026-03-23T09:02:49.374Z",
       "vitals": {
         "meals": [
           {
@@ -2003,6 +2003,15 @@
             "notes": "2 miles 在大操场，可能有海拔落差，加上一半是在草地上跑，比较累",
             "logId": "tmmtip9nh5p9l0",
             "createdAt": "2026-03-16T18:29:13.333Z"
+          },
+          {
+            "id": "tmn2yjuouj0gl3",
+            "time": "22:00",
+            "type": "Yoga",
+            "duration": "45m",
+            "notes": "",
+            "logId": "tmmuawl6iib1jo",
+            "createdAt": "2026-03-23T09:02:49.373Z"
           },
           {
             "id": "tmmuax3xc2bhcx",
@@ -3042,6 +3051,32 @@
             "mmseaubmzl347keq3bm"
           ],
           "createdAt": "2026-03-23T05:32:01.350Z"
+        },
+        {
+          "id": "tmn2ykftxov4ho",
+          "text": "Nap",
+          "startTime": "16:30",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5pmfl6bnnn77zp7f"
+          ],
+          "createdAt": "2026-03-23T09:03:16.773Z"
+        },
+        {
+          "id": "tmn2ykqmisjke3",
+          "text": "Gym",
+          "startTime": "19:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2p1h2kn9fz2rdc6a"
+          ],
+          "createdAt": "2026-03-23T09:03:30.762Z"
         }
       ],
       "morningMessage": "疯狂补觉。除了腰有点不舒服，其他都没问题",
@@ -3056,7 +3091,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T05:32:25.395Z",
+      "updatedAt": "2026-03-23T09:03:30.773Z",
       "vitals": {
         "meals": [
           {
@@ -3080,7 +3115,15 @@
         ],
         "snacks": [],
         "exercise": [],
-        "naps": []
+        "naps": [
+          {
+            "id": "tmn2ykfucxsi9q",
+            "time": "16:30",
+            "duration": "2h",
+            "logId": "tmn2ykftxov4ho",
+            "createdAt": "2026-03-23T09:03:16.788Z"
+          }
+        ]
       },
       "morning": {
         "quality": 5,
