@@ -3028,6 +3028,77 @@
     },
     "2026-03-22": {
       "planned": [],
+      "log": [
+        {
+          "id": "tmn2r0reuehllo",
+          "text": "Lunch w/ Yuhan",
+          "startTime": "12:45",
+          "duration": "2h15m",
+          "plannedIds": [],
+          "notes": "和张育晗吃了饭",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-03-23T05:32:01.350Z"
+        }
+      ],
+      "morningMessage": "疯狂补觉。除了腰有点不舒服，其他都没问题",
+      "sleep": {
+        "bedTime": "02:00",
+        "wakeTime": "11:30",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-03-23T05:32:25.395Z",
+      "vitals": {
+        "meals": [
+          {
+            "id": "tmn2r0rmmodlq3",
+            "time": "12:45",
+            "mealType": "Lunch",
+            "content": "Seasons 52 - Sea bass",
+            "logId": "tmn2r0reuehllo",
+            "createdAt": "2026-03-23T05:32:01.630Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmn2r0rmmdpk8f",
+            "time": "12:45",
+            "drinkType": "Milktea",
+            "content": "3cat - 抹茶龙井奶酪",
+            "logId": "tmn2r0reuehllo",
+            "createdAt": "2026-03-23T05:32:01.630Z"
+          }
+        ],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      },
+      "morning": {
+        "quality": 5,
+        "clarity": 4,
+        "mood": 4,
+        "fatigue": 4
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 0,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
+    },
+    "2026-03-23": {
+      "planned": [],
       "log": [],
       "morningMessage": "",
       "sleep": {
@@ -3041,7 +3112,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T05:15:51.124Z",
+      "updatedAt": "2026-03-23T08:29:59.383Z",
       "vitals": {
         "meals": [],
         "drinks": [],
