@@ -3250,9 +3250,18 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T18:05:24.142Z",
+      "updatedAt": "2026-03-23T18:05:29.316Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmn3hxq3nalvyb",
+            "time": "11:00",
+            "mealType": "Breakfast",
+            "content": "",
+            "logId": "tmn3hxlqmp5a6g",
+            "createdAt": "2026-03-23T18:05:29.315Z"
+          }
+        ],
         "drinks": [],
         "snacks": [],
         "exercise": [],
