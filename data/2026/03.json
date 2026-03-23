@@ -3090,8 +3090,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-23T09:03:30.773Z",
+      "nightMessage": "社交还算得体。疯狂补觉，虽然下午午觉的质量不高。引体向上做的有进步。投稿还是压力有点大。",
+      "updatedAt": "2026-03-23T09:13:36.176Z",
       "vitals": {
         "meals": [
           {
@@ -3114,7 +3114,17 @@
           }
         ],
         "snacks": [],
-        "exercise": [],
+        "exercise": [
+          {
+            "id": "tmn2ykw2eyogle",
+            "time": "19:30",
+            "type": "Gym",
+            "duration": "30m",
+            "notes": "",
+            "logId": "tmn2ykqmisjke3",
+            "createdAt": "2026-03-23T09:03:37.813Z"
+          }
+        ],
         "naps": [
           {
             "id": "tmn2ykfucxsi9q",
@@ -3133,10 +3143,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 3,
+        "social": 3,
+        "mood": 3,
+        "body": 4
       },
       "shiftReason": ""
     },
