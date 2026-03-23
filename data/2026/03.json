@@ -3098,7 +3098,45 @@
       "shiftReason": ""
     },
     "2026-03-23": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmn2xritwbo1jg",
+          "text": "整理项目进展",
+          "scheduledTime": "10:45",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "tagIds": [
+            "mmr2nqmli7j3a22w8s9"
+          ],
+          "createdAt": "2026-03-23T08:40:47.636Z"
+        },
+        {
+          "id": "tmn2xuu66002te",
+          "text": "Messages, misc",
+          "scheduledTime": "10:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "Misc: Renew DMV, Renew password",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-23T08:43:22.302Z"
+        },
+        {
+          "id": "tmn2xv0u0kiws3",
+          "text": "TBD",
+          "scheduledTime": "12:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-23T08:43:30.936Z"
+        }
+      ],
       "log": [],
       "morningMessage": "",
       "sleep": {
@@ -3112,14 +3150,28 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T08:29:59.383Z",
+      "updatedAt": "2026-03-23T08:44:21.718Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 0,
+        "clarity": 0,
+        "mood": 0,
+        "fatigue": 0
+      },
+      "dayNotes": "Request meeting with Rupesh. ",
+      "night": {
+        "focus": 0,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
     }
   }
 }
