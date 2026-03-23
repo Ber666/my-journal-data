@@ -3183,7 +3183,7 @@
           "text": "TBD",
           "scheduledTime": "12:00",
           "duration": "1h",
-          "status": "not-started",
+          "status": "cancelled",
           "notes": "",
           "projectIds": [],
           "tagIds": [],
@@ -3214,7 +3214,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T09:14:20.432Z",
+      "updatedAt": "2026-03-23T09:32:12.390Z",
       "vitals": {
         "meals": [],
         "drinks": [],
