@@ -3223,11 +3223,25 @@
           "createdAt": "2026-03-23T09:32:22.750Z"
         }
       ],
-      "log": [],
-      "morningMessage": "",
+      "log": [
+        {
+          "id": "tmn3hxlqmp5a6g",
+          "text": "Misc",
+          "startTime": "11:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2oifg7godullxeq"
+          ],
+          "createdAt": "2026-03-23T18:05:23.662Z"
+        }
+      ],
+      "morningMessage": "睡的太晚，起的太早，起床之后赖床了1h，心情还算正常，身体上还是嘴里有溃疡，腰不舒服",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "03:00",
+        "wakeTime": "10:00",
         "quality": 0,
         "notes": ""
       },
@@ -3236,7 +3250,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T09:32:22.750Z",
+      "updatedAt": "2026-03-23T18:05:24.142Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -3245,10 +3259,10 @@
         "naps": []
       },
       "morning": {
-        "quality": 0,
-        "clarity": 0,
-        "mood": 0,
-        "fatigue": 0
+        "quality": 2,
+        "clarity": 2,
+        "mood": 3,
+        "fatigue": 2
       },
       "dayNotes": "Request meeting with Rupesh. ",
       "night": {
