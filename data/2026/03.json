@@ -2969,7 +2969,7 @@
         "mood": 0
       },
       "nightMessage": "Missed the night check-in.. \n缺觉，但是在外面玩了一天，心情不错，社交上没有什么大问题，晚上回家之后深度专注工作了一段时间。",
-      "updatedAt": "2026-03-23T05:27:30.980Z",
+      "updatedAt": "2026-03-23T05:28:02.626Z",
       "vitals": {
         "meals": [
           {
@@ -3002,7 +3002,7 @@
             "id": "tmn2quxagd469m",
             "time": "17:00",
             "drinkType": "Milktea",
-            "content": "",
+            "content": "Mako - Strawberry matcha latte",
             "logId": "tmn1ckyvldhgj4",
             "createdAt": "2026-03-23T05:27:29.032Z"
           }
