@@ -3188,6 +3188,17 @@
           "projectIds": [],
           "tagIds": [],
           "createdAt": "2026-03-23T08:43:30.936Z"
+        },
+        {
+          "id": "tmn2yynwk6zzal",
+          "text": "约体检？",
+          "scheduledTime": "14:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-23T09:14:20.420Z"
         }
       ],
       "log": [],
@@ -3203,7 +3214,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T08:44:21.718Z",
+      "updatedAt": "2026-03-23T09:14:20.432Z",
       "vitals": {
         "meals": [],
         "drinks": [],
