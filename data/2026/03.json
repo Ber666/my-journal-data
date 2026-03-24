@@ -3356,6 +3356,43 @@
             "mmr5p0tp9al4uxk6zlj"
           ],
           "createdAt": "2026-03-24T16:38:05.749Z"
+        },
+        {
+          "id": "tmn53pvqbfyduj",
+          "text": "Chat w/ TML",
+          "scheduledTime": "15:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [
+            "mmr2vuuqsasarz3p1tb"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-24T21:03:01.091Z"
+        },
+        {
+          "id": "tmn53rh7fhgpi1",
+          "text": "Email and planning",
+          "scheduledTime": "14:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-24T21:04:15.579Z"
+        },
+        {
+          "id": "tmn53rwuafo1es",
+          "text": "Laundry & Misc",
+          "scheduledTime": "20:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-24T21:04:35.842Z"
         }
       ],
       "log": [
@@ -3419,7 +3456,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-24T21:02:15.425Z",
+      "updatedAt": "2026-03-24T21:04:35.860Z",
       "vitals": {
         "meals": [
           {
