@@ -3262,6 +3262,21 @@
           "projectIds": [],
           "tagIds": [],
           "createdAt": "2026-03-23T19:39:34.015Z"
+        },
+        {
+          "id": "tmn47b90ccz188",
+          "text": "Accompanied friend for wedding",
+          "startTime": "13:30",
+          "duration": "7h",
+          "notes": "Dinner at Sovereign Modern Thai. Drank Thai tea.",
+          "tagIds": [
+            "mmr5p4h1wnrjx9u337",
+            "mmr55rn06icoh8thaon",
+            "mmsezhts7c8cuv29jl"
+          ],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-24T05:55:50.748Z"
         }
       ],
       "morningMessage": "睡的太晚，起的太早，起床之后赖床了1h，心情还算正常，身体上还是嘴里有溃疡，腰不舒服",
@@ -3276,7 +3291,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-23T19:39:34.027Z",
+      "updatedAt": "2026-03-24T05:55:50.748Z",
       "vitals": {
         "meals": [
           {
