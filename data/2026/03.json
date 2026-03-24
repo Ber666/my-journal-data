@@ -3341,7 +3341,23 @@
       "shiftReason": ""
     },
     "2026-03-24": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmn4u96t0yew2r",
+          "text": "Meeting",
+          "scheduledTime": "10:00",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-24T16:38:05.749Z"
+        }
+      ],
       "log": [],
       "morningMessage": "",
       "sleep": {
@@ -3355,7 +3371,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-24T16:37:08.175Z",
+      "updatedAt": "2026-03-24T16:38:05.761Z",
       "vitals": {
         "meals": [],
         "drinks": [],
