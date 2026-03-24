@@ -3344,7 +3344,7 @@
       "planned": [
         {
           "id": "tmn4u96t0yew2r",
-          "text": "Meeting",
+          "text": "Meeting w/ Rupesh",
           "scheduledTime": "10:00",
           "duration": "45m",
           "status": "not-started",
@@ -3358,7 +3358,55 @@
           "createdAt": "2026-03-24T16:38:05.749Z"
         }
       ],
-      "log": [],
+      "log": [
+        {
+          "id": "tmn53mvebekyne",
+          "text": "Meeting w/ Rupesh",
+          "startTime": "10:00",
+          "duration": "45m",
+          "plannedIds": [
+            "tmn4u96t0yew2r"
+          ],
+          "notes": "",
+          "projectIds": [
+            "mmr2d0yfntzf5nyz43"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj",
+            "mmr2oifg7godullxeq"
+          ],
+          "createdAt": "2026-03-24T21:00:40.691Z"
+        },
+        {
+          "id": "tmn53njha1stkd",
+          "text": "Meeting w/ Jiecao",
+          "startTime": "11:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [
+            "mmr2vuuqsasarz3p1tb"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-24T21:01:11.902Z"
+        },
+        {
+          "id": "tmn53o10v6xpow",
+          "text": "Commute & Lunch",
+          "startTime": "12:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-03-24T21:01:34.639Z"
+        }
+      ],
       "morningMessage": "睡眠质量还不错，可能身体还是比较疲惫，赖床了一阵。",
       "sleep": {
         "bedTime": "23:45",
@@ -3371,10 +3419,36 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-24T20:32:24.640Z",
+      "updatedAt": "2026-03-24T21:02:15.425Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmn53o11frlkic",
+            "time": "12:30",
+            "mealType": "Lunch",
+            "content": "Chickfila",
+            "logId": "tmn53o10v6xpow",
+            "createdAt": "2026-03-24T21:01:34.658Z"
+          },
+          {
+            "id": "tmn53othcp3ep8",
+            "time": "10:00",
+            "mealType": "Breakfast",
+            "content": "Oatmeal",
+            "logId": "tmn53mvebekyne",
+            "createdAt": "2026-03-24T21:02:11.520Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmn53ocf3wb9ce",
+            "time": "12:30",
+            "drinkType": "Milktea",
+            "content": "Chickfila - Strawberry lemonade",
+            "logId": "tmn53o10v6xpow",
+            "createdAt": "2026-03-24T21:01:49.406Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
         "naps": []
