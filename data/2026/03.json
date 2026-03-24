@@ -3359,10 +3359,10 @@
         }
       ],
       "log": [],
-      "morningMessage": "",
+      "morningMessage": "睡眠质量还不错，可能身体还是比较疲惫，赖床了一阵。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "23:45",
+        "wakeTime": "08:45",
         "quality": 0,
         "notes": ""
       },
@@ -3371,14 +3371,28 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-24T16:38:05.761Z",
+      "updatedAt": "2026-03-24T20:32:24.640Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 5,
+        "clarity": 3,
+        "mood": 4,
+        "fatigue": 4
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 0,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
     }
   }
 }
