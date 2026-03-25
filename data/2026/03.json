@@ -3468,8 +3468,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-24T23:44:32.811Z",
+      "nightMessage": "收到thinking machine onsite面试，深刻意识到了什么叫做analysis paralysis; it should be a great news to me but well...\n\n心情当然还不错，因为有了这个面试，不过投稿还是比较焦虑的。身体还可以，昨晚睡眠质量很好，虽然感觉还是有点累。",
+      "updatedAt": "2026-03-25T09:29:29.359Z",
       "vitals": {
         "meals": [
           {
@@ -3511,15 +3511,93 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 2,
+        "social": 2,
+        "mood": 3,
+        "body": 3
       },
       "shiftReason": ""
     },
     "2026-03-25": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmn5tufzxa6ecb",
+          "text": "Run",
+          "scheduledTime": "10:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-25T09:14:23.997Z"
+        },
+        {
+          "id": "tmn5tupvhdhymq",
+          "text": "Meeting w/ Victoria",
+          "scheduledTime": "11:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-25T09:14:36.797Z"
+        },
+        {
+          "id": "tmn5tv2pzdfmws",
+          "text": "Chat w/ Ziqiao",
+          "scheduledTime": "13:30",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-25T09:14:53.447Z"
+        },
+        {
+          "id": "tmn5tveu3vpens",
+          "text": "Look through some logs",
+          "scheduledTime": "14:30",
+          "duration": "1h30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-25T09:15:09.147Z"
+        },
+        {
+          "id": "tmn5tvmfxw04i6",
+          "text": "Continue writing",
+          "scheduledTime": "16:00",
+          "duration": "1h30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-25T09:15:19.005Z"
+        },
+        {
+          "id": "tmn5tvr9bkmf4a",
+          "text": "Submit",
+          "scheduledTime": "17:30",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-25T09:15:25.247Z"
+        },
+        {
+          "id": "tmn5u61a8oweub",
+          "text": "Reading [Composer 2]",
+          "scheduledTime": "12:45",
+          "duration": "45m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-03-25T09:23:24.800Z"
+        }
+      ],
       "log": [],
       "morningMessage": "",
       "sleep": {
@@ -3533,7 +3611,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-25T09:13:59.646Z",
+      "updatedAt": "2026-03-25T09:23:25.076Z",
       "vitals": {
         "meals": [],
         "drinks": [],
