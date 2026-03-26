@@ -3620,12 +3620,55 @@
           "projectIds": [],
           "tagIds": [],
           "createdAt": "2026-03-25T22:24:51.320Z"
+        },
+        {
+          "id": "tmn7x4ddkniu2w",
+          "text": "Tapioca",
+          "startTime": "13:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-03-26T20:21:38.360Z"
+        },
+        {
+          "id": "tmn7x59hvco7uy",
+          "text": "Lunch",
+          "startTime": "19:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-03-26T20:22:19.987Z"
+        },
+        {
+          "id": "tmn7x64w0cbsgu",
+          "text": "Run",
+          "startTime": "11:00",
+          "duration": "45m",
+          "plannedIds": [
+            "tmn5tufzxa6ecb"
+          ],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5pbaudf0cmxc9w5n"
+          ],
+          "createdAt": "2026-03-26T20:23:00.672Z"
         }
       ],
-      "morningMessage": "",
+      "morningMessage": "睡眠不足但是早上还是去跑步了。身体比较疲惫",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "02:45",
+        "wakeTime": "09:30",
         "quality": 0,
         "notes": ""
       },
@@ -3633,15 +3676,73 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-25T22:24:51.333Z",
+      "nightMessage": "需要",
+      "updatedAt": "2026-03-26T20:23:59.054Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmn7x4de79j71z",
+            "time": "13:00",
+            "mealType": "Lunch",
+            "content": "Tapicoa - pork",
+            "logId": "tmn7x4ddkniu2w",
+            "createdAt": "2026-03-26T20:21:38.383Z"
+          },
+          {
+            "id": "tmn7x59iezpgwj",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "Qin west - Wuhan hot dry noodle",
+            "logId": "tmn7x59hvco7uy",
+            "createdAt": "2026-03-26T20:22:20.005Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmn7x4mzm4gtq6",
+            "time": "13:00",
+            "drinkType": "Milktea",
+            "content": "Tapioca - lemon black tea",
+            "logId": "tmn7x4ddkniu2w",
+            "createdAt": "2026-03-26T20:21:50.818Z"
+          },
+          {
+            "id": "tmn7x59iejdsus",
+            "time": "19:00",
+            "drinkType": "Milktea",
+            "content": "Heytea - guava jasmine",
+            "logId": "tmn7x59hvco7uy",
+            "createdAt": "2026-03-26T20:22:20.005Z"
+          }
+        ],
         "snacks": [],
-        "exercise": [],
+        "exercise": [
+          {
+            "id": "tmn7x65bkbz73x",
+            "time": "11:00",
+            "type": "Running",
+            "duration": "45m",
+            "notes": "跑了1miles就不行了，心率不高但是很疲惫，赶紧休息了。",
+            "logId": "tmn7x64w0cbsgu",
+            "createdAt": "2026-03-26T20:23:01.232Z"
+          }
+        ],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 3,
+        "mood": 3,
+        "fatigue": 2
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 2,
+        "social": 3,
+        "mood": 4,
+        "body": 2
+      },
+      "shiftReason": ""
     },
     "2026-03-26": {
       "planned": [],
