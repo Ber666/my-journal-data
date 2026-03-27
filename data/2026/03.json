@@ -3786,9 +3786,26 @@
         "mood": 0
       },
       "nightMessage": "还可以，看了 composer2 一半，内容比较深入。和 zhen 聊天有点 defensive 和装逼，但换个角度看，也算是在树立一点权威。没啥大喜大悲。不发烧了，就是感觉有点累。",
-      "updatedAt": "2026-03-27T08:56:03.706Z",
+      "updatedAt": "2026-03-27T09:20:58.617Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmn8oyltiuiolj",
+            "time": "14:00",
+            "mealType": "Lunch",
+            "content": "",
+            "logId": "tmn8o2kc90uodz",
+            "createdAt": "2026-03-27T09:20:58.614Z"
+          },
+          {
+            "id": "tmn8oyltiyb8e8",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "",
+            "logId": "tmn8o2kca9748n",
+            "createdAt": "2026-03-27T09:20:58.614Z"
+          }
+        ],
         "drinks": [],
         "snacks": [],
         "exercise": [],
