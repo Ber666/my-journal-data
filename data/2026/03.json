@@ -3746,7 +3746,34 @@
     },
     "2026-03-26": {
       "planned": [],
-      "log": [],
+      "log": [
+        {
+          "id": "tmn8o2kc90uodz",
+          "text": "Chinese food at home",
+          "startTime": "14:00",
+          "duration": null,
+          "notes": "beef",
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t"
+          ],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-27T08:56:03.706Z"
+        },
+        {
+          "id": "tmn8o2kca9748n",
+          "text": "Mediterranean food at UTC",
+          "startTime": "19:00",
+          "duration": null,
+          "notes": "",
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "projectIds": [],
+          "plannedIds": [],
+          "createdAt": "2026-03-27T08:56:03.706Z"
+        }
+      ],
       "morningMessage": "",
       "sleep": {
         "bedTime": "",
@@ -3759,7 +3786,7 @@
         "mood": 0
       },
       "nightMessage": "还可以，看了 composer2 一半，内容比较深入。和 zhen 聊天有点 defensive 和装逼，但换个角度看，也算是在树立一点权威。没啥大喜大悲。不发烧了，就是感觉有点累。",
-      "updatedAt": "2026-03-27T08:54:20.356Z",
+      "updatedAt": "2026-03-27T08:56:03.706Z",
       "vitals": {
         "meals": [],
         "drinks": [],
