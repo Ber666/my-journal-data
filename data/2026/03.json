@@ -3758,14 +3758,20 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-26T20:17:59.200Z",
+      "nightMessage": "还可以，看了 composer2 一半，内容比较深入。和 zhen 聊天有点 defensive 和装逼，但换个角度看，也算是在树立一点权威。没啥大喜大悲。不发烧了，就是感觉有点累。",
+      "updatedAt": "2026-03-27T08:54:20.356Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
         "naps": []
+      },
+      "night": {
+        "focus": 3,
+        "social": 3,
+        "mood": 3,
+        "body": 3
       }
     }
   }
