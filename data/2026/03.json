@@ -3844,11 +3844,67 @@
     },
     "2026-03-27": {
       "planned": [],
-      "log": [],
-      "morningMessage": "",
+      "log": [
+        {
+          "id": "tmnaub3y3dc1mj",
+          "text": "Basketball",
+          "startTime": "16:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5pgs37vf3vlwnchq"
+          ],
+          "createdAt": "2026-03-28T21:26:12.411Z"
+        },
+        {
+          "id": "tmnaubzcl45f97",
+          "text": "Dinner",
+          "startTime": "19:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-03-28T21:26:53.109Z"
+        },
+        {
+          "id": "tmnaudbx8f77sc",
+          "text": "Lunch",
+          "startTime": "14:45",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t"
+          ],
+          "createdAt": "2026-03-28T21:27:56.060Z"
+        },
+        {
+          "id": "tmnauen3vl7y8t",
+          "text": "xAI interview",
+          "startTime": "15:30",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [
+            "mmr2vuuqsasarz3p1tb"
+          ],
+          "tagIds": [
+            "mmr5p0tp9al4uxk6zlj"
+          ],
+          "createdAt": "2026-03-28T21:28:57.211Z"
+        }
+      ],
+      "morningMessage": "十点醒了半个小时，腿冷，穿上秋裤之后又睡了好久。感觉身体还在恢复。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "02:00",
+        "wakeTime": "14:00",
         "quality": 0,
         "notes": ""
       },
@@ -3856,15 +3912,65 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-28T21:24:18.219Z",
+      "nightMessage": "面试还算不错。就算睡了好久，打篮球还是特别累，不知道身体出了什么问题，可能是嘴里在发炎。吃的很不健康，烤大肠油太多了。而且以后坚决不能晚上喝奶茶。",
+      "updatedAt": "2026-03-28T21:30:08.396Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmnaubzd3j9u5s",
+            "time": "19:30",
+            "mealType": "Dinner",
+            "content": "SongHak",
+            "logId": "tmnaubzcl45f97",
+            "createdAt": "2026-03-28T21:26:53.127Z"
+          },
+          {
+            "id": "tmnaudbxjw3wpd",
+            "time": "14:45",
+            "mealType": "Lunch",
+            "content": "油炸速动食物（薯饼，炸鱼，鸡蛋仔）",
+            "logId": "tmnaudbx8f77sc",
+            "createdAt": "2026-03-28T21:27:56.070Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmnaubzd3ttotr",
+            "time": "19:30",
+            "drinkType": "Milktea",
+            "content": "3cat - 豆乳龙井",
+            "logId": "tmnaubzcl45f97",
+            "createdAt": "2026-03-28T21:26:53.127Z"
+          }
+        ],
         "snacks": [],
-        "exercise": [],
+        "exercise": [
+          {
+            "id": "tmnaub45fgm1at",
+            "time": "16:30",
+            "type": "Basketball",
+            "duration": "1h",
+            "notes": "强度不大但是很累，喘不上气，中间甚至头晕",
+            "logId": "tmnaub3y3dc1mj",
+            "createdAt": "2026-03-28T21:26:12.675Z"
+          }
+        ],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 2,
+        "clarity": 3,
+        "mood": 3,
+        "fatigue": 3
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 3,
+        "social": 3,
+        "mood": 3,
+        "body": 2
+      },
+      "shiftReason": ""
     }
   }
 }
