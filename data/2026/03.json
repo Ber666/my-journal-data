@@ -3817,6 +3817,54 @@
         "mood": 3,
         "body": 3
       }
+    },
+    "2026-03-28": {
+      "planned": [],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-03-28T21:24:16.766Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
+    },
+    "2026-03-27": {
+      "planned": [],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-03-28T21:24:18.219Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
     }
   }
 }
