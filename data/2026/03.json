@@ -3828,7 +3828,21 @@
     },
     "2026-03-28": {
       "planned": [],
-      "log": [],
+      "log": [
+        {
+          "id": "tmnazkg1vrwfof",
+          "text": "Cleaning",
+          "startTime": "15:45",
+          "duration": "1h15m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2rbuad1c88u28vet"
+          ],
+          "createdAt": "2026-03-28T23:53:26.083Z"
+        }
+      ],
       "morningMessage": "",
       "sleep": {
         "bedTime": "",
@@ -3841,7 +3855,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-28T21:24:16.766Z",
+      "updatedAt": "2026-03-28T23:53:26.797Z",
       "vitals": {
         "meals": [],
         "drinks": [],
