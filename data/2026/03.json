@@ -3841,6 +3841,33 @@
             "mmr2rbuad1c88u28vet"
           ],
           "createdAt": "2026-03-28T23:53:26.083Z"
+        },
+        {
+          "id": "tmncem96kctqvi",
+          "text": "Lunch and coffee",
+          "startTime": "13:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmwr4cssf41t"
+          ],
+          "createdAt": "2026-03-29T23:42:30.908Z"
+        },
+        {
+          "id": "tmncemyehj9mku",
+          "text": "Dinner",
+          "startTime": "19:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-03-29T23:43:03.593Z"
         }
       ],
       "morningMessage": "睡的太晚",
@@ -3855,10 +3882,28 @@
         "mood": 0
       },
       "nightMessage": "十点多开了个会讨论Error analysis, 皮质醇暴涨。睡前开始非常焦虑，不过幸好最后想清楚了一些策略，希望能不后悔。",
-      "updatedAt": "2026-03-29T23:42:04.319Z",
+      "updatedAt": "2026-03-29T23:43:03.611Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmncem97i7yeqf",
+            "time": "13:30",
+            "mealType": "Lunch",
+            "content": "homemade 中餐",
+            "logId": "tmncem96kctqvi",
+            "createdAt": "2026-03-29T23:42:30.941Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmncem97ii27sw",
+            "time": "13:30",
+            "drinkType": "Coffee",
+            "content": "Latte",
+            "logId": "tmncem96kctqvi",
+            "createdAt": "2026-03-29T23:42:30.941Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
         "naps": []
