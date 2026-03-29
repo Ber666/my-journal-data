@@ -3997,7 +3997,7 @@
     "2026-03-29": {
       "planned": [],
       "log": [],
-      "morningMessage": "yao",
+      "morningMessage": "睡眠质量不好，醒了很多次。可能因为睡得太晚了，白天窗帘挡不住。",
       "sleep": {
         "bedTime": "04:00",
         "wakeTime": "13:00",
@@ -4009,7 +4009,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-29T23:36:29.755Z",
+      "updatedAt": "2026-03-29T23:37:11.141Z",
       "vitals": {
         "meals": [],
         "drinks": [],
