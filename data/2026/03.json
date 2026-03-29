@@ -3843,10 +3843,10 @@
           "createdAt": "2026-03-28T23:53:26.083Z"
         }
       ],
-      "morningMessage": "",
+      "morningMessage": "睡的太晚",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "03:45",
+        "wakeTime": "12:30",
         "quality": 0,
         "notes": ""
       },
@@ -3854,15 +3854,29 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-28T23:53:26.797Z",
+      "nightMessage": "睡前开始非常焦虑。十点多开了个会讨论Error analysis, 皮质醇暴涨。",
+      "updatedAt": "2026-03-29T23:38:18.064Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 3,
+        "mood": 3,
+        "fatigue": 3
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 2,
+        "social": 2,
+        "mood": 2,
+        "body": 2
+      },
+      "shiftReason": ""
     },
     "2026-03-27": {
       "planned": [],
