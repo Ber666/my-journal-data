@@ -4091,7 +4091,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-03-29T23:44:26.876Z",
+      "updatedAt": "2026-03-29T23:44:49.487Z",
       "vitals": {
         "meals": [
           {
@@ -4108,7 +4108,7 @@
             "id": "tmnceog9fphgz4",
             "time": "15:00",
             "drinkType": "Milktea",
-            "content": "",
+            "content": "Heytea - 开心果茉莉椰",
             "logId": "tmnceog8u7a2b9",
             "createdAt": "2026-03-29T23:44:13.395Z"
           }
