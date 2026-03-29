@@ -3868,6 +3868,19 @@
             "mmr55rn06icoh8thaon"
           ],
           "createdAt": "2026-03-29T23:43:03.593Z"
+        },
+        {
+          "id": "tmnceql1kdg513",
+          "text": "Gym",
+          "startTime": "21:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2p1h2kn9fz2rdc6a"
+          ],
+          "createdAt": "2026-03-29T23:45:52.904Z"
         }
       ],
       "morningMessage": "睡的太晚",
@@ -3882,7 +3895,7 @@
         "mood": 0
       },
       "nightMessage": "十点多开了个会讨论Error analysis, 皮质醇暴涨。睡前开始非常焦虑，不过幸好最后想清楚了一些策略，希望能不后悔。",
-      "updatedAt": "2026-03-29T23:43:16.448Z",
+      "updatedAt": "2026-03-29T23:45:53.147Z",
       "vitals": {
         "meals": [
           {
