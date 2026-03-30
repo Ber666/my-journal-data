@@ -4139,8 +4139,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-30T08:53:08.117Z",
+      "nightMessage": "Went to the office and wrote some paper, but total work time was too short; likely related to sleep.\n\nHad dinner with Kun and Choi; overall okay, though there was a moment of losing emotional control when the badminton racket seemed missing.\n\nBadminton, dinner, and chatting felt good overall.\n\nSome background stress around paper submissions and interviews.\n\nLower back felt sore, but badminton seemed to help a bit.\n\nFor now: avoid leg training.\n\nCarry into tomorrow: the good mood.\n\nDo better tomorrow: work longer and avoid dragging.",
+      "updatedAt": "2026-03-30T09:46:59.535Z",
       "vitals": {
         "meals": [
           {
@@ -4192,10 +4192,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 2,
+        "social": 3,
+        "mood": 4,
+        "body": 3
       },
       "shiftReason": ""
     }
