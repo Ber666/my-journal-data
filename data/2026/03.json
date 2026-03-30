@@ -4206,7 +4206,14 @@
         "bedTime": "03:00",
         "wakeTime": "11:00"
       },
-      "updatedAt": "2026-03-30T18:04:18.766Z"
+      "updatedAt": "2026-03-30T20:18:56.790Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
     }
   }
 }
