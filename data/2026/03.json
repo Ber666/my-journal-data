@@ -4228,6 +4228,30 @@
         "body": 2
       },
       "nightMessage": "Wrote quite a lot for the paper.\n\nLost some focus before sleep and wasted a bit of time.\n\nSocially things were fairly normal.\n\nFelt somewhat anxious, but felt better after Ziqiao shared some news.\n\nToo much caffeine + fatigue.\n\nFelt heart-pounding while walking at night."
+    },
+    "2026-03-31": {
+      "planned": [],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-03-31T23:41:29.363Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
     }
   }
 }
