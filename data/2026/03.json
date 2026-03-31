@@ -4206,7 +4206,7 @@
         "bedTime": "03:00",
         "wakeTime": "11:00"
       },
-      "updatedAt": "2026-03-31T08:29:26.769Z",
+      "updatedAt": "2026-03-31T08:32:40.075Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -4220,7 +4220,14 @@
         "mood": 3,
         "fatigue": 2
       },
-      "morningMessage": "Sleep quality was poor and I woke up several times.\n\nA bit dizzy this morning.\n\nMood is slightly anxious.\n\nMuscle fatigue.\n\nEyes feel a bit uncomfortable."
+      "morningMessage": "Sleep quality was poor and I woke up several times.\n\nA bit dizzy this morning.\n\nMood is slightly anxious.\n\nMuscle fatigue.\n\nEyes feel a bit uncomfortable.",
+      "night": {
+        "focus": 4,
+        "social": 3,
+        "mood": 3,
+        "body": 2
+      },
+      "nightMessage": "Wrote quite a lot for the paper.\n\nLost some focus before sleep and wasted a bit of time.\n\nSocially things were fairly normal.\n\nFelt somewhat anxious, but felt better after Ziqiao shared some news.\n\nToo much caffeine + fatigue.\n\nFelt heart-pounding while walking at night."
     }
   }
 }
