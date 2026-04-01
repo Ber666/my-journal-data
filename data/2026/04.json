@@ -1,0 +1,29 @@
+{
+  "month": "2026-04",
+  "entries": {
+    "2026-04-01": {
+      "planned": [],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-04-01T22:34:30.296Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
+    }
+  }
+}
