@@ -4201,15 +4201,38 @@
     },
     "2026-03-30": {
       "planned": [],
-      "log": [],
+      "log": [
+        {
+          "id": "tmngmjf3lhhtyn",
+          "text": "Coffee",
+          "startTime": "16:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmseaubmwr4cssf41t"
+          ],
+          "createdAt": "2026-04-01T22:35:20.241Z"
+        }
+      ],
       "sleep": {
         "bedTime": "03:00",
         "wakeTime": "11:00"
       },
-      "updatedAt": "2026-03-31T08:32:40.075Z",
+      "updatedAt": "2026-04-01T22:35:24.334Z",
       "vitals": {
         "meals": [],
-        "drinks": [],
+        "drinks": [
+          {
+            "id": "tmngmjf3xg1ilj",
+            "time": "16:00",
+            "drinkType": "Coffee",
+            "content": "cold brew",
+            "logId": "tmngmjf3lhhtyn",
+            "createdAt": "2026-04-01T22:35:20.253Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
         "naps": []
