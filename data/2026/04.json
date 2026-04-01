@@ -2,7 +2,19 @@
   "month": "2026-04",
   "entries": {
     "2026-04-01": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmngmlj699fmum",
+          "text": "Laundry",
+          "scheduledTime": "20:00",
+          "duration": "30m",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-04-01T22:36:58.833Z"
+        }
+      ],
       "log": [],
       "morningMessage": "",
       "sleep": {
@@ -16,7 +28,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-01T22:34:30.296Z",
+      "updatedAt": "2026-04-01T22:36:58.844Z",
       "vitals": {
         "meals": [],
         "drinks": [],
