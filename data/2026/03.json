@@ -4214,15 +4214,58 @@
             "mmseaubmwr4cssf41t"
           ],
           "createdAt": "2026-04-01T22:35:20.241Z"
+        },
+        {
+          "id": "tmngnek7cyncbs",
+          "text": "Dinner",
+          "startTime": "19:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-04-01T22:59:33.192Z"
+        },
+        {
+          "id": "tmngnf1oazjg1k",
+          "text": "Lunch",
+          "startTime": "13:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t"
+          ],
+          "createdAt": "2026-04-01T22:59:55.834Z"
         }
       ],
       "sleep": {
         "bedTime": "03:00",
         "wakeTime": "11:00"
       },
-      "updatedAt": "2026-04-01T22:35:24.334Z",
+      "updatedAt": "2026-04-01T23:00:26.325Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmngnek7u3c79p",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "Tapioca - Chicken wings",
+            "logId": "tmngnek7cyncbs",
+            "createdAt": "2026-04-01T22:59:33.210Z"
+          },
+          {
+            "id": "tmngnf22lvuzpl",
+            "time": "13:00",
+            "mealType": "Lunch",
+            "content": "Tapioca - Chicken steak",
+            "logId": "tmngnf1oazjg1k",
+            "createdAt": "2026-04-01T22:59:56.349Z"
+          }
+        ],
         "drinks": [
           {
             "id": "tmngmjf3xg1ilj",
@@ -4254,11 +4297,51 @@
     },
     "2026-03-31": {
       "planned": [],
-      "log": [],
-      "morningMessage": "",
+      "log": [
+        {
+          "id": "tmngnbjl5fze51",
+          "text": "Lunch",
+          "startTime": "13:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t"
+          ],
+          "createdAt": "2026-04-01T22:57:12.425Z"
+        },
+        {
+          "id": "tmngnbtae2gb7z",
+          "text": "Dinner",
+          "startTime": "19:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-04-01T22:57:24.998Z"
+        },
+        {
+          "id": "tmngncfx7g353s",
+          "text": "Snack",
+          "startTime": "21:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmsezhts5j87nc1puhe"
+          ],
+          "createdAt": "2026-04-01T22:57:54.331Z"
+        }
+      ],
+      "morningMessage": "有点累和赖床，但是需要赶paper",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "01:30",
+        "wakeTime": "09:00",
         "quality": 0,
         "notes": ""
       },
@@ -4266,15 +4349,54 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-03-31T23:41:29.363Z",
+      "nightMessage": "赶paper，累，但是最后完成度还可以",
+      "updatedAt": "2026-04-01T23:00:39.438Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmngnbjlm0av7q",
+            "time": "13:00",
+            "mealType": "Lunch",
+            "content": "cava - chicken",
+            "logId": "tmngnbjl5fze51",
+            "createdAt": "2026-04-01T22:57:12.442Z"
+          },
+          {
+            "id": "tmngnbtawbzahz",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "burger king",
+            "logId": "tmngnbtae2gb7z",
+            "createdAt": "2026-04-01T22:57:25.016Z"
+          }
+        ],
         "drinks": [],
-        "snacks": [],
+        "snacks": [
+          {
+            "id": "tmngncg46rtf71",
+            "time": "21:00",
+            "content": "Sushi",
+            "logId": "tmngncfx7g353s",
+            "createdAt": "2026-04-01T22:57:54.582Z"
+          }
+        ],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 2,
+        "mood": 3,
+        "fatigue": 2
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 4,
+        "social": 3,
+        "mood": 3,
+        "body": 3
+      },
+      "shiftReason": ""
     }
   }
 }
