@@ -50,7 +50,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-01T23:59:21.399Z",
+      "updatedAt": "2026-04-03T06:07:27.648Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -66,10 +66,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 3,
+        "social": 3,
+        "mood": 3,
+        "body": 3
       },
       "shiftReason": ""
     },
