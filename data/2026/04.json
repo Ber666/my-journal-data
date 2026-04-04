@@ -138,10 +138,10 @@
     "2026-04-03": {
       "planned": [],
       "log": [],
-      "morningMessage": "",
+      "morningMessage": "中间醒过一次，但总体而言还不错，酒店床很舒服。因为昨天吃辣肚子痛，但是好在面试之前上了厕所，还可以。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "03:00",
+        "wakeTime": "10:30",
         "quality": 0,
         "notes": ""
       },
@@ -150,14 +150,28 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-04T22:49:34.137Z",
+      "updatedAt": "2026-04-04T22:50:39.811Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 3,
+        "mood": 3,
+        "fatigue": 2
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 0,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
     }
   }
 }
