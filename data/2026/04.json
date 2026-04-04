@@ -110,6 +110,54 @@
         "body": 3
       },
       "shiftReason": ""
+    },
+    "2026-04-04": {
+      "planned": [],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-04-04T22:49:32.630Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
+    },
+    "2026-04-03": {
+      "planned": [],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-04-04T22:49:34.137Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
     }
   }
 }
