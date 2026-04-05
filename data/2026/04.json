@@ -37,7 +37,35 @@
           "createdAt": "2026-04-01T23:59:21.394Z"
         }
       ],
-      "log": [],
+      "log": [
+        {
+          "id": "tmnli8jzoqhws4",
+          "text": "Lunch",
+          "startTime": "15:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-04-05T08:33:45.780Z"
+        },
+        {
+          "id": "tmnli98qwafcx6",
+          "text": "Dinner",
+          "startTime": "19:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-04-05T08:34:17.864Z"
+        }
+      ],
       "morningMessage": "多梦，但是确实很困所以一觉睡到了十二点半。早上有点赖床，卸载了social media。",
       "sleep": {
         "bedTime": "05:15",
@@ -50,10 +78,36 @@
         "mood": 0
       },
       "nightMessage": "focus 3 做完一道题明显就耐心不够了 social 3 和junli聊的还可以 mood 4 准备面试紧张 但晚上复习coconut有了些新idea久违地觉得挺有意思 而且也找到了串起来不同工作的新逻辑 body 3 疲劳 但是除此之外都ok",
-      "updatedAt": "2026-04-03T06:38:44.984Z",
+      "updatedAt": "2026-04-05T08:34:23.524Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmnli8k040o5tf",
+            "time": "15:30",
+            "mealType": "Lunch",
+            "content": "Udon",
+            "logId": "tmnli8jzoqhws4",
+            "createdAt": "2026-04-05T08:33:45.795Z"
+          },
+          {
+            "id": "tmnli98rbux2cv",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "Panda",
+            "logId": "tmnli98qwafcx6",
+            "createdAt": "2026-04-05T08:34:17.879Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmnli8k04tbfe8",
+            "time": "15:30",
+            "drinkType": "Milktea",
+            "content": "Happy lemon - Strawberry blacktea",
+            "logId": "tmnli8jzoqhws4",
+            "createdAt": "2026-04-05T08:33:45.795Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
         "naps": []
@@ -75,7 +129,21 @@
     },
     "2026-04-02": {
       "planned": [],
-      "log": [],
+      "log": [
+        {
+          "id": "tmnli9ub9lyptq",
+          "text": "Dinner",
+          "startTime": "20:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-04-05T08:34:45.813Z"
+        }
+      ],
       "morningMessage": "非常糟糕，梦见了前女友，可能因为睡前看到了之前的聊天记录。飞去湾区面试，有点紧张的情绪和生理反应。",
       "sleep": {
         "bedTime": "03:00",
@@ -88,9 +156,18 @@
         "mood": 0
       },
       "nightMessage": "花了很多时间practice故事，和yaofeng吃了个饭，但是和新认识的人社交的时候有点紧张，应该沉稳一点，身体还可以。",
-      "updatedAt": "2026-04-03T06:41:41.377Z",
+      "updatedAt": "2026-04-05T08:54:51.535Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmnli9ubkcwmo3",
+            "time": "20:30",
+            "mealType": "Dinner",
+            "content": "Chongqing",
+            "logId": "tmnli9ub9lyptq",
+            "createdAt": "2026-04-05T08:34:45.824Z"
+          }
+        ],
         "drinks": [],
         "snacks": [],
         "exercise": [],
