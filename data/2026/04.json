@@ -114,10 +114,10 @@
     "2026-04-04": {
       "planned": [],
       "log": [],
-      "morningMessage": "",
+      "morningMessage": "因为气垫床漏气，基本上相当于躺在地板上。腰酸的不行，整宿没睡着。早上要和Mira聊。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "04:00",
+        "wakeTime": "09:45",
         "quality": 0,
         "notes": ""
       },
@@ -126,14 +126,28 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-04T22:49:32.630Z",
+      "updatedAt": "2026-04-05T07:12:09.677Z",
       "vitals": {
         "meals": [],
         "drinks": [],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 1,
+        "clarity": 2,
+        "mood": 4,
+        "fatigue": 3
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 0,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
     },
     "2026-04-03": {
       "planned": [],
