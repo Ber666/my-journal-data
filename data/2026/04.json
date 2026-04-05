@@ -149,8 +149,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-04-04T22:50:39.811Z",
+      "nightMessage": "面试发挥的很好。人生的重要时刻+1。从xAI和字节的选择中拿到了Thinking machine",
+      "updatedAt": "2026-04-05T05:43:37.021Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -166,10 +166,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 5,
+        "social": 5,
+        "mood": 5,
+        "body": 3
       },
       "shiftReason": ""
     }
