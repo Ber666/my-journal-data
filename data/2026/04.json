@@ -142,6 +142,19 @@
             "mmr55rn06icoh8thaon"
           ],
           "createdAt": "2026-04-05T08:34:45.813Z"
+        },
+        {
+          "id": "tmnmzfv0d7rmvq",
+          "text": "Lunch",
+          "startTime": "14:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t"
+          ],
+          "createdAt": "2026-04-06T09:23:06.301Z"
         }
       ],
       "morningMessage": "非常糟糕，梦见了前女友，可能因为睡前看到了之前的聊天记录。飞去湾区面试，有点紧张的情绪和生理反应。",
@@ -156,16 +169,24 @@
         "mood": 0
       },
       "nightMessage": "花了很多时间practice故事，和yaofeng吃了个饭，但是和新认识的人社交的时候有点紧张，应该沉稳一点，身体还可以。",
-      "updatedAt": "2026-04-05T08:54:51.535Z",
+      "updatedAt": "2026-04-06T09:23:12.260Z",
       "vitals": {
         "meals": [
           {
             "id": "tmnli9ubkcwmo3",
             "time": "20:30",
             "mealType": "Dinner",
-            "content": "Chongqing",
+            "content": "Henry's Human",
             "logId": "tmnli9ub9lyptq",
             "createdAt": "2026-04-05T08:34:45.824Z"
+          },
+          {
+            "id": "tmnmzfv0st9bnx",
+            "time": "14:00",
+            "mealType": "Lunch",
+            "content": "Mcdonald",
+            "logId": "tmnmzfv0d7rmvq",
+            "createdAt": "2026-04-06T09:23:06.315Z"
           }
         ],
         "drinks": [],
@@ -190,7 +211,21 @@
     },
     "2026-04-04": {
       "planned": [],
-      "log": [],
+      "log": [
+        {
+          "id": "tmnmzgvx1irios",
+          "text": "Lunch",
+          "startTime": "12:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t"
+          ],
+          "createdAt": "2026-04-06T09:23:54.133Z"
+        }
+      ],
       "morningMessage": "因为气垫床漏气，基本上相当于躺在地板上。腰酸的不行，整宿没睡着。早上要和Mira聊。",
       "sleep": {
         "bedTime": "04:00",
@@ -203,7 +238,7 @@
         "mood": 0
       },
       "nightMessage": "还是沉浸在兴奋中，上午和Mira聊了，中午听说打算发offer。晚上social的时候可能说了一些不能说的，相比于yaofeng还是不够谨慎。",
-      "updatedAt": "2026-04-06T08:04:34.063Z",
+      "updatedAt": "2026-04-06T09:23:54.143Z",
       "vitals": {
         "meals": [],
         "drinks": [],
@@ -228,7 +263,34 @@
     },
     "2026-04-03": {
       "planned": [],
-      "log": [],
+      "log": [
+        {
+          "id": "tmnmzg86woh52e",
+          "text": "Lunch",
+          "startTime": "11:45",
+          "duration": null,
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t"
+          ],
+          "createdAt": "2026-04-06T09:23:23.384Z"
+        },
+        {
+          "id": "tmnmzgfj71gak7",
+          "text": "Dinner",
+          "startTime": "19:00",
+          "duration": "15m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-04-06T09:23:32.899Z"
+        }
+      ],
       "morningMessage": "中间醒过一次，但总体而言还不错，酒店床很舒服。因为昨天吃辣肚子痛，但是好在面试之前上了厕所，还可以。",
       "sleep": {
         "bedTime": "03:00",
@@ -241,9 +303,26 @@
         "mood": 0
       },
       "nightMessage": "面试发挥的很好。人生的重要时刻+1。本来是xAI和字节的选择，突然拿到了Thinking machine，人生实在是非常random...",
-      "updatedAt": "2026-04-05T06:50:05.365Z",
+      "updatedAt": "2026-04-06T09:23:37.460Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmnmzg876fuopi",
+            "time": "11:45",
+            "mealType": "Lunch",
+            "content": "Mcdonald",
+            "logId": "tmnmzg86woh52e",
+            "createdAt": "2026-04-06T09:23:23.394Z"
+          },
+          {
+            "id": "tmnmzgfjlmwmwl",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "Ten seconds",
+            "logId": "tmnmzgfj71gak7",
+            "createdAt": "2026-04-06T09:23:32.913Z"
+          }
+        ],
         "drinks": [],
         "snacks": [],
         "exercise": [],
