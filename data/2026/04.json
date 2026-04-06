@@ -224,6 +224,19 @@
             "mmr2ojz2433y63hgj0t"
           ],
           "createdAt": "2026-04-06T09:23:54.133Z"
+        },
+        {
+          "id": "tmnmzzq5xjqbgr",
+          "text": "Dinner",
+          "startTime": "19:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-04-06T09:38:33.141Z"
         }
       ],
       "morningMessage": "因为气垫床漏气，基本上相当于躺在地板上。腰酸的不行，整宿没睡着。早上要和Mira聊。",
@@ -237,10 +250,27 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "还是沉浸在兴奋中，上午和Mira聊了，中午听说打算发offer。晚上social的时候可能说了一些不能说的，相比于yaofeng还是不够谨慎。",
-      "updatedAt": "2026-04-06T09:23:54.143Z",
+      "nightMessage": "还是沉浸在兴奋中，上午和Mira聊了，中午听说打算发offer。晚上social的时候有点激动，可能说了一些不能说的，相比于yaofeng还是不够谨慎。",
+      "updatedAt": "2026-04-06T09:38:58.467Z",
       "vitals": {
-        "meals": [],
+        "meals": [
+          {
+            "id": "tmnmzro2m4kvi9",
+            "time": "12:00",
+            "mealType": "Lunch",
+            "content": "Dumpling home",
+            "logId": "tmnmzgvx1irios",
+            "createdAt": "2026-04-06T09:32:17.181Z"
+          },
+          {
+            "id": "tmnmzzqczewe82",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "韶山印象",
+            "logId": "tmnmzzq5xjqbgr",
+            "createdAt": "2026-04-06T09:38:33.394Z"
+          }
+        ],
         "drinks": [],
         "snacks": [],
         "exercise": [],
@@ -345,11 +375,53 @@
     },
     "2026-04-05": {
       "planned": [],
-      "log": [],
-      "morningMessage": "",
+      "log": [
+        {
+          "id": "tmnn0281kjho0s",
+          "text": "Nap",
+          "startTime": "15:00",
+          "duration": "2h30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5pmfl6bnnn77zp7f"
+          ],
+          "createdAt": "2026-04-06T09:40:29.624Z"
+        },
+        {
+          "id": "tmnn06512maeuk",
+          "text": "Milktea",
+          "startTime": "12:30",
+          "duration": "15m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-04-06T09:43:32.342Z"
+        },
+        {
+          "id": "tmnn06o3m1d9xu",
+          "text": "Dinner",
+          "startTime": "20:00",
+          "duration": "2h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-04-06T09:43:57.058Z"
+        }
+      ],
+      "morningMessage": "长时间紧绷神经第一次放松的感觉，睡眠质量一般，醒了一阵而且遗精了，但是醒来之后还是感觉比之前身体舒服一些了。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "02:00",
+        "wakeTime": "11:30",
         "quality": 0,
         "notes": ""
       },
@@ -357,15 +429,71 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-04-05T07:08:46.887Z",
+      "nightMessage": "审稿审的心累。需要好好规划一下了。",
+      "updatedAt": "2026-04-06T09:55:59.049Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmnn0657sz02sn",
+            "time": "12:30",
+            "mealType": "Lunch",
+            "content": "Daeho",
+            "logId": "tmnn06512maeuk",
+            "createdAt": "2026-04-06T09:43:32.584Z"
+          },
+          {
+            "id": "tmnn06o42idt1w",
+            "time": "20:00",
+            "mealType": "Dinner",
+            "content": "Asia Village Restaurant",
+            "logId": "tmnn06o3m1d9xu",
+            "createdAt": "2026-04-06T09:43:57.073Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmnn0657so58tj",
+            "time": "12:30",
+            "drinkType": "Milktea",
+            "content": "Tong Sui",
+            "logId": "tmnn06512maeuk",
+            "createdAt": "2026-04-06T09:43:32.584Z"
+          },
+          {
+            "id": "tmnn06o4252uyr",
+            "time": "20:00",
+            "drinkType": "Milktea",
+            "content": "Molly",
+            "logId": "tmnn06o3m1d9xu",
+            "createdAt": "2026-04-06T09:43:57.073Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
-        "naps": []
-      }
+        "naps": [
+          {
+            "id": "tmnn0281xwsb5y",
+            "time": "15:00",
+            "duration": "2h30m",
+            "logId": "tmnn0281kjho0s",
+            "createdAt": "2026-04-06T09:40:29.637Z"
+          }
+        ]
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 3,
+        "mood": 5,
+        "fatigue": 4
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 2,
+        "social": 3,
+        "mood": 3,
+        "body": 3
+      },
+      "shiftReason": ""
     },
     "2026-04-06": {
       "planned": [],
