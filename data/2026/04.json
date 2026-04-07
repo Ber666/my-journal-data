@@ -640,11 +640,39 @@
     },
     "2026-04-07": {
       "planned": [],
-      "log": [],
-      "morningMessage": "",
+      "log": [
+        {
+          "id": "tmnp7m63ld5lp3",
+          "text": "Lunch",
+          "startTime": "13:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmwr4cssf41t"
+          ],
+          "createdAt": "2026-04-07T22:47:29.889Z"
+        },
+        {
+          "id": "tmnp7na1c5gtrv",
+          "text": "Milktea",
+          "startTime": "13:45",
+          "duration": "15m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-04-07T22:48:21.648Z"
+        }
+      ],
+      "morningMessage": "睡眠质量还是有问题，今天起需要早睡。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "02:00",
+        "wakeTime": "09:30",
         "quality": 0,
         "notes": ""
       },
@@ -653,14 +681,46 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-07T22:09:24.510Z",
+      "updatedAt": "2026-04-07T22:48:21.656Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmnp7m6a0afmrp",
+            "time": "13:00",
+            "mealType": "Lunch",
+            "content": "Tapioca - beef short rib",
+            "logId": "tmnp7m63ld5lp3",
+            "createdAt": "2026-04-07T22:47:30.120Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmnp7m6a0t5fye",
+            "time": "13:00",
+            "drinkType": "Coffee",
+            "content": "Birdrock - decaf latte",
+            "logId": "tmnp7m63ld5lp3",
+            "createdAt": "2026-04-07T22:47:30.120Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 2,
+        "clarity": 1,
+        "mood": 4,
+        "fatigue": 3
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 0,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
     }
   }
 }
