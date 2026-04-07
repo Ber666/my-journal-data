@@ -639,7 +639,19 @@
       "shiftReason": ""
     },
     "2026-04-07": {
-      "planned": [],
+      "planned": [
+        {
+          "id": "tmnp7ro3ztk8se",
+          "text": "CocoaBench website",
+          "scheduledTime": "16:00",
+          "duration": "1h",
+          "status": "not-started",
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-04-07T22:51:46.511Z"
+        }
+      ],
       "log": [
         {
           "id": "tmnp7m63ld5lp3",
@@ -667,6 +679,19 @@
             "mmseaubmzl347keq3bm"
           ],
           "createdAt": "2026-04-07T22:48:21.648Z"
+        },
+        {
+          "id": "tmnp7rjck17hm4",
+          "text": "Spring Evaluation",
+          "startTime": "15:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2nqmli7j3a22w8s9"
+          ],
+          "createdAt": "2026-04-07T22:51:40.340Z"
         }
       ],
       "morningMessage": "睡眠质量还是有问题，今天起需要早睡。",
@@ -681,7 +706,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-07T22:50:40.405Z",
+      "updatedAt": "2026-04-07T22:51:46.751Z",
       "vitals": {
         "meals": [
           {
