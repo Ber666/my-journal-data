@@ -681,7 +681,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-07T22:48:21.656Z",
+      "updatedAt": "2026-04-07T22:48:31.112Z",
       "vitals": {
         "meals": [
           {
@@ -701,6 +701,14 @@
             "content": "Birdrock - decaf latte",
             "logId": "tmnp7m63ld5lp3",
             "createdAt": "2026-04-07T22:47:30.120Z"
+          },
+          {
+            "id": "tmnp7nhc8rrg6x",
+            "time": "13:45",
+            "drinkType": "Milktea",
+            "content": "",
+            "logId": "tmnp7na1c5gtrv",
+            "createdAt": "2026-04-07T22:48:31.112Z"
           }
         ],
         "snacks": [],
