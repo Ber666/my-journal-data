@@ -564,8 +564,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-04-07T22:43:42.491Z",
+      "nightMessage": "在字节Office social的一天。收到了Mira发的offer。缺觉，口腔溃疡。",
+      "updatedAt": "2026-04-07T22:46:26.923Z",
       "vitals": {
         "meals": [
           {
@@ -575,6 +575,14 @@
             "content": "字节餐厅",
             "logId": "tmnp7gcojzhb7v",
             "createdAt": "2026-04-07T22:42:58.507Z"
+          },
+          {
+            "id": "tmnp7k5od78k6q",
+            "time": "18:30",
+            "mealType": "Dinner",
+            "content": "",
+            "logId": "tmnp7hag3rxc7c",
+            "createdAt": "2026-04-07T22:45:56.028Z"
           }
         ],
         "drinks": [
@@ -593,6 +601,14 @@
             "content": "Ito En Green Tea",
             "logId": "tmnp7gueaznwie",
             "createdAt": "2026-04-07T22:43:21.456Z"
+          },
+          {
+            "id": "tmnp7k5odxb7uc",
+            "time": "18:30",
+            "drinkType": "Coffee",
+            "content": "",
+            "logId": "tmnp7hag3rxc7c",
+            "createdAt": "2026-04-07T22:45:56.028Z"
           }
         ],
         "snacks": [],
@@ -615,10 +631,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 2,
+        "social": 4,
+        "mood": 4,
+        "body": 3
       },
       "shiftReason": ""
     },
