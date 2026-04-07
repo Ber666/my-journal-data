@@ -681,7 +681,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-07T22:48:31.112Z",
+      "updatedAt": "2026-04-07T22:50:40.405Z",
       "vitals": {
         "meals": [
           {
@@ -706,7 +706,7 @@
             "id": "tmnp7nhc8rrg6x",
             "time": "13:45",
             "drinkType": "Milktea",
-            "content": "",
+            "content": "Tapioca - Lemon black tea",
             "logId": "tmnp7na1c5gtrv",
             "createdAt": "2026-04-07T22:48:31.112Z"
           }
