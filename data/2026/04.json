@@ -754,6 +754,30 @@
         "body": 0
       },
       "shiftReason": ""
+    },
+    "2026-04-08": {
+      "planned": [],
+      "log": [],
+      "morningMessage": "",
+      "sleep": {
+        "bedTime": "",
+        "wakeTime": "",
+        "quality": 0,
+        "notes": ""
+      },
+      "energy": 0,
+      "mental": {
+        "mood": 0
+      },
+      "nightMessage": "",
+      "updatedAt": "2026-04-08T20:35:11.249Z",
+      "vitals": {
+        "meals": [],
+        "drinks": [],
+        "snacks": [],
+        "exercise": [],
+        "naps": []
+      }
     }
   }
 }
