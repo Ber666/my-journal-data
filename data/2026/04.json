@@ -692,6 +692,19 @@
             "mmr2nqmli7j3a22w8s9"
           ],
           "createdAt": "2026-04-07T22:51:40.340Z"
+        },
+        {
+          "id": "tmnqicf35f8e0i",
+          "text": "Gym",
+          "startTime": "18:00",
+          "duration": "30m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2p1h2kn9fz2rdc6a"
+          ],
+          "createdAt": "2026-04-08T20:35:36.929Z"
         }
       ],
       "morningMessage": "睡眠质量还是有问题，今天起需要早睡。",
@@ -706,7 +719,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-07T22:51:46.751Z",
+      "updatedAt": "2026-04-08T20:35:50.938Z",
       "vitals": {
         "meals": [
           {
@@ -737,7 +750,17 @@
           }
         ],
         "snacks": [],
-        "exercise": [],
+        "exercise": [
+          {
+            "id": "tmnqicf3jiyhre",
+            "time": "18:00",
+            "type": "Gym",
+            "duration": "30m",
+            "notes": "胸，肩，三头",
+            "logId": "tmnqicf35f8e0i",
+            "createdAt": "2026-04-08T20:35:36.943Z"
+          }
+        ],
         "naps": []
       },
       "morning": {
@@ -748,10 +771,10 @@
       },
       "dayNotes": "",
       "night": {
-        "focus": 0,
-        "social": 0,
-        "mood": 0,
-        "body": 0
+        "focus": 2,
+        "social": 4,
+        "mood": 4,
+        "body": 3
       },
       "shiftReason": ""
     },
