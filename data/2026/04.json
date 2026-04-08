@@ -801,11 +801,37 @@
     },
     "2026-04-08": {
       "planned": [],
-      "log": [],
-      "morningMessage": "",
+      "log": [
+        {
+          "id": "tmnqnewkgl6j2f",
+          "text": "Lunch",
+          "startTime": "12:00",
+          "duration": "45m",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr2ojz2433y63hgj0t",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-04-08T22:57:30.976Z"
+        },
+        {
+          "id": "tmnqngrvch8e0m",
+          "text": "Discussion with Zhoujun",
+          "startTime": "13:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [],
+          "createdAt": "2026-04-08T22:58:58.200Z"
+        }
+      ],
+      "morningMessage": "比闹钟提前醒了，不过似乎中间没醒来过。还是很累，想玩手机，身体不太舒服，脖子上淋巴结肿了，口腔溃疡疼的比较厉害。",
       "sleep": {
-        "bedTime": "",
-        "wakeTime": "",
+        "bedTime": "02:30",
+        "wakeTime": "09:45",
         "quality": 0,
         "notes": ""
       },
@@ -814,14 +840,46 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-08T20:35:11.249Z",
+      "updatedAt": "2026-04-08T22:58:58.435Z",
       "vitals": {
-        "meals": [],
-        "drinks": [],
+        "meals": [
+          {
+            "id": "tmnqnewkswywy1",
+            "time": "12:00",
+            "mealType": "Lunch",
+            "content": "Pad See + Mango sticky rice",
+            "logId": "tmnqnewkgl6j2f",
+            "createdAt": "2026-04-08T22:57:30.988Z"
+          }
+        ],
+        "drinks": [
+          {
+            "id": "tmnqnewksr8nu1",
+            "time": "12:00",
+            "drinkType": "Milktea",
+            "content": "Soy Milk",
+            "logId": "tmnqnewkgl6j2f",
+            "createdAt": "2026-04-08T22:57:30.988Z"
+          }
+        ],
         "snacks": [],
         "exercise": [],
         "naps": []
-      }
+      },
+      "morning": {
+        "quality": 3,
+        "clarity": 2,
+        "mood": 4,
+        "fatigue": 2
+      },
+      "dayNotes": "",
+      "night": {
+        "focus": 2,
+        "social": 0,
+        "mood": 0,
+        "body": 0
+      },
+      "shiftReason": ""
     }
   }
 }
