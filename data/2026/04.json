@@ -705,6 +705,19 @@
             "mmr2p1h2kn9fz2rdc6a"
           ],
           "createdAt": "2026-04-08T20:35:36.929Z"
+        },
+        {
+          "id": "tmnqmsjnvdu5gb",
+          "text": "Dinner",
+          "startTime": "19:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon"
+          ],
+          "createdAt": "2026-04-08T22:40:07.819Z"
         }
       ],
       "morningMessage": "睡眠质量还是有问题，今天起需要早睡。",
@@ -718,8 +731,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-04-08T20:35:50.938Z",
+      "nightMessage": "晚上有一阵子特别困，但是晚上收到了offer ",
+      "updatedAt": "2026-04-08T22:40:30.964Z",
       "vitals": {
         "meals": [
           {
@@ -729,6 +742,14 @@
             "content": "Tapioca - beef short rib",
             "logId": "tmnp7m63ld5lp3",
             "createdAt": "2026-04-07T22:47:30.120Z"
+          },
+          {
+            "id": "tmnqmsjv96njb6",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "Panda",
+            "logId": "tmnqmsjnvdu5gb",
+            "createdAt": "2026-04-08T22:40:08.085Z"
           }
         ],
         "drinks": [
