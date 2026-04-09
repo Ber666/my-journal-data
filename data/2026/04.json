@@ -826,6 +826,46 @@
           "projectIds": [],
           "tagIds": [],
           "createdAt": "2026-04-08T22:58:58.200Z"
+        },
+        {
+          "id": "tmnr3bzpq5701o",
+          "text": "Running",
+          "startTime": "10:30",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5pbaudf0cmxc9w5n"
+          ],
+          "createdAt": "2026-04-09T06:23:08.943Z"
+        },
+        {
+          "id": "tmnr3c97t63fs6",
+          "text": "Nap",
+          "startTime": "18:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr5pmfl6bnnn77zp7f"
+          ],
+          "createdAt": "2026-04-09T06:23:21.257Z"
+        },
+        {
+          "id": "tmnr3cez7o75ep",
+          "text": "Dinner",
+          "startTime": "19:00",
+          "duration": "1h",
+          "plannedIds": [],
+          "notes": "",
+          "projectIds": [],
+          "tagIds": [
+            "mmr55rn06icoh8thaon",
+            "mmseaubmzl347keq3bm"
+          ],
+          "createdAt": "2026-04-09T06:23:28.723Z"
         }
       ],
       "morningMessage": "比闹钟提前醒了，不过似乎中间没醒来过。还是很累，想玩手机，身体不太舒服，脖子上淋巴结肿了，口腔溃疡疼的比较厉害。",
@@ -840,7 +880,7 @@
         "mood": 0
       },
       "nightMessage": "",
-      "updatedAt": "2026-04-08T22:58:58.435Z",
+      "updatedAt": "2026-04-09T06:24:13.972Z",
       "vitals": {
         "meals": [
           {
@@ -850,6 +890,14 @@
             "content": "Pad See + Mango sticky rice",
             "logId": "tmnqnewkgl6j2f",
             "createdAt": "2026-04-08T22:57:30.988Z"
+          },
+          {
+            "id": "tmnr3cezree47x",
+            "time": "19:00",
+            "mealType": "Dinner",
+            "content": "Tapioca - Fried egg roll + ",
+            "logId": "tmnr3cez7o75ep",
+            "createdAt": "2026-04-09T06:23:28.743Z"
           }
         ],
         "drinks": [
@@ -860,11 +908,37 @@
             "content": "Soy Milk",
             "logId": "tmnqnewkgl6j2f",
             "createdAt": "2026-04-08T22:57:30.988Z"
+          },
+          {
+            "id": "tmnr3csq4b1pt8",
+            "time": "19:00",
+            "drinkType": "Milktea",
+            "content": "",
+            "logId": "tmnr3cez7o75ep",
+            "createdAt": "2026-04-09T06:23:46.539Z"
           }
         ],
         "snacks": [],
-        "exercise": [],
-        "naps": []
+        "exercise": [
+          {
+            "id": "tmnr3bzy9cxeqv",
+            "time": "10:30",
+            "type": "Running",
+            "duration": "1h",
+            "notes": "",
+            "logId": "tmnr3bzpq5701o",
+            "createdAt": "2026-04-09T06:23:09.249Z"
+          }
+        ],
+        "naps": [
+          {
+            "id": "tmnr3c985binb0",
+            "time": "18:00",
+            "duration": "1h",
+            "logId": "tmnr3c97t63fs6",
+            "createdAt": "2026-04-09T06:23:21.269Z"
+          }
+        ]
       },
       "morning": {
         "quality": 3,
