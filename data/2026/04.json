@@ -879,8 +879,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "yao su",
-      "updatedAt": "2026-04-09T07:06:21.746Z",
+      "nightMessage": "腰酸，舌头痛，没精力。做事不够多。",
+      "updatedAt": "2026-04-09T07:06:41.000Z",
       "vitals": {
         "meals": [
           {
@@ -949,8 +949,8 @@
       "dayNotes": "",
       "night": {
         "focus": 2,
-        "social": 0,
-        "mood": 0,
+        "social": 2,
+        "mood": 3,
         "body": 2
       },
       "shiftReason": ""
