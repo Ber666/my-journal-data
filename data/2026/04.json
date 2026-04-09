@@ -879,8 +879,8 @@
       "mental": {
         "mood": 0
       },
-      "nightMessage": "",
-      "updatedAt": "2026-04-09T06:24:13.972Z",
+      "nightMessage": "yao su",
+      "updatedAt": "2026-04-09T07:06:21.746Z",
       "vitals": {
         "meals": [
           {
@@ -895,7 +895,7 @@
             "id": "tmnr3cezree47x",
             "time": "19:00",
             "mealType": "Dinner",
-            "content": "Tapioca - Fried egg roll + ",
+            "content": "Tapioca - Fried egg roll",
             "logId": "tmnr3cez7o75ep",
             "createdAt": "2026-04-09T06:23:28.743Z"
           }
@@ -913,7 +913,7 @@
             "id": "tmnr3csq4b1pt8",
             "time": "19:00",
             "drinkType": "Milktea",
-            "content": "",
+            "content": "Lemon black tea",
             "logId": "tmnr3cez7o75ep",
             "createdAt": "2026-04-09T06:23:46.539Z"
           }
@@ -951,7 +951,7 @@
         "focus": 2,
         "social": 0,
         "mood": 0,
-        "body": 0
+        "body": 2
       },
       "shiftReason": ""
     }
